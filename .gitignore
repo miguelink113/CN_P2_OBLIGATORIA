@@ -20,3 +20,5 @@ firehose.zip
 # OS / editor
 .DS_Store
 .vscode/
+scripts/script.ps1
+Practica 2.pdf

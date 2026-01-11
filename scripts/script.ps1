@@ -26,7 +26,7 @@ aws s3api put-object --bucket $env:BUCKET_NAME --key scripts/
 aws s3api put-object --bucket $env:BUCKET_NAME --key errors/
 
 Write-Host "Creating Kinesis Data Stream..."
-aws kinesis create-stream --stream-name player-bvb-ranking-points-stream --shard-count 1
+aws kinesis create-stream --stream-name player-points-stream --shard-count 1
 
 # 3. LAMBDA TRANSFORMATION (Kinesis Firehose Processor)
 # Note: Ensure 'firehose.py' exists in your current directory

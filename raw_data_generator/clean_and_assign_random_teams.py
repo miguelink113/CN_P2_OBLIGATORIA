@@ -1,5 +1,6 @@
 import json
 import hashlib
+import os
 
 TEAMS = [
     "Servigroup Poniente Benidorm",
@@ -14,8 +15,14 @@ TEAMS = [
     "CV Las Rozas",
 ]
 
-INPUT_FILE = "ranking_nacional_voleyplaya.json"
-OUTPUT_FILE = "ranking_nacional_voleyplaya_con_equipos_random.json"
+INPUT_FILE = os.environ.get(
+    'INPUT_FILE',
+    'src/data/ranking_nacional_voleyplaya.json'
+)
+OUTPUT_FILE = os.environ.get(
+    'OUTPUT_FILE',
+    'src/data/ranking_nacional_voleyplaya_con_equipos_random.json'
+)
 
 
 def assign_team_deterministic(id_persona: str) -> str:
@@ -29,8 +36,27 @@ def assign_team_deterministic(id_persona: str) -> str:
 
 def main():
     # Cargar jugadores
-    with open(INPUT_FILE, "r", encoding="utf-8") as f:
-        jugadores = json.load(f)
+    # Si no existe el INPUT_FILE, intentar rutas comunes
+    fallback_paths = [
+        INPUT_FILE,
+        'src/data/ranking_nacional_voleyplaya_rfevb.json',
+        'src/data/ranking_nacional_voleyplaya.json',
+        'ranking_nacional_voleyplaya.json',
+    ]
+
+    jugadores = None
+    for p in fallback_paths:
+        if p and os.path.exists(p):
+            with open(p, 'r', encoding='utf-8') as f:
+                jugadores = json.load(f)
+            print(f"Loaded input file: {p}")
+            break
+
+    if jugadores is None:
+        print("Error: No se encontró el fichero de entrada. Buscado:")
+        for p in fallback_paths:
+            print(f" - {p}")
+        return
 
     jugadores_modificados = []
 

@@ -1,13 +1,13 @@
 [
     {
-        "IdPersona": "312721",
-        "ApellidosNombre": "SAUCEDO AMODEO, ANTONIO MANUEL",
+        "IdPersona": "392510",
+        "ApellidosNombre": "VIERA IGLESIAS, ALVARO",
         "Puntos": "21,922",
         "PuntosSinFormato": "21922.00"
     },
     {
-        "IdPersona": "392510",
-        "ApellidosNombre": "VIERA IGLESIAS, ALVARO",
+        "IdPersona": "312721",
+        "ApellidosNombre": "SAUCEDO AMODEO, ANTONIO MANUEL",
         "Puntos": "21,922",
         "PuntosSinFormato": "21922.00"
     },
@@ -426,14 +426,14 @@
         "PuntosSinFormato": "1792.00"
     },
     {
-        "IdPersona": "348778",
-        "ApellidosNombre": "DUQUE GRIJALVO, FRANCISCO JAVIER",
+        "IdPersona": "325869",
+        "ApellidosNombre": "GALLARDO HERNANDEZ, RODRIGO",
         "Puntos": "1,784",
         "PuntosSinFormato": "1784.00"
     },
     {
-        "IdPersona": "325869",
-        "ApellidosNombre": "GALLARDO HERNANDEZ, RODRIGO",
+        "IdPersona": "348778",
+        "ApellidosNombre": "DUQUE GRIJALVO, FRANCISCO JAVIER",
         "Puntos": "1,784",
         "PuntosSinFormato": "1784.00"
     },
@@ -576,6 +576,12 @@
         "PuntosSinFormato": "1244.00"
     },
     {
+        "IdPersona": "264963",
+        "ApellidosNombre": "RENDON PEIRÓ, ALDO",
+        "Puntos": "1,240",
+        "PuntosSinFormato": "1240.00"
+    },
+    {
         "IdPersona": "346008",
         "ApellidosNombre": "DODERO RODRIGUEZ, ANTONIO",
         "Puntos": "1,240",
@@ -584,12 +590,6 @@
     {
         "IdPersona": "364576",
         "ApellidosNombre": "VASQUEZ AGUILAR, FELIX ARTURO",
-        "Puntos": "1,240",
-        "PuntosSinFormato": "1240.00"
-    },
-    {
-        "IdPersona": "264963",
-        "ApellidosNombre": "RENDON PEIRÓ, ALDO",
         "Puntos": "1,240",
         "PuntosSinFormato": "1240.00"
     },
@@ -654,14 +654,14 @@
         "PuntosSinFormato": "1050.00"
     },
     {
-        "IdPersona": "432944",
-        "ApellidosNombre": "CLAVERO OLAIZOLA, XABIER",
+        "IdPersona": "326567",
+        "ApellidosNombre": "PEREZ GOMEZ, ADRIAN",
         "Puntos": "1,048",
         "PuntosSinFormato": "1048.00"
     },
     {
-        "IdPersona": "326567",
-        "ApellidosNombre": "PEREZ GOMEZ, ADRIAN",
+        "IdPersona": "432944",
+        "ApellidosNombre": "CLAVERO OLAIZOLA, XABIER",
         "Puntos": "1,048",
         "PuntosSinFormato": "1048.00"
     },
@@ -744,12 +744,6 @@
         "PuntosSinFormato": "903.00"
     },
     {
-        "IdPersona": "303765",
-        "ApellidosNombre": "QUEIRO CASTRO, MANUEL",
-        "Puntos": "900",
-        "PuntosSinFormato": "900.00"
-    },
-    {
         "IdPersona": "1324491",
         "ApellidosNombre": "SENGERS -, MEES",
         "Puntos": "900",
@@ -758,6 +752,12 @@
     {
         "IdPersona": "427996",
         "ApellidosNombre": "GONZALEZ ESPÓSITO, GONZALO",
+        "Puntos": "900",
+        "PuntosSinFormato": "900.00"
+    },
+    {
+        "IdPersona": "303765",
+        "ApellidosNombre": "QUEIRO CASTRO, MANUEL",
         "Puntos": "900",
         "PuntosSinFormato": "900.00"
     },
@@ -786,6 +786,12 @@
         "PuntosSinFormato": "879.00"
     },
     {
+        "IdPersona": "313413",
+        "ApellidosNombre": "VIVES PARRALO, PAU",
+        "Puntos": "872",
+        "PuntosSinFormato": "872.00"
+    },
+    {
         "IdPersona": "399826",
         "ApellidosNombre": "TORRELLAS STORM VAN LEEUWEN, THIBAULT RENAUD",
         "Puntos": "872",
@@ -794,12 +800,6 @@
     {
         "IdPersona": "471633",
         "ApellidosNombre": "TAGLIAFERRO GARCIA, NAHUEL",
-        "Puntos": "872",
-        "PuntosSinFormato": "872.00"
-    },
-    {
-        "IdPersona": "313413",
-        "ApellidosNombre": "VIVES PARRALO, PAU",
         "Puntos": "872",
         "PuntosSinFormato": "872.00"
     },
@@ -894,14 +894,14 @@
         "PuntosSinFormato": "778.00"
     },
     {
-        "IdPersona": "376971",
-        "ApellidosNombre": "TRUYOLS GALMES, ANTONI",
+        "IdPersona": "380286",
+        "ApellidosNombre": "CROZIER LOPEZ, ELIJAH DAVID",
         "Puntos": "776",
         "PuntosSinFormato": "776.00"
     },
     {
-        "IdPersona": "380286",
-        "ApellidosNombre": "CROZIER LOPEZ, ELIJAH DAVID",
+        "IdPersona": "376971",
+        "ApellidosNombre": "TRUYOLS GALMES, ANTONI",
         "Puntos": "776",
         "PuntosSinFormato": "776.00"
     },
@@ -1002,6 +1002,12 @@
         "PuntosSinFormato": "662.00"
     },
     {
+        "IdPersona": "412938",
+        "ApellidosNombre": "PLATRE -, TIMOTHEE PIERRE",
+        "Puntos": "660",
+        "PuntosSinFormato": "660.00"
+    },
+    {
         "IdPersona": "1334577",
         "ApellidosNombre": "KOZII -, DMYTRO",
         "Puntos": "660",
@@ -1016,12 +1022,6 @@
     {
         "IdPersona": "1334576",
         "ApellidosNombre": "NAHORNYI -, SVIATOSLAV",
-        "Puntos": "660",
-        "PuntosSinFormato": "660.00"
-    },
-    {
-        "IdPersona": "412938",
-        "ApellidosNombre": "PLATRE -, TIMOTHEE PIERRE",
         "Puntos": "660",
         "PuntosSinFormato": "660.00"
     },
@@ -1092,14 +1092,14 @@
         "PuntosSinFormato": "552.00"
     },
     {
-        "IdPersona": "406008",
-        "ApellidosNombre": "CASTILLO RIPOL, VERNON",
+        "IdPersona": "321605",
+        "ApellidosNombre": "MORO FERNANDEZ, EDUARDO",
         "Puntos": "548",
         "PuntosSinFormato": "548.00"
     },
     {
-        "IdPersona": "321605",
-        "ApellidosNombre": "MORO FERNANDEZ, EDUARDO",
+        "IdPersona": "406008",
+        "ApellidosNombre": "CASTILLO RIPOL, VERNON",
         "Puntos": "548",
         "PuntosSinFormato": "548.00"
     },
@@ -1110,18 +1110,6 @@
         "PuntosSinFormato": "536.00"
     },
     {
-        "IdPersona": "1334442",
-        "ApellidosNombre": "HIERONIMUS -, WOUTER",
-        "Puntos": "528",
-        "PuntosSinFormato": "528.00"
-    },
-    {
-        "IdPersona": "597986",
-        "ApellidosNombre": "MARTINEZ VALDIVIESO, DANIEL",
-        "Puntos": "528",
-        "PuntosSinFormato": "528.00"
-    },
-    {
         "IdPersona": "371281",
         "ApellidosNombre": "GUERRERO OJEDA, MIGUEL",
         "Puntos": "528",
@@ -1130,6 +1118,18 @@
     {
         "IdPersona": "374350",
         "ApellidosNombre": "VAZQUEZ CALLE, MARIO",
+        "Puntos": "528",
+        "PuntosSinFormato": "528.00"
+    },
+    {
+        "IdPersona": "1334442",
+        "ApellidosNombre": "HIERONIMUS -, WOUTER",
+        "Puntos": "528",
+        "PuntosSinFormato": "528.00"
+    },
+    {
+        "IdPersona": "597986",
+        "ApellidosNombre": "MARTINEZ VALDIVIESO, DANIEL",
         "Puntos": "528",
         "PuntosSinFormato": "528.00"
     },
@@ -1152,6 +1152,12 @@
         "PuntosSinFormato": "512.00"
     },
     {
+        "IdPersona": "340442",
+        "ApellidosNombre": "DOMINE QUIJADA, SERGIO",
+        "Puntos": "504",
+        "PuntosSinFormato": "504.00"
+    },
+    {
         "IdPersona": "431056",
         "ApellidosNombre": "MARTINEZ RUIZ, ANGEL",
         "Puntos": "504",
@@ -1164,16 +1170,16 @@
         "PuntosSinFormato": "504.00"
     },
     {
-        "IdPersona": "340442",
-        "ApellidosNombre": "DOMINE QUIJADA, SERGIO",
-        "Puntos": "504",
-        "PuntosSinFormato": "504.00"
-    },
-    {
         "IdPersona": "367336",
         "ApellidosNombre": "DE SENA NASCIMENTO, ANTONIO MARIO",
         "Puntos": "472",
         "PuntosSinFormato": "472.00"
+    },
+    {
+        "IdPersona": "454892",
+        "ApellidosNombre": "GUANTES VAZQUEZ, JOSE LUIS",
+        "Puntos": "468",
+        "PuntosSinFormato": "468.00"
     },
     {
         "IdPersona": "427645",
@@ -1184,12 +1190,6 @@
     {
         "IdPersona": "409892",
         "ApellidosNombre": "CACHEDA BERNAL, MARIO FRANCISCO",
-        "Puntos": "468",
-        "PuntosSinFormato": "468.00"
-    },
-    {
-        "IdPersona": "454892",
-        "ApellidosNombre": "GUANTES VAZQUEZ, JOSE LUIS",
         "Puntos": "468",
         "PuntosSinFormato": "468.00"
     },
@@ -1272,6 +1272,12 @@
         "PuntosSinFormato": "406.00"
     },
     {
+        "IdPersona": "421258",
+        "ApellidosNombre": "SOSA AREVALO, ADRIAN",
+        "Puntos": "400",
+        "PuntosSinFormato": "400.00"
+    },
+    {
         "IdPersona": "340511",
         "ApellidosNombre": "YAGUE DOMINGUEZ, FCO. JAVIER",
         "Puntos": "400",
@@ -1286,12 +1292,6 @@
     {
         "IdPersona": "391513",
         "ApellidosNombre": "RODRIGUEZ ORTIZ, MIGUEL",
-        "Puntos": "400",
-        "PuntosSinFormato": "400.00"
-    },
-    {
-        "IdPersona": "421258",
-        "ApellidosNombre": "SOSA AREVALO, ADRIAN",
         "Puntos": "400",
         "PuntosSinFormato": "400.00"
     },
@@ -1332,12 +1332,6 @@
         "PuntosSinFormato": "378.00"
     },
     {
-        "IdPersona": "1311570",
-        "ApellidosNombre": "LEON -, JOEL ANDRES",
-        "Puntos": "376",
-        "PuntosSinFormato": "376.00"
-    },
-    {
         "IdPersona": "312107",
         "ApellidosNombre": "ALGAR SALAMANCA, EMILIO",
         "Puntos": "376",
@@ -1352,6 +1346,12 @@
     {
         "IdPersona": "893135",
         "ApellidosNombre": "TORRES MINA, JOSE FELIPE",
+        "Puntos": "376",
+        "PuntosSinFormato": "376.00"
+    },
+    {
+        "IdPersona": "1311570",
+        "ApellidosNombre": "LEON -, JOEL ANDRES",
         "Puntos": "376",
         "PuntosSinFormato": "376.00"
     },
@@ -1392,28 +1392,16 @@
         "PuntosSinFormato": "349.20"
     },
     {
-        "IdPersona": "370651",
-        "ApellidosNombre": "CASTRO ANTUÑA, LUCAS",
-        "Puntos": "346",
-        "PuntosSinFormato": "346.00"
-    },
-    {
         "IdPersona": "370746",
         "ApellidosNombre": "ARGUELLES RIVERA, MARCOS",
         "Puntos": "346",
         "PuntosSinFormato": "346.00"
     },
     {
-        "IdPersona": "435691",
-        "ApellidosNombre": "SOMOZA ATANES, XAN",
-        "Puntos": "344",
-        "PuntosSinFormato": "344.00"
-    },
-    {
-        "IdPersona": "1325247",
-        "ApellidosNombre": "CUBERTORER SEGARRA, MANEL",
-        "Puntos": "344",
-        "PuntosSinFormato": "344.00"
+        "IdPersona": "370651",
+        "ApellidosNombre": "CASTRO ANTUÑA, LUCAS",
+        "Puntos": "346",
+        "PuntosSinFormato": "346.00"
     },
     {
         "IdPersona": "1205444",
@@ -1424,6 +1412,18 @@
     {
         "IdPersona": "434150",
         "ApellidosNombre": "HERNANDEZ GIL, ROLANDO HENRIQUE",
+        "Puntos": "344",
+        "PuntosSinFormato": "344.00"
+    },
+    {
+        "IdPersona": "435691",
+        "ApellidosNombre": "SOMOZA ATANES, XAN",
+        "Puntos": "344",
+        "PuntosSinFormato": "344.00"
+    },
+    {
+        "IdPersona": "1325247",
+        "ApellidosNombre": "CUBERTORER SEGARRA, MANEL",
         "Puntos": "344",
         "PuntosSinFormato": "344.00"
     },
@@ -1458,18 +1458,6 @@
         "PuntosSinFormato": "322.00"
     },
     {
-        "IdPersona": "430407",
-        "ApellidosNombre": "NOGUE GOMEZ, JAN",
-        "Puntos": "320",
-        "PuntosSinFormato": "320.00"
-    },
-    {
-        "IdPersona": "413836",
-        "ApellidosNombre": "FERNANDEZ DOMURO, MOISES",
-        "Puntos": "320",
-        "PuntosSinFormato": "320.00"
-    },
-    {
         "IdPersona": "414329",
         "ApellidosNombre": "GROSSI DE SOUZA SANTOS, ANDERSON",
         "Puntos": "320",
@@ -1478,6 +1466,18 @@
     {
         "IdPersona": "369870",
         "ApellidosNombre": "ROSA RUIZ, PAUL",
+        "Puntos": "320",
+        "PuntosSinFormato": "320.00"
+    },
+    {
+        "IdPersona": "430407",
+        "ApellidosNombre": "NOGUE GOMEZ, JAN",
+        "Puntos": "320",
+        "PuntosSinFormato": "320.00"
+    },
+    {
+        "IdPersona": "413836",
+        "ApellidosNombre": "FERNANDEZ DOMURO, MOISES",
         "Puntos": "320",
         "PuntosSinFormato": "320.00"
     },
@@ -1500,6 +1500,12 @@
         "PuntosSinFormato": "312.00"
     },
     {
+        "IdPersona": "431196",
+        "ApellidosNombre": "SCOTTO SEDEÑO, CARLOS",
+        "Puntos": "308",
+        "PuntosSinFormato": "308.00"
+    },
+    {
         "IdPersona": "408234",
         "ApellidosNombre": "SUAREZ FERNANDEZ, ALEIX",
         "Puntos": "308",
@@ -1508,12 +1514,6 @@
     {
         "IdPersona": "389812",
         "ApellidosNombre": "CABRER GALLEGO, GUILLEM",
-        "Puntos": "308",
-        "PuntosSinFormato": "308.00"
-    },
-    {
-        "IdPersona": "431196",
-        "ApellidosNombre": "SCOTTO SEDEÑO, CARLOS",
         "Puntos": "308",
         "PuntosSinFormato": "308.00"
     },
@@ -1548,6 +1548,18 @@
         "PuntosSinFormato": "292.00"
     },
     {
+        "IdPersona": "584051",
+        "ApellidosNombre": "FIEDLER -, FLORIAN",
+        "Puntos": "288",
+        "PuntosSinFormato": "288.00"
+    },
+    {
+        "IdPersona": "288071",
+        "ApellidosNombre": "OJEDA OLIVER, DANIEL",
+        "Puntos": "288",
+        "PuntosSinFormato": "288.00"
+    },
+    {
         "IdPersona": "250955",
         "ApellidosNombre": "ASTILLEROS FERNANDEZ, MIGUEL",
         "Puntos": "288",
@@ -1568,18 +1580,6 @@
     {
         "IdPersona": "307942",
         "ApellidosNombre": "MASIA PORREs, ARNAU",
-        "Puntos": "288",
-        "PuntosSinFormato": "288.00"
-    },
-    {
-        "IdPersona": "584051",
-        "ApellidosNombre": "FIEDLER -, FLORIAN",
-        "Puntos": "288",
-        "PuntosSinFormato": "288.00"
-    },
-    {
-        "IdPersona": "288071",
-        "ApellidosNombre": "OJEDA OLIVER, DANIEL",
         "Puntos": "288",
         "PuntosSinFormato": "288.00"
     },
@@ -1680,6 +1680,12 @@
         "PuntosSinFormato": "262.00"
     },
     {
+        "IdPersona": "428295",
+        "ApellidosNombre": "NEGRINI -, NICOLA",
+        "Puntos": "256",
+        "PuntosSinFormato": "256.00"
+    },
+    {
         "IdPersona": "279781",
         "ApellidosNombre": "FERNANDEZ PEREIRA, CARLOS",
         "Puntos": "256",
@@ -1692,26 +1698,20 @@
         "PuntosSinFormato": "256.00"
     },
     {
-        "IdPersona": "428295",
-        "ApellidosNombre": "NEGRINI -, NICOLA",
-        "Puntos": "256",
-        "PuntosSinFormato": "256.00"
-    },
-    {
         "IdPersona": "390948",
         "ApellidosNombre": "MARTIN GARCIA, DAVID",
         "Puntos": "254",
         "PuntosSinFormato": "254.00"
     },
     {
-        "IdPersona": "402813",
-        "ApellidosNombre": "MENENDEZ SANCHEZ, DANIEL",
+        "IdPersona": "402812",
+        "ApellidosNombre": "MENENDEZ SANCHEZ, NICOLAS",
         "Puntos": "252",
         "PuntosSinFormato": "252.00"
     },
     {
-        "IdPersona": "402812",
-        "ApellidosNombre": "MENENDEZ SANCHEZ, NICOLAS",
+        "IdPersona": "402813",
+        "ApellidosNombre": "MENENDEZ SANCHEZ, DANIEL",
         "Puntos": "252",
         "PuntosSinFormato": "252.00"
     },
@@ -1726,6 +1726,18 @@
         "ApellidosNombre": "HORMIGO GARCÍA, HAROLD",
         "Puntos": "244",
         "PuntosSinFormato": "244.00"
+    },
+    {
+        "IdPersona": "431270",
+        "ApellidosNombre": "GONZALEZ UBIERA, JOSE",
+        "Puntos": "240",
+        "PuntosSinFormato": "240.00"
+    },
+    {
+        "IdPersona": "348480",
+        "ApellidosNombre": "MACARRO TORTAJADA, DANIEL",
+        "Puntos": "240",
+        "PuntosSinFormato": "240.00"
     },
     {
         "IdPersona": "340196",
@@ -1752,22 +1764,16 @@
         "PuntosSinFormato": "240.00"
     },
     {
-        "IdPersona": "431270",
-        "ApellidosNombre": "GONZALEZ UBIERA, JOSE",
-        "Puntos": "240",
-        "PuntosSinFormato": "240.00"
-    },
-    {
-        "IdPersona": "348480",
-        "ApellidosNombre": "MACARRO TORTAJADA, DANIEL",
-        "Puntos": "240",
-        "PuntosSinFormato": "240.00"
-    },
-    {
         "IdPersona": "440073",
         "ApellidosNombre": "DEU CARRERAS, XENIUS",
         "Puntos": "238",
         "PuntosSinFormato": "238.00"
+    },
+    {
+        "IdPersona": "280626",
+        "ApellidosNombre": "RODRIGUEZ FERNANDEZ-ARROYO, EDUARDO",
+        "Puntos": "232",
+        "PuntosSinFormato": "232.00"
     },
     {
         "IdPersona": "249231",
@@ -1788,12 +1794,6 @@
         "PuntosSinFormato": "232.00"
     },
     {
-        "IdPersona": "280626",
-        "ApellidosNombre": "RODRIGUEZ FERNANDEZ-ARROYO, EDUARDO",
-        "Puntos": "232",
-        "PuntosSinFormato": "232.00"
-    },
-    {
         "IdPersona": "461422",
         "ApellidosNombre": "RUSSO -, LEONARDO",
         "Puntos": "231",
@@ -1806,16 +1806,22 @@
         "PuntosSinFormato": "230.00"
     },
     {
+        "IdPersona": "373990",
+        "ApellidosNombre": "MORACHO FERNANDEZ, ADRIAN",
+        "Puntos": "228",
+        "PuntosSinFormato": "228.00"
+    },
+    {
         "IdPersona": "1313330",
         "ApellidosNombre": "DE JESUS ISTURIZ ALVAREZ, JORGE ALEJANDRO",
         "Puntos": "228",
         "PuntosSinFormato": "228.00"
     },
     {
-        "IdPersona": "373990",
-        "ApellidosNombre": "MORACHO FERNANDEZ, ADRIAN",
-        "Puntos": "228",
-        "PuntosSinFormato": "228.00"
+        "IdPersona": "441017",
+        "ApellidosNombre": "CASTIGLIA LUCAS, TOMAS",
+        "Puntos": "224",
+        "PuntosSinFormato": "224.00"
     },
     {
         "IdPersona": "454211",
@@ -1826,12 +1832,6 @@
     {
         "IdPersona": "1324971",
         "ApellidosNombre": "D'ELIA -, RAFAELE",
-        "Puntos": "224",
-        "PuntosSinFormato": "224.00"
-    },
-    {
-        "IdPersona": "441017",
-        "ApellidosNombre": "CASTIGLIA LUCAS, TOMAS",
         "Puntos": "224",
         "PuntosSinFormato": "224.00"
     },
@@ -1884,6 +1884,12 @@
         "PuntosSinFormato": "212.00"
     },
     {
+        "IdPersona": "403776",
+        "ApellidosNombre": "ANDRADE MARISCAL, JORGE",
+        "Puntos": "208",
+        "PuntosSinFormato": "208.00"
+    },
+    {
         "IdPersona": "394489",
         "ApellidosNombre": "VOLPI CALDENTENY, DARIO",
         "Puntos": "208",
@@ -1898,12 +1904,6 @@
     {
         "IdPersona": "390619",
         "ApellidosNombre": "MARTEL DODERO, ANGEL JAVIER",
-        "Puntos": "208",
-        "PuntosSinFormato": "208.00"
-    },
-    {
-        "IdPersona": "403776",
-        "ApellidosNombre": "ANDRADE MARISCAL, JORGE",
         "Puntos": "208",
         "PuntosSinFormato": "208.00"
     },
@@ -1924,6 +1924,30 @@
         "ApellidosNombre": "ZANELLA TACHDJIAN, LUCA EZEQUIEL",
         "Puntos": "204",
         "PuntosSinFormato": "204.00"
+    },
+    {
+        "IdPersona": "1336638",
+        "ApellidosNombre": "BIAKOLOZ -, FREDERICK ALEXANDER",
+        "Puntos": "200",
+        "PuntosSinFormato": "200.00"
+    },
+    {
+        "IdPersona": "376978",
+        "ApellidosNombre": "SITGES GARAU, TOMEU",
+        "Puntos": "200",
+        "PuntosSinFormato": "200.00"
+    },
+    {
+        "IdPersona": "251466",
+        "ApellidosNombre": "FERNANDEZ HERNANDEZ, ALEJANDRO",
+        "Puntos": "200",
+        "PuntosSinFormato": "200.00"
+    },
+    {
+        "IdPersona": "317434",
+        "ApellidosNombre": "RODRIGUEZ MARQUEZ, AUGUSTO",
+        "Puntos": "200",
+        "PuntosSinFormato": "200.00"
     },
     {
         "IdPersona": "1338540",
@@ -1962,30 +1986,6 @@
         "PuntosSinFormato": "200.00"
     },
     {
-        "IdPersona": "376978",
-        "ApellidosNombre": "SITGES GARAU, TOMEU",
-        "Puntos": "200",
-        "PuntosSinFormato": "200.00"
-    },
-    {
-        "IdPersona": "1336638",
-        "ApellidosNombre": "BIAKOLOZ -, FREDERICK ALEXANDER",
-        "Puntos": "200",
-        "PuntosSinFormato": "200.00"
-    },
-    {
-        "IdPersona": "251466",
-        "ApellidosNombre": "FERNANDEZ HERNANDEZ, ALEJANDRO",
-        "Puntos": "200",
-        "PuntosSinFormato": "200.00"
-    },
-    {
-        "IdPersona": "317434",
-        "ApellidosNombre": "RODRIGUEZ MARQUEZ, AUGUSTO",
-        "Puntos": "200",
-        "PuntosSinFormato": "200.00"
-    },
-    {
         "IdPersona": "432341",
         "ApellidosNombre": "RUIZ DE AZUA TELLERIA, IGOR",
         "Puntos": "197",
@@ -1996,6 +1996,12 @@
         "ApellidosNombre": "SOSA RUIZ-ROSO, PABLO",
         "Puntos": "196",
         "PuntosSinFormato": "196.00"
+    },
+    {
+        "IdPersona": "327246",
+        "ApellidosNombre": "MESA BERROCAL, SAMUEL",
+        "Puntos": "192",
+        "PuntosSinFormato": "192.00"
     },
     {
         "IdPersona": "414980",
@@ -2016,16 +2022,34 @@
         "PuntosSinFormato": "192.00"
     },
     {
-        "IdPersona": "327246",
-        "ApellidosNombre": "MESA BERROCAL, SAMUEL",
-        "Puntos": "192",
-        "PuntosSinFormato": "192.00"
-    },
-    {
         "IdPersona": "1205530",
         "ApellidosNombre": "MORENO LIÑAN, JUAN JESUS",
         "Puntos": "189",
         "PuntosSinFormato": "189.00"
+    },
+    {
+        "IdPersona": "755016",
+        "ApellidosNombre": "Torremocha Millan, Pablo",
+        "Puntos": "184",
+        "PuntosSinFormato": "184.00"
+    },
+    {
+        "IdPersona": "324424",
+        "ApellidosNombre": "RODRIGUEZ FERNANDEZ, ALEXANDRE",
+        "Puntos": "184",
+        "PuntosSinFormato": "184.00"
+    },
+    {
+        "IdPersona": "427240",
+        "ApellidosNombre": "SAGRERA -, JAUME",
+        "Puntos": "184",
+        "PuntosSinFormato": "184.00"
+    },
+    {
+        "IdPersona": "284003",
+        "ApellidosNombre": "CABRER GOMILA, JOAN FRANCESC",
+        "Puntos": "184",
+        "PuntosSinFormato": "184.00"
     },
     {
         "IdPersona": "445658",
@@ -2058,28 +2082,10 @@
         "PuntosSinFormato": "184.00"
     },
     {
-        "IdPersona": "755016",
-        "ApellidosNombre": "Torremocha Millan, Pablo",
-        "Puntos": "184",
-        "PuntosSinFormato": "184.00"
-    },
-    {
-        "IdPersona": "324424",
-        "ApellidosNombre": "RODRIGUEZ FERNANDEZ, ALEXANDRE",
-        "Puntos": "184",
-        "PuntosSinFormato": "184.00"
-    },
-    {
-        "IdPersona": "427240",
-        "ApellidosNombre": "SAGRERA -, JAUME",
-        "Puntos": "184",
-        "PuntosSinFormato": "184.00"
-    },
-    {
-        "IdPersona": "284003",
-        "ApellidosNombre": "CABRER GOMILA, JOAN FRANCESC",
-        "Puntos": "184",
-        "PuntosSinFormato": "184.00"
+        "IdPersona": "413885",
+        "ApellidosNombre": "FREIRE ALVAREZ, SANTIAGO",
+        "Puntos": "180",
+        "PuntosSinFormato": "180.00"
     },
     {
         "IdPersona": "442651",
@@ -2088,16 +2094,22 @@
         "PuntosSinFormato": "180.00"
     },
     {
-        "IdPersona": "413885",
-        "ApellidosNombre": "FREIRE ALVAREZ, SANTIAGO",
-        "Puntos": "180",
-        "PuntosSinFormato": "180.00"
-    },
-    {
         "IdPersona": "343627",
         "ApellidosNombre": "MORENO AGUERA, FRANCISCO ANTONIO",
         "Puntos": "178",
         "PuntosSinFormato": "178.00"
+    },
+    {
+        "IdPersona": "442283",
+        "ApellidosNombre": "LLORENTE ÁLVAREZ, EDUARDO",
+        "Puntos": "176",
+        "PuntosSinFormato": "176.00"
+    },
+    {
+        "IdPersona": "456180",
+        "ApellidosNombre": "NOVELLI GARCIA, JORGE",
+        "Puntos": "176",
+        "PuntosSinFormato": "176.00"
     },
     {
         "IdPersona": "1249026",
@@ -2136,22 +2148,28 @@
         "PuntosSinFormato": "176.00"
     },
     {
-        "IdPersona": "442283",
-        "ApellidosNombre": "LLORENTE ÁLVAREZ, EDUARDO",
-        "Puntos": "176",
-        "PuntosSinFormato": "176.00"
-    },
-    {
-        "IdPersona": "456180",
-        "ApellidosNombre": "NOVELLI GARCIA, JORGE",
-        "Puntos": "176",
-        "PuntosSinFormato": "176.00"
-    },
-    {
         "IdPersona": "1206224",
         "ApellidosNombre": "MANNINEN -, VELI PETRI MIKAEL",
         "Puntos": "170",
         "PuntosSinFormato": "170.00"
+    },
+    {
+        "IdPersona": "441990",
+        "ApellidosNombre": "SITNYK -, PAVLO",
+        "Puntos": "168",
+        "PuntosSinFormato": "168.00"
+    },
+    {
+        "IdPersona": "281992",
+        "ApellidosNombre": "BELDA DE VIAL, LUKE",
+        "Puntos": "168",
+        "PuntosSinFormato": "168.00"
+    },
+    {
+        "IdPersona": "325127",
+        "ApellidosNombre": "ESCUDERO CASADO, IVAN",
+        "Puntos": "168",
+        "PuntosSinFormato": "168.00"
     },
     {
         "IdPersona": "326136",
@@ -2184,38 +2202,20 @@
         "PuntosSinFormato": "168.00"
     },
     {
-        "IdPersona": "441990",
-        "ApellidosNombre": "SITNYK -, PAVLO",
-        "Puntos": "168",
-        "PuntosSinFormato": "168.00"
-    },
-    {
-        "IdPersona": "281992",
-        "ApellidosNombre": "BELDA DE VIAL, LUKE",
-        "Puntos": "168",
-        "PuntosSinFormato": "168.00"
-    },
-    {
-        "IdPersona": "325127",
-        "ApellidosNombre": "ESCUDERO CASADO, IVAN",
-        "Puntos": "168",
-        "PuntosSinFormato": "168.00"
-    },
-    {
         "IdPersona": "413852",
         "ApellidosNombre": "ONTIVEROS ROBLES, ALEJANDRO",
         "Puntos": "164",
         "PuntosSinFormato": "164.00"
     },
     {
-        "IdPersona": "427782",
-        "ApellidosNombre": "DOBLADO GONZALEZ, JOSE LUIS",
+        "IdPersona": "437459",
+        "ApellidosNombre": "DELGADO MARRERO, IVAN",
         "Puntos": "164",
         "PuntosSinFormato": "163.60"
     },
     {
-        "IdPersona": "437459",
-        "ApellidosNombre": "DELGADO MARRERO, IVAN",
+        "IdPersona": "427782",
+        "ApellidosNombre": "DOBLADO GONZALEZ, JOSE LUIS",
         "Puntos": "164",
         "PuntosSinFormato": "163.60"
     },
@@ -2230,6 +2230,18 @@
         "ApellidosNombre": "CIRIACO -, MARCO",
         "Puntos": "162",
         "PuntosSinFormato": "162.00"
+    },
+    {
+        "IdPersona": "372747",
+        "ApellidosNombre": "CARBONELL MULLOR, CARLOS",
+        "Puntos": "160",
+        "PuntosSinFormato": "160.00"
+    },
+    {
+        "IdPersona": "368800",
+        "ApellidosNombre": "MARZO SUAREZ, HUGO",
+        "Puntos": "160",
+        "PuntosSinFormato": "160.00"
     },
     {
         "IdPersona": "890326",
@@ -2274,16 +2286,10 @@
         "PuntosSinFormato": "160.00"
     },
     {
-        "IdPersona": "372747",
-        "ApellidosNombre": "CARBONELL MULLOR, CARLOS",
-        "Puntos": "160",
-        "PuntosSinFormato": "160.00"
-    },
-    {
-        "IdPersona": "368800",
-        "ApellidosNombre": "MARZO SUAREZ, HUGO",
-        "Puntos": "160",
-        "PuntosSinFormato": "160.00"
+        "IdPersona": "321262",
+        "ApellidosNombre": "GOMEZ-REINO MARTINEZ, DIEGO",
+        "Puntos": "158",
+        "PuntosSinFormato": "158.00"
     },
     {
         "IdPersona": "1209718",
@@ -2292,10 +2298,16 @@
         "PuntosSinFormato": "158.00"
     },
     {
-        "IdPersona": "321262",
-        "ApellidosNombre": "GOMEZ-REINO MARTINEZ, DIEGO",
-        "Puntos": "158",
-        "PuntosSinFormato": "158.00"
+        "IdPersona": "1255463",
+        "ApellidosNombre": "DIAZ IZAGUERRI, GUILLERMO",
+        "Puntos": "152",
+        "PuntosSinFormato": "152.00"
+    },
+    {
+        "IdPersona": "428380",
+        "ApellidosNombre": "SANCHEZ BUSTOS, DEYVI GERARDO",
+        "Puntos": "152",
+        "PuntosSinFormato": "152.00"
     },
     {
         "IdPersona": "278251",
@@ -2312,18 +2324,6 @@
     {
         "IdPersona": "406266",
         "ApellidosNombre": "TOMASI -, FELIPE",
-        "Puntos": "152",
-        "PuntosSinFormato": "152.00"
-    },
-    {
-        "IdPersona": "1255463",
-        "ApellidosNombre": "DIAZ IZAGUERRI, GUILLERMO",
-        "Puntos": "152",
-        "PuntosSinFormato": "152.00"
-    },
-    {
-        "IdPersona": "428380",
-        "ApellidosNombre": "SANCHEZ BUSTOS, DEYVI GERARDO",
         "Puntos": "152",
         "PuntosSinFormato": "152.00"
     },
@@ -2350,6 +2350,24 @@
         "ApellidosNombre": "CAMACHO CANDELARIO, MANUEL ALEJANDRO",
         "Puntos": "146",
         "PuntosSinFormato": "146.00"
+    },
+    {
+        "IdPersona": "316762",
+        "ApellidosNombre": "TRIF -, ANTONIO",
+        "Puntos": "144",
+        "PuntosSinFormato": "144.00"
+    },
+    {
+        "IdPersona": "457585",
+        "ApellidosNombre": "ROJO RODRIGUEZ, ISAAC",
+        "Puntos": "144",
+        "PuntosSinFormato": "144.00"
+    },
+    {
+        "IdPersona": "401766",
+        "ApellidosNombre": "ENGENIOS MARTIN, SERGIO",
+        "Puntos": "144",
+        "PuntosSinFormato": "144.00"
     },
     {
         "IdPersona": "289508",
@@ -2412,24 +2430,6 @@
         "PuntosSinFormato": "144.00"
     },
     {
-        "IdPersona": "316762",
-        "ApellidosNombre": "TRIF -, ANTONIO",
-        "Puntos": "144",
-        "PuntosSinFormato": "144.00"
-    },
-    {
-        "IdPersona": "457585",
-        "ApellidosNombre": "ROJO RODRIGUEZ, ISAAC",
-        "Puntos": "144",
-        "PuntosSinFormato": "144.00"
-    },
-    {
-        "IdPersona": "401766",
-        "ApellidosNombre": "ENGENIOS MARTIN, SERGIO",
-        "Puntos": "144",
-        "PuntosSinFormato": "144.00"
-    },
-    {
         "IdPersona": "332276",
         "ApellidosNombre": "RUIZ FERNANDEZ, PABLO",
         "Puntos": "142",
@@ -2440,6 +2440,12 @@
         "ApellidosNombre": "CABRERA NOLASCO, LUIS",
         "Puntos": "141",
         "PuntosSinFormato": "140.80"
+    },
+    {
+        "IdPersona": "598245",
+        "ApellidosNombre": "LLATJE MAS, GUILLERMO",
+        "Puntos": "136",
+        "PuntosSinFormato": "136.00"
     },
     {
         "IdPersona": "438331",
@@ -2454,12 +2460,6 @@
         "PuntosSinFormato": "136.00"
     },
     {
-        "IdPersona": "598245",
-        "ApellidosNombre": "LLATJE MAS, GUILLERMO",
-        "Puntos": "136",
-        "PuntosSinFormato": "136.00"
-    },
-    {
         "IdPersona": "894242",
         "ApellidosNombre": "ONTIVEROS ROBLES, JAVIER",
         "Puntos": "132",
@@ -2470,6 +2470,24 @@
         "ApellidosNombre": "MECA DIAZ, FRANCISCO JUAN",
         "Puntos": "130",
         "PuntosSinFormato": "130.00"
+    },
+    {
+        "IdPersona": "1332006",
+        "ApellidosNombre": "SILVA -, FABRIZIO",
+        "Puntos": "128",
+        "PuntosSinFormato": "128.00"
+    },
+    {
+        "IdPersona": "1334060",
+        "ApellidosNombre": "VITELLESCHI -, NICOLAS",
+        "Puntos": "128",
+        "PuntosSinFormato": "128.00"
+    },
+    {
+        "IdPersona": "444753",
+        "ApellidosNombre": "CACELA  PAREDES, ADRIÁN",
+        "Puntos": "128",
+        "PuntosSinFormato": "128.00"
     },
     {
         "IdPersona": "312072",
@@ -2496,22 +2514,10 @@
         "PuntosSinFormato": "128.00"
     },
     {
-        "IdPersona": "1332006",
-        "ApellidosNombre": "SILVA -, FABRIZIO",
-        "Puntos": "128",
-        "PuntosSinFormato": "128.00"
-    },
-    {
-        "IdPersona": "1334060",
-        "ApellidosNombre": "VITELLESCHI -, NICOLAS",
-        "Puntos": "128",
-        "PuntosSinFormato": "128.00"
-    },
-    {
-        "IdPersona": "444753",
-        "ApellidosNombre": "CACELA  PAREDES, ADRIÁN",
-        "Puntos": "128",
-        "PuntosSinFormato": "128.00"
+        "IdPersona": "331053",
+        "ApellidosNombre": "GUTIERREZ MAGUREGUI, SERGIO",
+        "Puntos": "126",
+        "PuntosSinFormato": "126.00"
     },
     {
         "IdPersona": "1205445",
@@ -2522,12 +2528,6 @@
     {
         "IdPersona": "330958",
         "ApellidosNombre": "RODRIGUEZ LOMBARDIA, PELAYO",
-        "Puntos": "126",
-        "PuntosSinFormato": "126.00"
-    },
-    {
-        "IdPersona": "331053",
-        "ApellidosNombre": "GUTIERREZ MAGUREGUI, SERGIO",
         "Puntos": "126",
         "PuntosSinFormato": "126.00"
     },
@@ -2556,14 +2556,50 @@
         "PuntosSinFormato": "121.00"
     },
     {
-        "IdPersona": "886361",
-        "ApellidosNombre": "GARVIN FERNANDEZ, DANIEL",
+        "IdPersona": "1333823",
+        "ApellidosNombre": "COHEN -, JEREMY",
+        "Puntos": "120",
+        "PuntosSinFormato": "120.00"
+    },
+    {
+        "IdPersona": "442903",
+        "ApellidosNombre": "HIGUERAS MORALES, ALBERTO",
+        "Puntos": "120",
+        "PuntosSinFormato": "120.00"
+    },
+    {
+        "IdPersona": "1334443",
+        "ApellidosNombre": "NACHTWEY -, ADRIAN",
+        "Puntos": "120",
+        "PuntosSinFormato": "120.00"
+    },
+    {
+        "IdPersona": "437508",
+        "ApellidosNombre": "BRAVO VILLEGAS, JUAN MANUEL",
+        "Puntos": "120",
+        "PuntosSinFormato": "120.00"
+    },
+    {
+        "IdPersona": "366968",
+        "ApellidosNombre": "MELENDEZ MONTERO, ERNESTO RAMON",
+        "Puntos": "120",
+        "PuntosSinFormato": "120.00"
+    },
+    {
+        "IdPersona": "294241",
+        "ApellidosNombre": "SUAREZ SANTAMARIA, PABLO",
         "Puntos": "120",
         "PuntosSinFormato": "120.00"
     },
     {
         "IdPersona": "300041",
         "ApellidosNombre": "GABAS BOHIGAS, OSCAR",
+        "Puntos": "120",
+        "PuntosSinFormato": "120.00"
+    },
+    {
+        "IdPersona": "886361",
+        "ApellidosNombre": "GARVIN FERNANDEZ, DANIEL",
         "Puntos": "120",
         "PuntosSinFormato": "120.00"
     },
@@ -2610,14 +2646,14 @@
         "PuntosSinFormato": "120.00"
     },
     {
-        "IdPersona": "388076",
-        "ApellidosNombre": "LOPEZ MARTIN, PABLO",
+        "IdPersona": "437505",
+        "ApellidosNombre": "GONZALEZ RAMOS, HUGO",
         "Puntos": "120",
         "PuntosSinFormato": "120.00"
     },
     {
-        "IdPersona": "437505",
-        "ApellidosNombre": "GONZALEZ RAMOS, HUGO",
+        "IdPersona": "388076",
+        "ApellidosNombre": "LOPEZ MARTIN, PABLO",
         "Puntos": "120",
         "PuntosSinFormato": "120.00"
     },
@@ -2634,40 +2670,10 @@
         "PuntosSinFormato": "120.00"
     },
     {
-        "IdPersona": "1333823",
-        "ApellidosNombre": "COHEN -, JEREMY",
-        "Puntos": "120",
-        "PuntosSinFormato": "120.00"
-    },
-    {
-        "IdPersona": "442903",
-        "ApellidosNombre": "HIGUERAS MORALES, ALBERTO",
-        "Puntos": "120",
-        "PuntosSinFormato": "120.00"
-    },
-    {
-        "IdPersona": "1334443",
-        "ApellidosNombre": "NACHTWEY -, ADRIAN",
-        "Puntos": "120",
-        "PuntosSinFormato": "120.00"
-    },
-    {
-        "IdPersona": "437508",
-        "ApellidosNombre": "BRAVO VILLEGAS, JUAN MANUEL",
-        "Puntos": "120",
-        "PuntosSinFormato": "120.00"
-    },
-    {
-        "IdPersona": "366968",
-        "ApellidosNombre": "MELENDEZ MONTERO, ERNESTO RAMON",
-        "Puntos": "120",
-        "PuntosSinFormato": "120.00"
-    },
-    {
-        "IdPersona": "294241",
-        "ApellidosNombre": "SUAREZ SANTAMARIA, PABLO",
-        "Puntos": "120",
-        "PuntosSinFormato": "120.00"
+        "IdPersona": "460955",
+        "ApellidosNombre": "VARELA ALVAREZ, VITOR",
+        "Puntos": "116",
+        "PuntosSinFormato": "116.00"
     },
     {
         "IdPersona": "435137",
@@ -2676,16 +2682,22 @@
         "PuntosSinFormato": "116.00"
     },
     {
-        "IdPersona": "460955",
-        "ApellidosNombre": "VARELA ALVAREZ, VITOR",
-        "Puntos": "116",
-        "PuntosSinFormato": "116.00"
-    },
-    {
         "IdPersona": "294703",
         "ApellidosNombre": "RIO CANOSA, ALEJANDRO MANUEL",
         "Puntos": "114",
         "PuntosSinFormato": "114.00"
+    },
+    {
+        "IdPersona": "411070",
+        "ApellidosNombre": "CARRILLO GONZALEZ, GABRIEL",
+        "Puntos": "112",
+        "PuntosSinFormato": "112.00"
+    },
+    {
+        "IdPersona": "892980",
+        "ApellidosNombre": "GOMEZ BERENGUER, EDUARDO",
+        "Puntos": "112",
+        "PuntosSinFormato": "112.00"
     },
     {
         "IdPersona": "1321357",
@@ -2718,18 +2730,6 @@
         "PuntosSinFormato": "112.00"
     },
     {
-        "IdPersona": "411070",
-        "ApellidosNombre": "CARRILLO GONZALEZ, GABRIEL",
-        "Puntos": "112",
-        "PuntosSinFormato": "112.00"
-    },
-    {
-        "IdPersona": "892980",
-        "ApellidosNombre": "GOMEZ BERENGUER, EDUARDO",
-        "Puntos": "112",
-        "PuntosSinFormato": "112.00"
-    },
-    {
         "IdPersona": "404122",
         "ApellidosNombre": "LOUREIRO ZUNZUNEGUI, JOSE",
         "Puntos": "111",
@@ -2740,6 +2740,18 @@
         "ApellidosNombre": "MARTIN BRETON, CARLOS",
         "Puntos": "108",
         "PuntosSinFormato": "108.00"
+    },
+    {
+        "IdPersona": "425934",
+        "ApellidosNombre": "ESQUIVIAS ROMAN, IGNACIO",
+        "Puntos": "104",
+        "PuntosSinFormato": "104.00"
+    },
+    {
+        "IdPersona": "424364",
+        "ApellidosNombre": "PANZANO CABALLE, MARIANO",
+        "Puntos": "104",
+        "PuntosSinFormato": "104.00"
     },
     {
         "IdPersona": "264691",
@@ -2760,18 +2772,6 @@
         "PuntosSinFormato": "104.00"
     },
     {
-        "IdPersona": "425934",
-        "ApellidosNombre": "ESQUIVIAS ROMAN, IGNACIO",
-        "Puntos": "104",
-        "PuntosSinFormato": "104.00"
-    },
-    {
-        "IdPersona": "424364",
-        "ApellidosNombre": "PANZANO CABALLE, MARIANO",
-        "Puntos": "104",
-        "PuntosSinFormato": "104.00"
-    },
-    {
         "IdPersona": "395072",
         "ApellidosNombre": "DIAZ SOUTO, TEO",
         "Puntos": "100",
@@ -2788,6 +2788,42 @@
         "ApellidosNombre": "DE GREGORIO DOMINGUEZ, JOSE MARIA",
         "Puntos": "97",
         "PuntosSinFormato": "97.20"
+    },
+    {
+        "IdPersona": "251117",
+        "ApellidosNombre": "BELDAD GONZALEZ, JOSE ANTONIO",
+        "Puntos": "96",
+        "PuntosSinFormato": "96.00"
+    },
+    {
+        "IdPersona": "333279",
+        "ApellidosNombre": "LOPEZ SAIZ, YAGO",
+        "Puntos": "96",
+        "PuntosSinFormato": "96.00"
+    },
+    {
+        "IdPersona": "901355",
+        "ApellidosNombre": "ORTIZ SECO, LUCAS",
+        "Puntos": "96",
+        "PuntosSinFormato": "96.00"
+    },
+    {
+        "IdPersona": "413961",
+        "ApellidosNombre": "IGLESIAS VAZQUEZ, DANIEL",
+        "Puntos": "96",
+        "PuntosSinFormato": "96.00"
+    },
+    {
+        "IdPersona": "1321359",
+        "ApellidosNombre": "FAHIM MOLINA, VICTOR",
+        "Puntos": "96",
+        "PuntosSinFormato": "96.00"
+    },
+    {
+        "IdPersona": "425269",
+        "ApellidosNombre": "STORARI -, LUCA",
+        "Puntos": "96",
+        "PuntosSinFormato": "96.00"
     },
     {
         "IdPersona": "454668",
@@ -2874,46 +2910,22 @@
         "PuntosSinFormato": "96.00"
     },
     {
-        "IdPersona": "251117",
-        "ApellidosNombre": "BELDAD GONZALEZ, JOSE ANTONIO",
-        "Puntos": "96",
-        "PuntosSinFormato": "96.00"
-    },
-    {
-        "IdPersona": "333279",
-        "ApellidosNombre": "LOPEZ SAIZ, YAGO",
-        "Puntos": "96",
-        "PuntosSinFormato": "96.00"
-    },
-    {
-        "IdPersona": "901355",
-        "ApellidosNombre": "ORTIZ SECO, LUCAS",
-        "Puntos": "96",
-        "PuntosSinFormato": "96.00"
-    },
-    {
-        "IdPersona": "413961",
-        "ApellidosNombre": "IGLESIAS VAZQUEZ, DANIEL",
-        "Puntos": "96",
-        "PuntosSinFormato": "96.00"
-    },
-    {
-        "IdPersona": "1321359",
-        "ApellidosNombre": "FAHIM MOLINA, VICTOR",
-        "Puntos": "96",
-        "PuntosSinFormato": "96.00"
-    },
-    {
-        "IdPersona": "425269",
-        "ApellidosNombre": "STORARI -, LUCA",
-        "Puntos": "96",
-        "PuntosSinFormato": "96.00"
-    },
-    {
         "IdPersona": "1311972",
         "ApellidosNombre": "NAVAS CARBONE, SERGI",
         "Puntos": "94",
         "PuntosSinFormato": "94.00"
+    },
+    {
+        "IdPersona": "1312055",
+        "ApellidosNombre": "HOWARD -, FINN WILLIAM",
+        "Puntos": "90",
+        "PuntosSinFormato": "90.00"
+    },
+    {
+        "IdPersona": "889085",
+        "ApellidosNombre": "FERNANDEZ PEREZ, DANIEL",
+        "Puntos": "90",
+        "PuntosSinFormato": "90.00"
     },
     {
         "IdPersona": "1334546",
@@ -2934,16 +2946,76 @@
         "PuntosSinFormato": "90.00"
     },
     {
-        "IdPersona": "1312055",
-        "ApellidosNombre": "HOWARD -, FINN WILLIAM",
-        "Puntos": "90",
-        "PuntosSinFormato": "90.00"
+        "IdPersona": "1338541",
+        "ApellidosNombre": "SCHOEFFEL -, MORITZ",
+        "Puntos": "88",
+        "PuntosSinFormato": "88.00"
     },
     {
-        "IdPersona": "889085",
-        "ApellidosNombre": "FERNANDEZ PEREZ, DANIEL",
-        "Puntos": "90",
-        "PuntosSinFormato": "90.00"
+        "IdPersona": "1334239",
+        "ApellidosNombre": "PLANAS SANTOS, ADRIAN",
+        "Puntos": "88",
+        "PuntosSinFormato": "88.00"
+    },
+    {
+        "IdPersona": "454795",
+        "ApellidosNombre": "ALTUNA JANEIRO, MAURICIO",
+        "Puntos": "88",
+        "PuntosSinFormato": "88.00"
+    },
+    {
+        "IdPersona": "442106",
+        "ApellidosNombre": "PARRA LEIVA, FRANCISCO",
+        "Puntos": "88",
+        "PuntosSinFormato": "88.00"
+    },
+    {
+        "IdPersona": "434298",
+        "ApellidosNombre": "BAUZA MORLA, LLUC",
+        "Puntos": "88",
+        "PuntosSinFormato": "88.00"
+    },
+    {
+        "IdPersona": "321796",
+        "ApellidosNombre": "SUAREZ PAZOS, DANIEL",
+        "Puntos": "88",
+        "PuntosSinFormato": "88.00"
+    },
+    {
+        "IdPersona": "755186",
+        "ApellidosNombre": "ALZUETA CARREÑO, JUAN",
+        "Puntos": "88",
+        "PuntosSinFormato": "88.00"
+    },
+    {
+        "IdPersona": "414148",
+        "ApellidosNombre": "GOMEZ DEL VALLE TEJADA, RODRIGO",
+        "Puntos": "88",
+        "PuntosSinFormato": "88.00"
+    },
+    {
+        "IdPersona": "430358",
+        "ApellidosNombre": "SANSO ARTIGUES, LLUC",
+        "Puntos": "88",
+        "PuntosSinFormato": "88.00"
+    },
+    {
+        "IdPersona": "288295",
+        "ApellidosNombre": "MUNAR GALMES, JOAN",
+        "Puntos": "88",
+        "PuntosSinFormato": "88.00"
+    },
+    {
+        "IdPersona": "471253",
+        "ApellidosNombre": "Teetz -, Christopher",
+        "Puntos": "88",
+        "PuntosSinFormato": "88.00"
+    },
+    {
+        "IdPersona": "1310826",
+        "ApellidosNombre": "COSIC -, ALEKSANDAR",
+        "Puntos": "88",
+        "PuntosSinFormato": "88.00"
     },
     {
         "IdPersona": "398875",
@@ -2970,14 +3042,14 @@
         "PuntosSinFormato": "88.00"
     },
     {
-        "IdPersona": "886611",
-        "ApellidosNombre": "Sancer -, Ramiro",
+        "IdPersona": "1345595",
+        "ApellidosNombre": "GREENBERG , ETHAN",
         "Puntos": "88",
         "PuntosSinFormato": "88.00"
     },
     {
-        "IdPersona": "1345595",
-        "ApellidosNombre": "GREENBERG , ETHAN",
+        "IdPersona": "886611",
+        "ApellidosNombre": "Sancer -, Ramiro",
         "Puntos": "88",
         "PuntosSinFormato": "88.00"
     },
@@ -3042,88 +3114,40 @@
         "PuntosSinFormato": "88.00"
     },
     {
-        "IdPersona": "886577",
-        "ApellidosNombre": "CELIS TEJERA, DANIEL JESUS",
-        "Puntos": "88",
-        "PuntosSinFormato": "88.00"
-    },
-    {
         "IdPersona": "1335144",
         "ApellidosNombre": "PICON MAGDALENA, AXEL ",
         "Puntos": "88",
         "PuntosSinFormato": "88.00"
     },
     {
-        "IdPersona": "1338541",
-        "ApellidosNombre": "SCHOEFFEL -, MORITZ",
+        "IdPersona": "886577",
+        "ApellidosNombre": "CELIS TEJERA, DANIEL JESUS",
         "Puntos": "88",
         "PuntosSinFormato": "88.00"
     },
     {
-        "IdPersona": "1334239",
-        "ApellidosNombre": "PLANAS SANTOS, ADRIAN",
-        "Puntos": "88",
-        "PuntosSinFormato": "88.00"
+        "IdPersona": "447061",
+        "ApellidosNombre": "EL YOUSSOUFI ABRIGHACH, ALI",
+        "Puntos": "84",
+        "PuntosSinFormato": "84.00"
     },
     {
-        "IdPersona": "454795",
-        "ApellidosNombre": "ALTUNA JANEIRO, MAURICIO",
-        "Puntos": "88",
-        "PuntosSinFormato": "88.00"
+        "IdPersona": "754996",
+        "ApellidosNombre": "MUSU DINUT, DIEGO DANIEL",
+        "Puntos": "84",
+        "PuntosSinFormato": "84.00"
     },
     {
-        "IdPersona": "442106",
-        "ApellidosNombre": "PARRA LEIVA, FRANCISCO",
-        "Puntos": "88",
-        "PuntosSinFormato": "88.00"
+        "IdPersona": "296761",
+        "ApellidosNombre": "JORGE RAMÍREZ, VICTOR",
+        "Puntos": "84",
+        "PuntosSinFormato": "84.00"
     },
     {
-        "IdPersona": "755186",
-        "ApellidosNombre": "ALZUETA CARREÑO, JUAN",
-        "Puntos": "88",
-        "PuntosSinFormato": "88.00"
-    },
-    {
-        "IdPersona": "434298",
-        "ApellidosNombre": "BAUZA MORLA, LLUC",
-        "Puntos": "88",
-        "PuntosSinFormato": "88.00"
-    },
-    {
-        "IdPersona": "321796",
-        "ApellidosNombre": "SUAREZ PAZOS, DANIEL",
-        "Puntos": "88",
-        "PuntosSinFormato": "88.00"
-    },
-    {
-        "IdPersona": "414148",
-        "ApellidosNombre": "GOMEZ DEL VALLE TEJADA, RODRIGO",
-        "Puntos": "88",
-        "PuntosSinFormato": "88.00"
-    },
-    {
-        "IdPersona": "430358",
-        "ApellidosNombre": "SANSO ARTIGUES, LLUC",
-        "Puntos": "88",
-        "PuntosSinFormato": "88.00"
-    },
-    {
-        "IdPersona": "288295",
-        "ApellidosNombre": "MUNAR GALMES, JOAN",
-        "Puntos": "88",
-        "PuntosSinFormato": "88.00"
-    },
-    {
-        "IdPersona": "471253",
-        "ApellidosNombre": "Teetz -, Christopher",
-        "Puntos": "88",
-        "PuntosSinFormato": "88.00"
-    },
-    {
-        "IdPersona": "1310826",
-        "ApellidosNombre": "COSIC -, ALEKSANDAR",
-        "Puntos": "88",
-        "PuntosSinFormato": "88.00"
+        "IdPersona": "755006",
+        "ApellidosNombre": "DE LA FUENTE MONTERO, MARCO",
+        "Puntos": "84",
+        "PuntosSinFormato": "84.00"
     },
     {
         "IdPersona": "515013",
@@ -3162,28 +3186,34 @@
         "PuntosSinFormato": "84.00"
     },
     {
-        "IdPersona": "447061",
-        "ApellidosNombre": "EL YOUSSOUFI ABRIGHACH, ALI",
-        "Puntos": "84",
-        "PuntosSinFormato": "84.00"
+        "IdPersona": "400526",
+        "ApellidosNombre": "CARRASCO ZAMORA, JORGE",
+        "Puntos": "80",
+        "PuntosSinFormato": "80.00"
     },
     {
-        "IdPersona": "754996",
-        "ApellidosNombre": "MUSU DINUT, DIEGO DANIEL",
-        "Puntos": "84",
-        "PuntosSinFormato": "84.00"
+        "IdPersona": "1331746",
+        "ApellidosNombre": "MISBAH -, SAMMY",
+        "Puntos": "80",
+        "PuntosSinFormato": "80.00"
     },
     {
-        "IdPersona": "755006",
-        "ApellidosNombre": "DE LA FUENTE MONTERO, MARCO",
-        "Puntos": "84",
-        "PuntosSinFormato": "84.00"
+        "IdPersona": "435268",
+        "ApellidosNombre": "SANCHO ALMAU, CRISTIAN",
+        "Puntos": "80",
+        "PuntosSinFormato": "80.00"
     },
     {
-        "IdPersona": "296761",
-        "ApellidosNombre": "JORGE RAMÍREZ, VICTOR",
-        "Puntos": "84",
-        "PuntosSinFormato": "84.00"
+        "IdPersona": "401483",
+        "ApellidosNombre": "ARCEGA HERRERO, MARCOS",
+        "Puntos": "80",
+        "PuntosSinFormato": "80.00"
+    },
+    {
+        "IdPersona": "450411",
+        "ApellidosNombre": "PAREJO BORRALLO, PABLO",
+        "Puntos": "80",
+        "PuntosSinFormato": "80.00"
     },
     {
         "IdPersona": "454778",
@@ -3212,36 +3242,6 @@
     {
         "IdPersona": "435729",
         "ApellidosNombre": "IRANZO HUESA, CARLOS",
-        "Puntos": "80",
-        "PuntosSinFormato": "80.00"
-    },
-    {
-        "IdPersona": "400526",
-        "ApellidosNombre": "CARRASCO ZAMORA, JORGE",
-        "Puntos": "80",
-        "PuntosSinFormato": "80.00"
-    },
-    {
-        "IdPersona": "1331746",
-        "ApellidosNombre": "MISBAH -, SAMMY",
-        "Puntos": "80",
-        "PuntosSinFormato": "80.00"
-    },
-    {
-        "IdPersona": "435268",
-        "ApellidosNombre": "SANCHO ALMAU, CRISTIAN",
-        "Puntos": "80",
-        "PuntosSinFormato": "80.00"
-    },
-    {
-        "IdPersona": "401483",
-        "ApellidosNombre": "ARCEGA HERRERO, MARCOS",
-        "Puntos": "80",
-        "PuntosSinFormato": "80.00"
-    },
-    {
-        "IdPersona": "450411",
-        "ApellidosNombre": "PAREJO BORRALLO, PABLO",
         "Puntos": "80",
         "PuntosSinFormato": "80.00"
     },
@@ -3318,84 +3318,6 @@
         "PuntosSinFormato": "68.00"
     },
     {
-        "IdPersona": "390529",
-        "ApellidosNombre": "BRIÑAS PARRA, LUIS FERNANDO",
-        "Puntos": "64",
-        "PuntosSinFormato": "64.00"
-    },
-    {
-        "IdPersona": "410871",
-        "ApellidosNombre": "RUIZ RUIZ, ALEX",
-        "Puntos": "64",
-        "PuntosSinFormato": "64.00"
-    },
-    {
-        "IdPersona": "426254",
-        "ApellidosNombre": "VILARO  ALEJANDRE, JOSEP ",
-        "Puntos": "64",
-        "PuntosSinFormato": "64.00"
-    },
-    {
-        "IdPersona": "285602",
-        "ApellidosNombre": "GARCIA DE ANDRADE, JUAN GREGORIO",
-        "Puntos": "64",
-        "PuntosSinFormato": "64.00"
-    },
-    {
-        "IdPersona": "441763",
-        "ApellidosNombre": "MARTÍN ALCAINE, SAMUEL",
-        "Puntos": "64",
-        "PuntosSinFormato": "64.00"
-    },
-    {
-        "IdPersona": "1334292",
-        "ApellidosNombre": "BARCELO VIS DIEPERIMK, DIMITRI",
-        "Puntos": "64",
-        "PuntosSinFormato": "64.00"
-    },
-    {
-        "IdPersona": "321366",
-        "ApellidosNombre": "MOURIS CASTRO, DANIEL",
-        "Puntos": "64",
-        "PuntosSinFormato": "64.00"
-    },
-    {
-        "IdPersona": "324304",
-        "ApellidosNombre": "DIESTE OTERO, FRANCISCO",
-        "Puntos": "64",
-        "PuntosSinFormato": "64.00"
-    },
-    {
-        "IdPersona": "891987",
-        "ApellidosNombre": "CIUNTULEAC -, ALEXSANDRU",
-        "Puntos": "64",
-        "PuntosSinFormato": "64.00"
-    },
-    {
-        "IdPersona": "450355",
-        "ApellidosNombre": "PANTOJA MONJO, IGNACIO",
-        "Puntos": "64",
-        "PuntosSinFormato": "64.00"
-    },
-    {
-        "IdPersona": "432477",
-        "ApellidosNombre": "PERDOMO CURBELO, AITOR JESUS",
-        "Puntos": "64",
-        "PuntosSinFormato": "64.00"
-    },
-    {
-        "IdPersona": "294451",
-        "ApellidosNombre": "MONFORT MINAYA, VICENTE",
-        "Puntos": "64",
-        "PuntosSinFormato": "64.00"
-    },
-    {
-        "IdPersona": "430469",
-        "ApellidosNombre": "RODRIGUEZ DIVISON, PAU JOAN",
-        "Puntos": "64",
-        "PuntosSinFormato": "64.00"
-    },
-    {
         "IdPersona": "467348",
         "ApellidosNombre": "CUELLAR VELASCO, AARON",
         "Puntos": "64",
@@ -3456,6 +3378,84 @@
         "PuntosSinFormato": "64.00"
     },
     {
+        "IdPersona": "390529",
+        "ApellidosNombre": "BRIÑAS PARRA, LUIS FERNANDO",
+        "Puntos": "64",
+        "PuntosSinFormato": "64.00"
+    },
+    {
+        "IdPersona": "410871",
+        "ApellidosNombre": "RUIZ RUIZ, ALEX",
+        "Puntos": "64",
+        "PuntosSinFormato": "64.00"
+    },
+    {
+        "IdPersona": "426254",
+        "ApellidosNombre": "VILARO  ALEJANDRE, JOSEP ",
+        "Puntos": "64",
+        "PuntosSinFormato": "64.00"
+    },
+    {
+        "IdPersona": "285602",
+        "ApellidosNombre": "GARCIA DE ANDRADE, JUAN GREGORIO",
+        "Puntos": "64",
+        "PuntosSinFormato": "64.00"
+    },
+    {
+        "IdPersona": "441763",
+        "ApellidosNombre": "MARTÍN ALCAINE, SAMUEL",
+        "Puntos": "64",
+        "PuntosSinFormato": "64.00"
+    },
+    {
+        "IdPersona": "1334292",
+        "ApellidosNombre": "BARCELO VIS DIEPERIMK, DIMITRI",
+        "Puntos": "64",
+        "PuntosSinFormato": "64.00"
+    },
+    {
+        "IdPersona": "321366",
+        "ApellidosNombre": "MOURIS CASTRO, DANIEL",
+        "Puntos": "64",
+        "PuntosSinFormato": "64.00"
+    },
+    {
+        "IdPersona": "324304",
+        "ApellidosNombre": "DIESTE OTERO, FRANCISCO",
+        "Puntos": "64",
+        "PuntosSinFormato": "64.00"
+    },
+    {
+        "IdPersona": "450355",
+        "ApellidosNombre": "PANTOJA MONJO, IGNACIO",
+        "Puntos": "64",
+        "PuntosSinFormato": "64.00"
+    },
+    {
+        "IdPersona": "891987",
+        "ApellidosNombre": "CIUNTULEAC -, ALEXSANDRU",
+        "Puntos": "64",
+        "PuntosSinFormato": "64.00"
+    },
+    {
+        "IdPersona": "432477",
+        "ApellidosNombre": "PERDOMO CURBELO, AITOR JESUS",
+        "Puntos": "64",
+        "PuntosSinFormato": "64.00"
+    },
+    {
+        "IdPersona": "294451",
+        "ApellidosNombre": "MONFORT MINAYA, VICENTE",
+        "Puntos": "64",
+        "PuntosSinFormato": "64.00"
+    },
+    {
+        "IdPersona": "430469",
+        "ApellidosNombre": "RODRIGUEZ DIVISON, PAU JOAN",
+        "Puntos": "64",
+        "PuntosSinFormato": "64.00"
+    },
+    {
         "IdPersona": "461540",
         "ApellidosNombre": "DIAZ CORRAL, ERIC LORENZO",
         "Puntos": "63",
@@ -3472,6 +3472,12 @@
         "ApellidosNombre": "GONZALEZ LICERAS, MANUEL",
         "Puntos": "62",
         "PuntosSinFormato": "62.00"
+    },
+    {
+        "IdPersona": "454033",
+        "ApellidosNombre": "HURTADO -, SAMUEL ANDRES",
+        "Puntos": "60",
+        "PuntosSinFormato": "60.00"
     },
     {
         "IdPersona": "402761",
@@ -3492,22 +3498,10 @@
         "PuntosSinFormato": "60.00"
     },
     {
-        "IdPersona": "454033",
-        "ApellidosNombre": "HURTADO -, SAMUEL ANDRES",
-        "Puntos": "60",
-        "PuntosSinFormato": "60.00"
-    },
-    {
         "IdPersona": "1324629",
         "ApellidosNombre": "REDPISO BRAVO, OSCAR",
         "Puntos": "59",
         "PuntosSinFormato": "59.20"
-    },
-    {
-        "IdPersona": "346194",
-        "ApellidosNombre": "PERDOMO PI, RAUL",
-        "Puntos": "58",
-        "PuntosSinFormato": "58.00"
     },
     {
         "IdPersona": "324803",
@@ -3516,22 +3510,10 @@
         "PuntosSinFormato": "58.00"
     },
     {
-        "IdPersona": "395360",
-        "ApellidosNombre": "ROYANO PARRA, ALVARO",
-        "Puntos": "56",
-        "PuntosSinFormato": "56.00"
-    },
-    {
-        "IdPersona": "434501",
-        "ApellidosNombre": "LUNA GONZALEZ, LUCAS",
-        "Puntos": "56",
-        "PuntosSinFormato": "56.00"
-    },
-    {
-        "IdPersona": "442302",
-        "ApellidosNombre": "NARVAEZ CASTAÑEDA, SERGIO",
-        "Puntos": "56",
-        "PuntosSinFormato": "56.00"
+        "IdPersona": "346194",
+        "ApellidosNombre": "PERDOMO PI, RAUL",
+        "Puntos": "58",
+        "PuntosSinFormato": "58.00"
     },
     {
         "IdPersona": "285539",
@@ -3582,6 +3564,24 @@
         "PuntosSinFormato": "56.00"
     },
     {
+        "IdPersona": "395360",
+        "ApellidosNombre": "ROYANO PARRA, ALVARO",
+        "Puntos": "56",
+        "PuntosSinFormato": "56.00"
+    },
+    {
+        "IdPersona": "434501",
+        "ApellidosNombre": "LUNA GONZALEZ, LUCAS",
+        "Puntos": "56",
+        "PuntosSinFormato": "56.00"
+    },
+    {
+        "IdPersona": "442302",
+        "ApellidosNombre": "NARVAEZ CASTAÑEDA, SERGIO",
+        "Puntos": "56",
+        "PuntosSinFormato": "56.00"
+    },
+    {
         "IdPersona": "345863",
         "ApellidosNombre": "HERNANDEZ LOPEZ, NEFTALI",
         "Puntos": "55",
@@ -3598,6 +3598,18 @@
         "ApellidosNombre": "VASCO PINEDA, JAVIER",
         "Puntos": "55",
         "PuntosSinFormato": "54.80"
+    },
+    {
+        "IdPersona": "454054",
+        "ApellidosNombre": "VILARCHAO GOMEZ, GAEL",
+        "Puntos": "54",
+        "PuntosSinFormato": "54.00"
+    },
+    {
+        "IdPersona": "282624",
+        "ApellidosNombre": "JIMENEZ ROLDAN, ALBERTO",
+        "Puntos": "54",
+        "PuntosSinFormato": "54.00"
     },
     {
         "IdPersona": "422751",
@@ -3630,32 +3642,20 @@
         "PuntosSinFormato": "54.00"
     },
     {
-        "IdPersona": "454054",
-        "ApellidosNombre": "VILARCHAO GOMEZ, GAEL",
-        "Puntos": "54",
-        "PuntosSinFormato": "54.00"
-    },
-    {
-        "IdPersona": "282624",
-        "ApellidosNombre": "JIMENEZ ROLDAN, ALBERTO",
-        "Puntos": "54",
-        "PuntosSinFormato": "54.00"
-    },
-    {
         "IdPersona": "1344792",
         "ApellidosNombre": "DIAZ NOA, FRANCISCO IGNACIO",
         "Puntos": "53",
         "PuntosSinFormato": "53.20"
     },
     {
-        "IdPersona": "454680",
-        "ApellidosNombre": "NAVARRO ALIAGA, MARIO",
+        "IdPersona": "429808",
+        "ApellidosNombre": "CASTRILLÓN SOTO, ANDRES FELIPE",
         "Puntos": "52",
         "PuntosSinFormato": "52.00"
     },
     {
-        "IdPersona": "429808",
-        "ApellidosNombre": "CASTRILLÓN SOTO, ANDRES FELIPE",
+        "IdPersona": "454680",
+        "ApellidosNombre": "NAVARRO ALIAGA, MARIO",
         "Puntos": "52",
         "PuntosSinFormato": "52.00"
     },
@@ -3682,6 +3682,54 @@
         "ApellidosNombre": "FEDERICO  GONZALES, GILBERT IAN ",
         "Puntos": "49",
         "PuntosSinFormato": "49.20"
+    },
+    {
+        "IdPersona": "347604",
+        "ApellidosNombre": "GARCIA OUVIÑA, IVAN",
+        "Puntos": "48",
+        "PuntosSinFormato": "48.00"
+    },
+    {
+        "IdPersona": "462005",
+        "ApellidosNombre": "ESTEVEZ PASTORIZA, ADRIAN",
+        "Puntos": "48",
+        "PuntosSinFormato": "48.00"
+    },
+    {
+        "IdPersona": "342209",
+        "ApellidosNombre": "FERRER BIELSA, VICTOR",
+        "Puntos": "48",
+        "PuntosSinFormato": "48.00"
+    },
+    {
+        "IdPersona": "348789",
+        "ApellidosNombre": "MARTIN CUMPLIDO, ROMEN",
+        "Puntos": "48",
+        "PuntosSinFormato": "48.00"
+    },
+    {
+        "IdPersona": "368687",
+        "ApellidosNombre": "VELASQUEZ VEGA, RAUL JHEFERSON",
+        "Puntos": "48",
+        "PuntosSinFormato": "48.00"
+    },
+    {
+        "IdPersona": "381259",
+        "ApellidosNombre": "GOMEZ PASCUAL, JAVIER",
+        "Puntos": "48",
+        "PuntosSinFormato": "48.00"
+    },
+    {
+        "IdPersona": "462706",
+        "ApellidosNombre": "FLORES TRIVIÑO, MARCOS",
+        "Puntos": "48",
+        "PuntosSinFormato": "48.00"
+    },
+    {
+        "IdPersona": "442286",
+        "ApellidosNombre": "FORTES INFANTE, JOSE",
+        "Puntos": "48",
+        "PuntosSinFormato": "48.00"
     },
     {
         "IdPersona": "1311772",
@@ -3720,54 +3768,6 @@
         "PuntosSinFormato": "48.00"
     },
     {
-        "IdPersona": "347604",
-        "ApellidosNombre": "GARCIA OUVIÑA, IVAN",
-        "Puntos": "48",
-        "PuntosSinFormato": "48.00"
-    },
-    {
-        "IdPersona": "462005",
-        "ApellidosNombre": "ESTEVEZ PASTORIZA, ADRIAN",
-        "Puntos": "48",
-        "PuntosSinFormato": "48.00"
-    },
-    {
-        "IdPersona": "342209",
-        "ApellidosNombre": "FERRER BIELSA, VICTOR",
-        "Puntos": "48",
-        "PuntosSinFormato": "48.00"
-    },
-    {
-        "IdPersona": "381259",
-        "ApellidosNombre": "GOMEZ PASCUAL, JAVIER",
-        "Puntos": "48",
-        "PuntosSinFormato": "48.00"
-    },
-    {
-        "IdPersona": "348789",
-        "ApellidosNombre": "MARTIN CUMPLIDO, ROMEN",
-        "Puntos": "48",
-        "PuntosSinFormato": "48.00"
-    },
-    {
-        "IdPersona": "368687",
-        "ApellidosNombre": "VELASQUEZ VEGA, RAUL JHEFERSON",
-        "Puntos": "48",
-        "PuntosSinFormato": "48.00"
-    },
-    {
-        "IdPersona": "462706",
-        "ApellidosNombre": "FLORES TRIVIÑO, MARCOS",
-        "Puntos": "48",
-        "PuntosSinFormato": "48.00"
-    },
-    {
-        "IdPersona": "442286",
-        "ApellidosNombre": "FORTES INFANTE, JOSE",
-        "Puntos": "48",
-        "PuntosSinFormato": "48.00"
-    },
-    {
         "IdPersona": "435085",
         "ApellidosNombre": "TOUZA TOURON, ISAAC",
         "Puntos": "46",
@@ -3790,18 +3790,6 @@
         "ApellidosNombre": "NOVO MARIÑO, PABLO",
         "Puntos": "44",
         "PuntosSinFormato": "44.00"
-    },
-    {
-        "IdPersona": "421104",
-        "ApellidosNombre": "GALAN MENDEZ, IÑAKI",
-        "Puntos": "42",
-        "PuntosSinFormato": "42.00"
-    },
-    {
-        "IdPersona": "457544",
-        "ApellidosNombre": "GUYONVARCH -, JULIEN",
-        "Puntos": "42",
-        "PuntosSinFormato": "42.00"
     },
     {
         "IdPersona": "433821",
@@ -3828,6 +3816,18 @@
         "PuntosSinFormato": "42.00"
     },
     {
+        "IdPersona": "421104",
+        "ApellidosNombre": "GALAN MENDEZ, IÑAKI",
+        "Puntos": "42",
+        "PuntosSinFormato": "42.00"
+    },
+    {
+        "IdPersona": "457544",
+        "ApellidosNombre": "GUYONVARCH -, JULIEN",
+        "Puntos": "42",
+        "PuntosSinFormato": "42.00"
+    },
+    {
         "IdPersona": "366894",
         "ApellidosNombre": "DE GENNARO -, HERNAN",
         "Puntos": "41",
@@ -3838,6 +3838,36 @@
         "ApellidosNombre": "PALMIERI -, ENRIQUE RODOLFO",
         "Puntos": "41",
         "PuntosSinFormato": "41.20"
+    },
+    {
+        "IdPersona": "1311653",
+        "ApellidosNombre": "STOKOWSKY -, ARTHUR",
+        "Puntos": "40",
+        "PuntosSinFormato": "40.00"
+    },
+    {
+        "IdPersona": "406539",
+        "ApellidosNombre": "PEREZ GOMEZ, ANTULIO",
+        "Puntos": "40",
+        "PuntosSinFormato": "40.00"
+    },
+    {
+        "IdPersona": "429801",
+        "ApellidosNombre": "MENGUAL LLORENS, ADRIÁN",
+        "Puntos": "40",
+        "PuntosSinFormato": "40.00"
+    },
+    {
+        "IdPersona": "1312385",
+        "ApellidosNombre": "RAMOS RODRIGUEZ, HUGO",
+        "Puntos": "40",
+        "PuntosSinFormato": "40.00"
+    },
+    {
+        "IdPersona": "434878",
+        "ApellidosNombre": "ALMEIDA -, CARLOS",
+        "Puntos": "40",
+        "PuntosSinFormato": "40.00"
     },
     {
         "IdPersona": "1312830",
@@ -3882,34 +3912,16 @@
         "PuntosSinFormato": "40.00"
     },
     {
-        "IdPersona": "1311653",
-        "ApellidosNombre": "STOKOWSKY -, ARTHUR",
-        "Puntos": "40",
-        "PuntosSinFormato": "40.00"
+        "IdPersona": "380452",
+        "ApellidosNombre": "CORONA MEDIAVILLA, FABIAN",
+        "Puntos": "38",
+        "PuntosSinFormato": "38.00"
     },
     {
-        "IdPersona": "406539",
-        "ApellidosNombre": "PEREZ GOMEZ, ANTULIO",
-        "Puntos": "40",
-        "PuntosSinFormato": "40.00"
-    },
-    {
-        "IdPersona": "429801",
-        "ApellidosNombre": "MENGUAL LLORENS, ADRIÁN",
-        "Puntos": "40",
-        "PuntosSinFormato": "40.00"
-    },
-    {
-        "IdPersona": "1312385",
-        "ApellidosNombre": "RAMOS RODRIGUEZ, HUGO",
-        "Puntos": "40",
-        "PuntosSinFormato": "40.00"
-    },
-    {
-        "IdPersona": "434878",
-        "ApellidosNombre": "ALMEIDA -, CARLOS",
-        "Puntos": "40",
-        "PuntosSinFormato": "40.00"
+        "IdPersona": "329997",
+        "ApellidosNombre": "ESGLEAS LOPEZ, JUAN CARLOS",
+        "Puntos": "38",
+        "PuntosSinFormato": "38.00"
     },
     {
         "IdPersona": "462442",
@@ -3924,22 +3936,16 @@
         "PuntosSinFormato": "38.00"
     },
     {
-        "IdPersona": "380452",
-        "ApellidosNombre": "CORONA MEDIAVILLA, FABIAN",
-        "Puntos": "38",
-        "PuntosSinFormato": "38.00"
-    },
-    {
-        "IdPersona": "329997",
-        "ApellidosNombre": "ESGLEAS LOPEZ, JUAN CARLOS",
-        "Puntos": "38",
-        "PuntosSinFormato": "38.00"
-    },
-    {
         "IdPersona": "438965",
         "ApellidosNombre": "GALLO DEL VALLE, GUILLERMO",
         "Puntos": "38",
         "PuntosSinFormato": "37.60"
+    },
+    {
+        "IdPersona": "1339554",
+        "ApellidosNombre": "BRACCAGNI , GIULIO",
+        "Puntos": "37",
+        "PuntosSinFormato": "36.80"
     },
     {
         "IdPersona": "1339555",
@@ -3948,10 +3954,16 @@
         "PuntosSinFormato": "36.80"
     },
     {
-        "IdPersona": "1339554",
-        "ApellidosNombre": "BRACCAGNI , GIULIO",
-        "Puntos": "37",
-        "PuntosSinFormato": "36.80"
+        "IdPersona": "470986",
+        "ApellidosNombre": "BOIEV BOIEV, YURII",
+        "Puntos": "36",
+        "PuntosSinFormato": "36.00"
+    },
+    {
+        "IdPersona": "1322960",
+        "ApellidosNombre": "Boiev -, Vitalii",
+        "Puntos": "36",
+        "PuntosSinFormato": "36.00"
     },
     {
         "IdPersona": "316981",
@@ -3984,24 +3996,6 @@
         "PuntosSinFormato": "36.00"
     },
     {
-        "IdPersona": "470986",
-        "ApellidosNombre": "BOIEV BOIEV, YURII",
-        "Puntos": "36",
-        "PuntosSinFormato": "36.00"
-    },
-    {
-        "IdPersona": "1322960",
-        "ApellidosNombre": "Boiev -, Vitalii",
-        "Puntos": "36",
-        "PuntosSinFormato": "36.00"
-    },
-    {
-        "IdPersona": "771858",
-        "ApellidosNombre": "CASANOVA RUBIO, JAIME MIGUEL",
-        "Puntos": "34",
-        "PuntosSinFormato": "34.00"
-    },
-    {
         "IdPersona": "427818",
         "ApellidosNombre": "ROA BARRETO, FABIO",
         "Puntos": "34",
@@ -4014,286 +4008,10 @@
         "PuntosSinFormato": "34.00"
     },
     {
-        "IdPersona": "893892",
-        "ApellidosNombre": "SANCHEZ JIMENEZ, PABLO",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "1334116",
-        "ApellidosNombre": "MOTOS MATEO, MIGUEL ÁNGEL",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "432933",
-        "ApellidosNombre": "ETTORE TORTORA, SIMONE",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "894197",
-        "ApellidosNombre": "DREBLOW -, Christian Wolfgang Bruno",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "1333477",
-        "ApellidosNombre": "GOMEZ -, IVAN",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "435087",
-        "ApellidosNombre": "GONZALEZ FREIRE, MARCO",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "457459",
-        "ApellidosNombre": "FERNANDEZ CRESPO, ADAY",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "383099",
-        "ApellidosNombre": "AMADOR ROMAGUERA, SERGIO",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "515060",
-        "ApellidosNombre": "DIAZ MARTINEZ, CARLOS",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "1334237",
-        "ApellidosNombre": "RAMIREZ MALDONADO, AGUSTIN",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "390945",
-        "ApellidosNombre": "SANCHEZ ALEJANDRE, IBAI",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "1333640",
-        "ApellidosNombre": "FAUDA PICHET, ROBERTO",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "411453",
-        "ApellidosNombre": "MEDINA VALENCIA, MIGUEL ÁNGEL",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "417461",
-        "ApellidosNombre": "SAN MARTIN -, VICTOR LUIS",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "436725",
-        "ApellidosNombre": "HERVAS COMENDADOR, PABLO",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "442052",
-        "ApellidosNombre": "QUINTERO MARTÍNEZ, JOSE ALEJANDRO",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "380448",
-        "ApellidosNombre": "RODRIGUEZ RUBIO, AURELIO",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "1307143",
-        "ApellidosNombre": "VÁZQUEZ SÁNCHEZ, SEVILLA JOSÉ",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "1321180",
-        "ApellidosNombre": "MORETTI -, LEONARDO",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "434151",
-        "ApellidosNombre": "SANZ MORA, JORGE",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "297607",
-        "ApellidosNombre": "CARINELLI MARCONI, MARTIN",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "292667",
-        "ApellidosNombre": "GOMEZ PARGA, PABLO",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "324767",
-        "ApellidosNombre": "RUIZ GÓMEZ, FRANCISCO",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "418238",
-        "ApellidosNombre": "SILVA MANCERA, MARIO",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "381400",
-        "ApellidosNombre": "MITOULIS ROSSELLO, MILOS",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "1334009",
-        "ApellidosNombre": "GARCIA LORENZO, IAGO",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "318936",
-        "ApellidosNombre": "CORTES REDONDO, JUAN ALBERTO",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "893553",
-        "ApellidosNombre": "PASI -, DANILO",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "1324736",
-        "ApellidosNombre": "IAKOVLEV -, ANTON",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "442284",
-        "ApellidosNombre": "FONS PONCE, FERNANDO MANUEL",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "322377",
-        "ApellidosNombre": "LEAL JIMENEZ, JOSE",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "414586",
-        "ApellidosNombre": "GALLO VILLALBA, XABIER",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "1334059",
-        "ApellidosNombre": "REISCHL -, DAVID",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "432520",
-        "ApellidosNombre": "DELGADO GUIBERTAU, IGNACIO",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "339077",
-        "ApellidosNombre": "SAEZ CASADO, FRANCISCO",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "376277",
-        "ApellidosNombre": "ABRUÑEDO LOMBARDERO, JORGE",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "893890",
-        "ApellidosNombre": "GEREZ IGLESIA, MATIAS",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "1334519",
-        "ApellidosNombre": "PEREZ -, MATEO",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "427278",
-        "ApellidosNombre": "ROMBOLA -, ANDREA",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "1338004",
-        "ApellidosNombre": "LABIAUSSE -, JULES",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "376644",
-        "ApellidosNombre": "MOLARES PEREZ, MIGUEL AARON",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "452149",
-        "ApellidosNombre": "PRIETO SANCHO, IKER",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "323335",
-        "ApellidosNombre": "FERRER HIERRO, MARCO",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "425852",
-        "ApellidosNombre": "LOZADA BORRAS, SAMUEL",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "294573",
-        "ApellidosNombre": "MARTIN HERRERO, LUIS",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "326106",
-        "ApellidosNombre": "VIEITES VEIGA, DAVID",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
-    },
-    {
-        "IdPersona": "515058",
-        "ApellidosNombre": "CASADO MARTINEZ, PABLO",
-        "Puntos": "32",
-        "PuntosSinFormato": "32.00"
+        "IdPersona": "771858",
+        "ApellidosNombre": "CASANOVA RUBIO, JAIME MIGUEL",
+        "Puntos": "34",
+        "PuntosSinFormato": "34.00"
     },
     {
         "IdPersona": "1345933",
@@ -4488,6 +4206,288 @@
         "PuntosSinFormato": "32.00"
     },
     {
+        "IdPersona": "893892",
+        "ApellidosNombre": "SANCHEZ JIMENEZ, PABLO",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "1334116",
+        "ApellidosNombre": "MOTOS MATEO, MIGUEL ÁNGEL",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "432933",
+        "ApellidosNombre": "ETTORE TORTORA, SIMONE",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "894197",
+        "ApellidosNombre": "DREBLOW -, Christian Wolfgang Bruno",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "1333477",
+        "ApellidosNombre": "GOMEZ -, IVAN",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "435087",
+        "ApellidosNombre": "GONZALEZ FREIRE, MARCO",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "457459",
+        "ApellidosNombre": "FERNANDEZ CRESPO, ADAY",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "383099",
+        "ApellidosNombre": "AMADOR ROMAGUERA, SERGIO",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "515060",
+        "ApellidosNombre": "DIAZ MARTINEZ, CARLOS",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "1334237",
+        "ApellidosNombre": "RAMIREZ MALDONADO, AGUSTIN",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "390945",
+        "ApellidosNombre": "SANCHEZ ALEJANDRE, IBAI",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "1333640",
+        "ApellidosNombre": "FAUDA PICHET, ROBERTO",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "411453",
+        "ApellidosNombre": "MEDINA VALENCIA, MIGUEL ÁNGEL",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "417461",
+        "ApellidosNombre": "SAN MARTIN -, VICTOR LUIS",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "436725",
+        "ApellidosNombre": "HERVAS COMENDADOR, PABLO",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "442052",
+        "ApellidosNombre": "QUINTERO MARTÍNEZ, JOSE ALEJANDRO",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "1307143",
+        "ApellidosNombre": "VÁZQUEZ SÁNCHEZ, SEVILLA JOSÉ",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "1321180",
+        "ApellidosNombre": "MORETTI -, LEONARDO",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "380448",
+        "ApellidosNombre": "RODRIGUEZ RUBIO, AURELIO",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "434151",
+        "ApellidosNombre": "SANZ MORA, JORGE",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "297607",
+        "ApellidosNombre": "CARINELLI MARCONI, MARTIN",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "292667",
+        "ApellidosNombre": "GOMEZ PARGA, PABLO",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "324767",
+        "ApellidosNombre": "RUIZ GÓMEZ, FRANCISCO",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "418238",
+        "ApellidosNombre": "SILVA MANCERA, MARIO",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "1334009",
+        "ApellidosNombre": "GARCIA LORENZO, IAGO",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "318936",
+        "ApellidosNombre": "CORTES REDONDO, JUAN ALBERTO",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "381400",
+        "ApellidosNombre": "MITOULIS ROSSELLO, MILOS",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "1324736",
+        "ApellidosNombre": "IAKOVLEV -, ANTON",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "442284",
+        "ApellidosNombre": "FONS PONCE, FERNANDO MANUEL",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "322377",
+        "ApellidosNombre": "LEAL JIMENEZ, JOSE",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "893553",
+        "ApellidosNombre": "PASI -, DANILO",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "414586",
+        "ApellidosNombre": "GALLO VILLALBA, XABIER",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "1334059",
+        "ApellidosNombre": "REISCHL -, DAVID",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "432520",
+        "ApellidosNombre": "DELGADO GUIBERTAU, IGNACIO",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "339077",
+        "ApellidosNombre": "SAEZ CASADO, FRANCISCO",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "893890",
+        "ApellidosNombre": "GEREZ IGLESIA, MATIAS",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "1334519",
+        "ApellidosNombre": "PEREZ -, MATEO",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "427278",
+        "ApellidosNombre": "ROMBOLA -, ANDREA",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "376277",
+        "ApellidosNombre": "ABRUÑEDO LOMBARDERO, JORGE",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "1338004",
+        "ApellidosNombre": "LABIAUSSE -, JULES",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "452149",
+        "ApellidosNombre": "PRIETO SANCHO, IKER",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "323335",
+        "ApellidosNombre": "FERRER HIERRO, MARCO",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "376644",
+        "ApellidosNombre": "MOLARES PEREZ, MIGUEL AARON",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "425852",
+        "ApellidosNombre": "LOZADA BORRAS, SAMUEL",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "294573",
+        "ApellidosNombre": "MARTIN HERRERO, LUIS",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "326106",
+        "ApellidosNombre": "VIEITES VEIGA, DAVID",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
+        "IdPersona": "515058",
+        "ApellidosNombre": "CASADO MARTINEZ, PABLO",
+        "Puntos": "32",
+        "PuntosSinFormato": "32.00"
+    },
+    {
         "IdPersona": "410810",
         "ApellidosNombre": "MENDEZ TELEÑA, BRUNO",
         "Puntos": "31",
@@ -4498,60 +4498,6 @@
         "ApellidosNombre": "OLMEDO -, ARIEL ALEJANDRO",
         "Puntos": "31",
         "PuntosSinFormato": "30.80"
-    },
-    {
-        "IdPersona": "420171",
-        "ApellidosNombre": "QUINTERO ESPINOSA, JISHAR",
-        "Puntos": "30",
-        "PuntosSinFormato": "30.00"
-    },
-    {
-        "IdPersona": "889257",
-        "ApellidosNombre": "LORENZO ALONSO, ANTON ",
-        "Puntos": "30",
-        "PuntosSinFormato": "30.00"
-    },
-    {
-        "IdPersona": "250219",
-        "ApellidosNombre": "ARAGON PELLICER, ALEJANDRO",
-        "Puntos": "30",
-        "PuntosSinFormato": "30.00"
-    },
-    {
-        "IdPersona": "302980",
-        "ApellidosNombre": "SOTILLO SANCHEZ, RUBEN",
-        "Puntos": "30",
-        "PuntosSinFormato": "30.00"
-    },
-    {
-        "IdPersona": "1345916",
-        "ApellidosNombre": "VIDAL , PAUL",
-        "Puntos": "30",
-        "PuntosSinFormato": "30.00"
-    },
-    {
-        "IdPersona": "1337002",
-        "ApellidosNombre": "FARFAN GARCIA, MILLAN",
-        "Puntos": "30",
-        "PuntosSinFormato": "30.00"
-    },
-    {
-        "IdPersona": "246846",
-        "ApellidosNombre": "MAESO DIAZ, SERGIO",
-        "Puntos": "30",
-        "PuntosSinFormato": "30.00"
-    },
-    {
-        "IdPersona": "427663",
-        "ApellidosNombre": "RAVELO BATISTA, ALBERTO",
-        "Puntos": "30",
-        "PuntosSinFormato": "30.00"
-    },
-    {
-        "IdPersona": "754615",
-        "ApellidosNombre": "ECHELBACHER -, STEFAN",
-        "Puntos": "30",
-        "PuntosSinFormato": "30.00"
     },
     {
         "IdPersona": "890643",
@@ -4614,6 +4560,66 @@
         "PuntosSinFormato": "30.00"
     },
     {
+        "IdPersona": "420171",
+        "ApellidosNombre": "QUINTERO ESPINOSA, JISHAR",
+        "Puntos": "30",
+        "PuntosSinFormato": "30.00"
+    },
+    {
+        "IdPersona": "250219",
+        "ApellidosNombre": "ARAGON PELLICER, ALEJANDRO",
+        "Puntos": "30",
+        "PuntosSinFormato": "30.00"
+    },
+    {
+        "IdPersona": "889257",
+        "ApellidosNombre": "LORENZO ALONSO, ANTON ",
+        "Puntos": "30",
+        "PuntosSinFormato": "30.00"
+    },
+    {
+        "IdPersona": "302980",
+        "ApellidosNombre": "SOTILLO SANCHEZ, RUBEN",
+        "Puntos": "30",
+        "PuntosSinFormato": "30.00"
+    },
+    {
+        "IdPersona": "1345916",
+        "ApellidosNombre": "VIDAL , PAUL",
+        "Puntos": "30",
+        "PuntosSinFormato": "30.00"
+    },
+    {
+        "IdPersona": "1337002",
+        "ApellidosNombre": "FARFAN GARCIA, MILLAN",
+        "Puntos": "30",
+        "PuntosSinFormato": "30.00"
+    },
+    {
+        "IdPersona": "246846",
+        "ApellidosNombre": "MAESO DIAZ, SERGIO",
+        "Puntos": "30",
+        "PuntosSinFormato": "30.00"
+    },
+    {
+        "IdPersona": "427663",
+        "ApellidosNombre": "RAVELO BATISTA, ALBERTO",
+        "Puntos": "30",
+        "PuntosSinFormato": "30.00"
+    },
+    {
+        "IdPersona": "754615",
+        "ApellidosNombre": "ECHELBACHER -, STEFAN",
+        "Puntos": "30",
+        "PuntosSinFormato": "30.00"
+    },
+    {
+        "IdPersona": "462966",
+        "ApellidosNombre": "PEREZ RODRIGUEZ, THIAGO",
+        "Puntos": "28",
+        "PuntosSinFormato": "28.00"
+    },
+    {
         "IdPersona": "367703",
         "ApellidosNombre": "SANCHEZ CASANOVA, MIGUEL ANGEL",
         "Puntos": "28",
@@ -4632,22 +4638,10 @@
         "PuntosSinFormato": "28.00"
     },
     {
-        "IdPersona": "462966",
-        "ApellidosNombre": "PEREZ RODRIGUEZ, THIAGO",
-        "Puntos": "28",
-        "PuntosSinFormato": "28.00"
-    },
-    {
         "IdPersona": "1331967",
         "ApellidosNombre": "CONSIGLIO -, ALESSIO",
         "Puntos": "27",
         "PuntosSinFormato": "27.00"
-    },
-    {
-        "IdPersona": "427951",
-        "ApellidosNombre": "SMIRNOVS -, SERGEJS",
-        "Puntos": "26",
-        "PuntosSinFormato": "26.00"
     },
     {
         "IdPersona": "432479",
@@ -4662,58 +4656,10 @@
         "PuntosSinFormato": "26.00"
     },
     {
-        "IdPersona": "308249",
-        "ApellidosNombre": "MUÑOZ AMAT, ALVARO",
-        "Puntos": "25",
-        "PuntosSinFormato": "25.20"
-    },
-    {
-        "IdPersona": "900218",
-        "ApellidosNombre": "BRAVO GARCIA, JAVIER",
-        "Puntos": "25",
-        "PuntosSinFormato": "25.20"
-    },
-    {
-        "IdPersona": "380468",
-        "ApellidosNombre": "HERRERO GALAN, RAUL",
-        "Puntos": "25",
-        "PuntosSinFormato": "25.20"
-    },
-    {
-        "IdPersona": "903370",
-        "ApellidosNombre": "ALONSO GALLARDO, MIGUEL",
-        "Puntos": "25",
-        "PuntosSinFormato": "25.20"
-    },
-    {
-        "IdPersona": "1345922",
-        "ApellidosNombre": "GARCIA RUIZ, JORGE",
-        "Puntos": "25",
-        "PuntosSinFormato": "25.20"
-    },
-    {
-        "IdPersona": "434953",
-        "ApellidosNombre": "ROMERO CAMPOS, FRANCISCO JOSE",
-        "Puntos": "25",
-        "PuntosSinFormato": "25.20"
-    },
-    {
-        "IdPersona": "345928",
-        "ApellidosNombre": "ENRIQUEZ ALONSO, MANUEL",
-        "Puntos": "25",
-        "PuntosSinFormato": "25.20"
-    },
-    {
-        "IdPersona": "454535",
-        "ApellidosNombre": "VICENTE MEJIA, MANUEL",
-        "Puntos": "25",
-        "PuntosSinFormato": "25.20"
-    },
-    {
-        "IdPersona": "279013",
-        "ApellidosNombre": "SANCHEZ SAN MARTIN, IVAN",
-        "Puntos": "25",
-        "PuntosSinFormato": "25.20"
+        "IdPersona": "427951",
+        "ApellidosNombre": "SMIRNOVS -, SERGEJS",
+        "Puntos": "26",
+        "PuntosSinFormato": "26.00"
     },
     {
         "IdPersona": "427787",
@@ -4746,6 +4692,66 @@
         "PuntosSinFormato": "25.20"
     },
     {
+        "IdPersona": "308249",
+        "ApellidosNombre": "MUÑOZ AMAT, ALVARO",
+        "Puntos": "25",
+        "PuntosSinFormato": "25.20"
+    },
+    {
+        "IdPersona": "900218",
+        "ApellidosNombre": "BRAVO GARCIA, JAVIER",
+        "Puntos": "25",
+        "PuntosSinFormato": "25.20"
+    },
+    {
+        "IdPersona": "903370",
+        "ApellidosNombre": "ALONSO GALLARDO, MIGUEL",
+        "Puntos": "25",
+        "PuntosSinFormato": "25.20"
+    },
+    {
+        "IdPersona": "1345922",
+        "ApellidosNombre": "GARCIA RUIZ, JORGE",
+        "Puntos": "25",
+        "PuntosSinFormato": "25.20"
+    },
+    {
+        "IdPersona": "380468",
+        "ApellidosNombre": "HERRERO GALAN, RAUL",
+        "Puntos": "25",
+        "PuntosSinFormato": "25.20"
+    },
+    {
+        "IdPersona": "434953",
+        "ApellidosNombre": "ROMERO CAMPOS, FRANCISCO JOSE",
+        "Puntos": "25",
+        "PuntosSinFormato": "25.20"
+    },
+    {
+        "IdPersona": "345928",
+        "ApellidosNombre": "ENRIQUEZ ALONSO, MANUEL",
+        "Puntos": "25",
+        "PuntosSinFormato": "25.20"
+    },
+    {
+        "IdPersona": "454535",
+        "ApellidosNombre": "VICENTE MEJIA, MANUEL",
+        "Puntos": "25",
+        "PuntosSinFormato": "25.20"
+    },
+    {
+        "IdPersona": "279013",
+        "ApellidosNombre": "SANCHEZ SAN MARTIN, IVAN",
+        "Puntos": "25",
+        "PuntosSinFormato": "25.20"
+    },
+    {
+        "IdPersona": "247056",
+        "ApellidosNombre": "VILCHIS SANTOS, DANIEL",
+        "Puntos": "25",
+        "PuntosSinFormato": "24.80"
+    },
+    {
         "IdPersona": "1204942",
         "ApellidosNombre": "BRAVENBOER -, DAVI",
         "Puntos": "25",
@@ -4770,10 +4776,118 @@
         "PuntosSinFormato": "24.80"
     },
     {
-        "IdPersona": "247056",
-        "ApellidosNombre": "VILCHIS SANTOS, DANIEL",
-        "Puntos": "25",
-        "PuntosSinFormato": "24.80"
+        "IdPersona": "1330638",
+        "ApellidosNombre": "MARTINEZ  LOPEZ-VILLALTRA, SERGIO ",
+        "Puntos": "24",
+        "PuntosSinFormato": "24.00"
+    },
+    {
+        "IdPersona": "1333624",
+        "ApellidosNombre": "BONET GONZÁLEZ, PEDRO",
+        "Puntos": "24",
+        "PuntosSinFormato": "24.00"
+    },
+    {
+        "IdPersona": "442617",
+        "ApellidosNombre": "BESTARD NIGORRA, MIQUEL",
+        "Puntos": "24",
+        "PuntosSinFormato": "24.00"
+    },
+    {
+        "IdPersona": "429665",
+        "ApellidosNombre": "JANIAK -, KRZYSZTOF",
+        "Puntos": "24",
+        "PuntosSinFormato": "24.00"
+    },
+    {
+        "IdPersona": "442703",
+        "ApellidosNombre": "MUÑOZ USON, HECTOR",
+        "Puntos": "24",
+        "PuntosSinFormato": "24.00"
+    },
+    {
+        "IdPersona": "1334302",
+        "ApellidosNombre": "ROSAS MUÑOZ, JUAN",
+        "Puntos": "24",
+        "PuntosSinFormato": "24.00"
+    },
+    {
+        "IdPersona": "418210",
+        "ApellidosNombre": "CANHOTO SANZ, MARIO",
+        "Puntos": "24",
+        "PuntosSinFormato": "24.00"
+    },
+    {
+        "IdPersona": "1334369",
+        "ApellidosNombre": "SEGRAVE -, DANIEL ",
+        "Puntos": "24",
+        "PuntosSinFormato": "24.00"
+    },
+    {
+        "IdPersona": "366637",
+        "ApellidosNombre": "TORO GOMEZ, JOAN SEBASTIAN",
+        "Puntos": "24",
+        "PuntosSinFormato": "24.00"
+    },
+    {
+        "IdPersona": "387961",
+        "ApellidosNombre": "ALLOT DEL BURGO, ALEXANDER CARLOS",
+        "Puntos": "24",
+        "PuntosSinFormato": "24.00"
+    },
+    {
+        "IdPersona": "391481",
+        "ApellidosNombre": "DOPICO RAMOS, IVAN",
+        "Puntos": "24",
+        "PuntosSinFormato": "24.00"
+    },
+    {
+        "IdPersona": "888425",
+        "ApellidosNombre": "QUIROGA RAMOS, YAGO",
+        "Puntos": "24",
+        "PuntosSinFormato": "24.00"
+    },
+    {
+        "IdPersona": "1321361",
+        "ApellidosNombre": "GOUDIE -, TYSON",
+        "Puntos": "24",
+        "PuntosSinFormato": "24.00"
+    },
+    {
+        "IdPersona": "454134",
+        "ApellidosNombre": "REDONDO GARCIA, AITOR",
+        "Puntos": "24",
+        "PuntosSinFormato": "24.00"
+    },
+    {
+        "IdPersona": "398073",
+        "ApellidosNombre": "LOPEZ CULEBRAS, ALFONSO",
+        "Puntos": "24",
+        "PuntosSinFormato": "24.00"
+    },
+    {
+        "IdPersona": "1324737",
+        "ApellidosNombre": "MARSOU -, EL AMINE",
+        "Puntos": "24",
+        "PuntosSinFormato": "24.00"
+    },
+    {
+        "IdPersona": "322574",
+        "ApellidosNombre": "MUÑOZ GARROTE, RAUL",
+        "Puntos": "24",
+        "PuntosSinFormato": "24.00"
+    },
+    {
+        "IdPersona": "402526",
+        "ApellidosNombre": "CARBALLO SÁNCHEZ, HUGO",
+        "Puntos": "24",
+        "PuntosSinFormato": "24.00"
+    },
+    {
+        "IdPersona": "432521",
+        "ApellidosNombre": "HERNÁNDEZ  CRUZ, ALEJANDRO",
+        "Puntos": "24",
+        "PuntosSinFormato": "24.00"
     },
     {
         "IdPersona": "1324758",
@@ -4974,118 +5088,10 @@
         "PuntosSinFormato": "24.00"
     },
     {
-        "IdPersona": "1330638",
-        "ApellidosNombre": "MARTINEZ  LOPEZ-VILLALTRA, SERGIO ",
-        "Puntos": "24",
-        "PuntosSinFormato": "24.00"
-    },
-    {
-        "IdPersona": "1333624",
-        "ApellidosNombre": "BONET GONZÁLEZ, PEDRO",
-        "Puntos": "24",
-        "PuntosSinFormato": "24.00"
-    },
-    {
-        "IdPersona": "442617",
-        "ApellidosNombre": "BESTARD NIGORRA, MIQUEL",
-        "Puntos": "24",
-        "PuntosSinFormato": "24.00"
-    },
-    {
-        "IdPersona": "429665",
-        "ApellidosNombre": "JANIAK -, KRZYSZTOF",
-        "Puntos": "24",
-        "PuntosSinFormato": "24.00"
-    },
-    {
-        "IdPersona": "442703",
-        "ApellidosNombre": "MUÑOZ USON, HECTOR",
-        "Puntos": "24",
-        "PuntosSinFormato": "24.00"
-    },
-    {
-        "IdPersona": "1334302",
-        "ApellidosNombre": "ROSAS MUÑOZ, JUAN",
-        "Puntos": "24",
-        "PuntosSinFormato": "24.00"
-    },
-    {
-        "IdPersona": "387961",
-        "ApellidosNombre": "ALLOT DEL BURGO, ALEXANDER CARLOS",
-        "Puntos": "24",
-        "PuntosSinFormato": "24.00"
-    },
-    {
-        "IdPersona": "418210",
-        "ApellidosNombre": "CANHOTO SANZ, MARIO",
-        "Puntos": "24",
-        "PuntosSinFormato": "24.00"
-    },
-    {
-        "IdPersona": "1334369",
-        "ApellidosNombre": "SEGRAVE -, DANIEL ",
-        "Puntos": "24",
-        "PuntosSinFormato": "24.00"
-    },
-    {
-        "IdPersona": "366637",
-        "ApellidosNombre": "TORO GOMEZ, JOAN SEBASTIAN",
-        "Puntos": "24",
-        "PuntosSinFormato": "24.00"
-    },
-    {
-        "IdPersona": "888425",
-        "ApellidosNombre": "QUIROGA RAMOS, YAGO",
-        "Puntos": "24",
-        "PuntosSinFormato": "24.00"
-    },
-    {
-        "IdPersona": "391481",
-        "ApellidosNombre": "DOPICO RAMOS, IVAN",
-        "Puntos": "24",
-        "PuntosSinFormato": "24.00"
-    },
-    {
-        "IdPersona": "1321361",
-        "ApellidosNombre": "GOUDIE -, TYSON",
-        "Puntos": "24",
-        "PuntosSinFormato": "24.00"
-    },
-    {
-        "IdPersona": "454134",
-        "ApellidosNombre": "REDONDO GARCIA, AITOR",
-        "Puntos": "24",
-        "PuntosSinFormato": "24.00"
-    },
-    {
-        "IdPersona": "398073",
-        "ApellidosNombre": "LOPEZ CULEBRAS, ALFONSO",
-        "Puntos": "24",
-        "PuntosSinFormato": "24.00"
-    },
-    {
-        "IdPersona": "1324737",
-        "ApellidosNombre": "MARSOU -, EL AMINE",
-        "Puntos": "24",
-        "PuntosSinFormato": "24.00"
-    },
-    {
-        "IdPersona": "322574",
-        "ApellidosNombre": "MUÑOZ GARROTE, RAUL",
-        "Puntos": "24",
-        "PuntosSinFormato": "24.00"
-    },
-    {
-        "IdPersona": "402526",
-        "ApellidosNombre": "CARBALLO SÁNCHEZ, HUGO",
-        "Puntos": "24",
-        "PuntosSinFormato": "24.00"
-    },
-    {
-        "IdPersona": "432521",
-        "ApellidosNombre": "HERNÁNDEZ  CRUZ, ALEJANDRO",
-        "Puntos": "24",
-        "PuntosSinFormato": "24.00"
+        "IdPersona": "1312724",
+        "ApellidosNombre": "ROVIDA  CASTRO, JACOBO ",
+        "Puntos": "22",
+        "PuntosSinFormato": "22.00"
     },
     {
         "IdPersona": "289085",
@@ -5094,10 +5100,10 @@
         "PuntosSinFormato": "22.00"
     },
     {
-        "IdPersona": "1312724",
-        "ApellidosNombre": "ROVIDA  CASTRO, JACOBO ",
+        "IdPersona": "1345923",
+        "ApellidosNombre": "Niva , Mitchell Theodore",
         "Puntos": "22",
-        "PuntosSinFormato": "22.00"
+        "PuntosSinFormato": "21.60"
     },
     {
         "IdPersona": "420483",
@@ -5118,12 +5124,6 @@
         "PuntosSinFormato": "21.60"
     },
     {
-        "IdPersona": "1345923",
-        "ApellidosNombre": "Niva , Mitchell Theodore",
-        "Puntos": "22",
-        "PuntosSinFormato": "21.60"
-    },
-    {
         "IdPersona": "315659",
         "ApellidosNombre": "MARTINEZ MARTINEZ, ANTONIO JAVIER",
         "Puntos": "21",
@@ -5134,54 +5134,6 @@
         "ApellidosNombre": "HERNANDEZ LLORENTE, RAUL",
         "Puntos": "21",
         "PuntosSinFormato": "20.80"
-    },
-    {
-        "IdPersona": "1324293",
-        "ApellidosNombre": "FERNANDEZ VILLANUEVA, CARLOS",
-        "Puntos": "20",
-        "PuntosSinFormato": "20.00"
-    },
-    {
-        "IdPersona": "413860",
-        "ApellidosNombre": "CLAVIJO DOMINGUEZ, DANIEL",
-        "Puntos": "20",
-        "PuntosSinFormato": "20.00"
-    },
-    {
-        "IdPersona": "290245",
-        "ApellidosNombre": "DEL MAR CABALLERO, SAMUEL",
-        "Puntos": "20",
-        "PuntosSinFormato": "20.00"
-    },
-    {
-        "IdPersona": "1205441",
-        "ApellidosNombre": "BRACCAGNI -, GIULIO",
-        "Puntos": "20",
-        "PuntosSinFormato": "20.00"
-    },
-    {
-        "IdPersona": "297020",
-        "ApellidosNombre": "DE ARMAS GONZALEZ, GREGORIO",
-        "Puntos": "20",
-        "PuntosSinFormato": "20.00"
-    },
-    {
-        "IdPersona": "461373",
-        "ApellidosNombre": "CASTILLO FAJARDO, JAVIER",
-        "Puntos": "20",
-        "PuntosSinFormato": "20.00"
-    },
-    {
-        "IdPersona": "889086",
-        "ApellidosNombre": "RODRIGUEZ VEGA, AARON",
-        "Puntos": "20",
-        "PuntosSinFormato": "20.00"
-    },
-    {
-        "IdPersona": "456459",
-        "ApellidosNombre": "PEREZ CORREA, CARLOS EDUARDO",
-        "Puntos": "20",
-        "PuntosSinFormato": "20.00"
     },
     {
         "IdPersona": "1205442",
@@ -5232,6 +5184,54 @@
         "PuntosSinFormato": "20.00"
     },
     {
+        "IdPersona": "1324293",
+        "ApellidosNombre": "FERNANDEZ VILLANUEVA, CARLOS",
+        "Puntos": "20",
+        "PuntosSinFormato": "20.00"
+    },
+    {
+        "IdPersona": "413860",
+        "ApellidosNombre": "CLAVIJO DOMINGUEZ, DANIEL",
+        "Puntos": "20",
+        "PuntosSinFormato": "20.00"
+    },
+    {
+        "IdPersona": "290245",
+        "ApellidosNombre": "DEL MAR CABALLERO, SAMUEL",
+        "Puntos": "20",
+        "PuntosSinFormato": "20.00"
+    },
+    {
+        "IdPersona": "1205441",
+        "ApellidosNombre": "BRACCAGNI -, GIULIO",
+        "Puntos": "20",
+        "PuntosSinFormato": "20.00"
+    },
+    {
+        "IdPersona": "297020",
+        "ApellidosNombre": "DE ARMAS GONZALEZ, GREGORIO",
+        "Puntos": "20",
+        "PuntosSinFormato": "20.00"
+    },
+    {
+        "IdPersona": "461373",
+        "ApellidosNombre": "CASTILLO FAJARDO, JAVIER",
+        "Puntos": "20",
+        "PuntosSinFormato": "20.00"
+    },
+    {
+        "IdPersona": "889086",
+        "ApellidosNombre": "RODRIGUEZ VEGA, AARON",
+        "Puntos": "20",
+        "PuntosSinFormato": "20.00"
+    },
+    {
+        "IdPersona": "456459",
+        "ApellidosNombre": "PEREZ CORREA, CARLOS EDUARDO",
+        "Puntos": "20",
+        "PuntosSinFormato": "20.00"
+    },
+    {
         "IdPersona": "460736",
         "ApellidosNombre": "LAORDEN OTERO, HECTOR MIGUEL",
         "Puntos": "20",
@@ -5248,6 +5248,120 @@
         "ApellidosNombre": "GARCIA RODRIGUEZ, ALVARO",
         "Puntos": "17",
         "PuntosSinFormato": "16.80"
+    },
+    {
+        "IdPersona": "433200",
+        "ApellidosNombre": "SANCHEZ CADENAS, NICOLAS",
+        "Puntos": "16",
+        "PuntosSinFormato": "16.00"
+    },
+    {
+        "IdPersona": "383107",
+        "ApellidosNombre": "DE AMORIM -, FRANK",
+        "Puntos": "16",
+        "PuntosSinFormato": "16.00"
+    },
+    {
+        "IdPersona": "435239",
+        "ApellidosNombre": "ABRIL FERNANDEZ, JUAN MANUEL",
+        "Puntos": "16",
+        "PuntosSinFormato": "16.00"
+    },
+    {
+        "IdPersona": "436534",
+        "ApellidosNombre": "CAMPOS LEBRUSAN, AITOR",
+        "Puntos": "16",
+        "PuntosSinFormato": "16.00"
+    },
+    {
+        "IdPersona": "469091",
+        "ApellidosNombre": "MUS VILCHES, ALEXIS",
+        "Puntos": "16",
+        "PuntosSinFormato": "16.00"
+    },
+    {
+        "IdPersona": "1326126",
+        "ApellidosNombre": "SCHALETZKY -, HANNES",
+        "Puntos": "16",
+        "PuntosSinFormato": "16.00"
+    },
+    {
+        "IdPersona": "264689",
+        "ApellidosNombre": "MOCHALES GONZALEZ, JORGE PEDRO",
+        "Puntos": "16",
+        "PuntosSinFormato": "16.00"
+    },
+    {
+        "IdPersona": "402964",
+        "ApellidosNombre": "TEJERA RODRIGUEZ, GUSTAVO JAVIER",
+        "Puntos": "16",
+        "PuntosSinFormato": "16.00"
+    },
+    {
+        "IdPersona": "1331824",
+        "ApellidosNombre": "OJEDA -, BRIAN JEREMIAS",
+        "Puntos": "16",
+        "PuntosSinFormato": "16.00"
+    },
+    {
+        "IdPersona": "437481",
+        "ApellidosNombre": "LEON SANCHEZ, ANTONIO",
+        "Puntos": "16",
+        "PuntosSinFormato": "16.00"
+    },
+    {
+        "IdPersona": "454986",
+        "ApellidosNombre": "SANTOME GOMEZ, DAVID",
+        "Puntos": "16",
+        "PuntosSinFormato": "16.00"
+    },
+    {
+        "IdPersona": "451668",
+        "ApellidosNombre": "MACIA FERNANDEZ, ADRIAN",
+        "Puntos": "16",
+        "PuntosSinFormato": "16.00"
+    },
+    {
+        "IdPersona": "1308483",
+        "ApellidosNombre": "VALENS BARCELO, FRANCESC XAVIER",
+        "Puntos": "16",
+        "PuntosSinFormato": "16.00"
+    },
+    {
+        "IdPersona": "591701",
+        "ApellidosNombre": "GONZALEZ  MERINO, JUAN DIEGO",
+        "Puntos": "16",
+        "PuntosSinFormato": "16.00"
+    },
+    {
+        "IdPersona": "893743",
+        "ApellidosNombre": "DOS SANTOS MELO, JOAN",
+        "Puntos": "16",
+        "PuntosSinFormato": "16.00"
+    },
+    {
+        "IdPersona": "418551",
+        "ApellidosNombre": "RODRIGUEZ NAVARRO, AUGUSTO",
+        "Puntos": "16",
+        "PuntosSinFormato": "16.00"
+    },
+    {
+        "IdPersona": "1204935",
+        "ApellidosNombre": "RODRIGUEZ DE LEON, PABLO",
+        "Puntos": "16",
+        "PuntosSinFormato": "16.00"
+    },
+    {
+        "IdPersona": "1329670",
+        "ApellidosNombre": "AGAMENNONE -, ANDREA",
+        "Puntos": "16",
+        "PuntosSinFormato": "16.00"
+    },
+    {
+        "IdPersona": "1337664",
+        "ApellidosNombre": "PIMENTEL -, JOAO",
+        "Puntos": "16",
+        "PuntosSinFormato": "16.00"
     },
     {
         "IdPersona": "346633",
@@ -5364,118 +5478,10 @@
         "PuntosSinFormato": "16.00"
     },
     {
-        "IdPersona": "383107",
-        "ApellidosNombre": "DE AMORIM -, FRANK",
-        "Puntos": "16",
-        "PuntosSinFormato": "16.00"
-    },
-    {
-        "IdPersona": "433200",
-        "ApellidosNombre": "SANCHEZ CADENAS, NICOLAS",
-        "Puntos": "16",
-        "PuntosSinFormato": "16.00"
-    },
-    {
-        "IdPersona": "435239",
-        "ApellidosNombre": "ABRIL FERNANDEZ, JUAN MANUEL",
-        "Puntos": "16",
-        "PuntosSinFormato": "16.00"
-    },
-    {
-        "IdPersona": "436534",
-        "ApellidosNombre": "CAMPOS LEBRUSAN, AITOR",
-        "Puntos": "16",
-        "PuntosSinFormato": "16.00"
-    },
-    {
-        "IdPersona": "469091",
-        "ApellidosNombre": "MUS VILCHES, ALEXIS",
-        "Puntos": "16",
-        "PuntosSinFormato": "16.00"
-    },
-    {
-        "IdPersona": "1326126",
-        "ApellidosNombre": "SCHALETZKY -, HANNES",
-        "Puntos": "16",
-        "PuntosSinFormato": "16.00"
-    },
-    {
-        "IdPersona": "264689",
-        "ApellidosNombre": "MOCHALES GONZALEZ, JORGE PEDRO",
-        "Puntos": "16",
-        "PuntosSinFormato": "16.00"
-    },
-    {
-        "IdPersona": "402964",
-        "ApellidosNombre": "TEJERA RODRIGUEZ, GUSTAVO JAVIER",
-        "Puntos": "16",
-        "PuntosSinFormato": "16.00"
-    },
-    {
-        "IdPersona": "1331824",
-        "ApellidosNombre": "OJEDA -, BRIAN JEREMIAS",
-        "Puntos": "16",
-        "PuntosSinFormato": "16.00"
-    },
-    {
-        "IdPersona": "437481",
-        "ApellidosNombre": "LEON SANCHEZ, ANTONIO",
-        "Puntos": "16",
-        "PuntosSinFormato": "16.00"
-    },
-    {
-        "IdPersona": "454986",
-        "ApellidosNombre": "SANTOME GOMEZ, DAVID",
-        "Puntos": "16",
-        "PuntosSinFormato": "16.00"
-    },
-    {
-        "IdPersona": "451668",
-        "ApellidosNombre": "MACIA FERNANDEZ, ADRIAN",
-        "Puntos": "16",
-        "PuntosSinFormato": "16.00"
-    },
-    {
-        "IdPersona": "1308483",
-        "ApellidosNombre": "VALENS BARCELO, FRANCESC XAVIER",
-        "Puntos": "16",
-        "PuntosSinFormato": "16.00"
-    },
-    {
-        "IdPersona": "591701",
-        "ApellidosNombre": "GONZALEZ  MERINO, JUAN DIEGO",
-        "Puntos": "16",
-        "PuntosSinFormato": "16.00"
-    },
-    {
-        "IdPersona": "893743",
-        "ApellidosNombre": "DOS SANTOS MELO, JOAN",
-        "Puntos": "16",
-        "PuntosSinFormato": "16.00"
-    },
-    {
-        "IdPersona": "418551",
-        "ApellidosNombre": "RODRIGUEZ NAVARRO, AUGUSTO",
-        "Puntos": "16",
-        "PuntosSinFormato": "16.00"
-    },
-    {
-        "IdPersona": "1204935",
-        "ApellidosNombre": "RODRIGUEZ DE LEON, PABLO",
-        "Puntos": "16",
-        "PuntosSinFormato": "16.00"
-    },
-    {
-        "IdPersona": "1329670",
-        "ApellidosNombre": "AGAMENNONE -, ANDREA",
-        "Puntos": "16",
-        "PuntosSinFormato": "16.00"
-    },
-    {
-        "IdPersona": "1337664",
-        "ApellidosNombre": "PIMENTEL -, JOAO",
-        "Puntos": "16",
-        "PuntosSinFormato": "16.00"
+        "IdPersona": "439256",
+        "ApellidosNombre": "CABAÑAS APARICIO, ALVARO",
+        "Puntos": "15",
+        "PuntosSinFormato": "14.80"
     },
     {
         "IdPersona": "461284",
@@ -5502,12 +5508,6 @@
         "PuntosSinFormato": "14.80"
     },
     {
-        "IdPersona": "439256",
-        "ApellidosNombre": "CABAÑAS APARICIO, ALVARO",
-        "Puntos": "15",
-        "PuntosSinFormato": "14.80"
-    },
-    {
         "IdPersona": "435657",
         "ApellidosNombre": "MASERAS LOPEZ, NOAH",
         "Puntos": "14",
@@ -5524,6 +5524,12 @@
         "ApellidosNombre": "Mainetti , Matteo",
         "Puntos": "13",
         "PuntosSinFormato": "13.20"
+    },
+    {
+        "IdPersona": "381734",
+        "ApellidosNombre": "GARCIA SAMPER, MARCOS",
+        "Puntos": "12",
+        "PuntosSinFormato": "12.00"
     },
     {
         "IdPersona": "460052",
@@ -5544,14 +5550,14 @@
         "PuntosSinFormato": "12.00"
     },
     {
-        "IdPersona": "892982",
-        "ApellidosNombre": "RAJA HERNANDEZ, ANDRES",
+        "IdPersona": "430171",
+        "ApellidosNombre": "GARVIN MARTIN, DANIEL",
         "Puntos": "12",
         "PuntosSinFormato": "12.00"
     },
     {
-        "IdPersona": "430171",
-        "ApellidosNombre": "GARVIN MARTIN, DANIEL",
+        "IdPersona": "892982",
+        "ApellidosNombre": "RAJA HERNANDEZ, ANDRES",
         "Puntos": "12",
         "PuntosSinFormato": "12.00"
     },
@@ -5578,168 +5584,6 @@
         "ApellidosNombre": "GARRIDO FERNANDEZ, GONZALO",
         "Puntos": "12",
         "PuntosSinFormato": "12.00"
-    },
-    {
-        "IdPersona": "381734",
-        "ApellidosNombre": "GARCIA SAMPER, MARCOS",
-        "Puntos": "12",
-        "PuntosSinFormato": "12.00"
-    },
-    {
-        "IdPersona": "461480",
-        "ApellidosNombre": "SANTANA LORENZO, RUBEN",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "408983",
-        "ApellidosNombre": "RODRIGUEZ HERNANDEZ, PABLO",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "886497",
-        "ApellidosNombre": "MORENO PEREZ, MATTHEW ANTONIO",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "1345259",
-        "ApellidosNombre": "PINCZURA , PIOTR",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "1324542",
-        "ApellidosNombre": "STASIUK -, ERNEST ALEKSANDER",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "415671",
-        "ApellidosNombre": "PERERA QUINTERO, CARLOS",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "447243",
-        "ApellidosNombre": "CHIRIVI -, SERGIO",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "427788",
-        "ApellidosNombre": "LEFAUCONNIER -, OLIVIER",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "1345892",
-        "ApellidosNombre": "MACHIN CEJAS, ALVARO",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "583992",
-        "ApellidosNombre": "COBAS ESTEBAN, EUSEBIO",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "891937",
-        "ApellidosNombre": "MARRERO BRITO, KEVIN",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "1205443",
-        "ApellidosNombre": "FERRO -, FRANCESCO",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "1324580",
-        "ApellidosNombre": "DIAZ RODRIGUEZ, JUAN DAVID",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "269182",
-        "ApellidosNombre": "CAVAS LEON, PEDRO JOSE",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "1326127",
-        "ApellidosNombre": "PIESLIKAS -, ANDRIUS",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "1326129",
-        "ApellidosNombre": "CASATI -, MARCO",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "1337315",
-        "ApellidosNombre": "MOYA MILANES, SANTIAGO",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "441019",
-        "ApellidosNombre": "EUGENIO -, ALVARO",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "1312399",
-        "ApellidosNombre": "GHIZZO -, EUGENIO",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "461421",
-        "ApellidosNombre": "COBAS RAMOS, ALVARO",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "1204919",
-        "ApellidosNombre": "EDUARDO MELO, DANIEL",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "441096",
-        "ApellidosNombre": "HERNANDEZ CEDRES, JORGE",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "1204939",
-        "ApellidosNombre": "CAMPOS SUAREZ, PABLO",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "441170",
-        "ApellidosNombre": "MENDOZA GONZALEZ, JONAY",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "263258",
-        "ApellidosNombre": "ROMERO ABAD, JUAN",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
-    },
-    {
-        "IdPersona": "431001",
-        "ApellidosNombre": "FUENTES HERNANDEZ, IYAREY",
-        "Puntos": "10",
-        "PuntosSinFormato": "10.00"
     },
     {
         "IdPersona": "1205031",
@@ -5832,16 +5676,160 @@
         "PuntosSinFormato": "10.00"
     },
     {
-        "IdPersona": "321099",
-        "ApellidosNombre": "CUESTA GARCIA, CARLOS",
+        "IdPersona": "461480",
+        "ApellidosNombre": "SANTANA LORENZO, RUBEN",
         "Puntos": "10",
-        "PuntosSinFormato": "9.60"
+        "PuntosSinFormato": "10.00"
     },
     {
-        "IdPersona": "442260",
-        "ApellidosNombre": "CASTAÑO DE LA MOTA, DAVID",
+        "IdPersona": "408983",
+        "ApellidosNombre": "RODRIGUEZ HERNANDEZ, PABLO",
         "Puntos": "10",
-        "PuntosSinFormato": "9.60"
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "1345259",
+        "ApellidosNombre": "PINCZURA , PIOTR",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "886497",
+        "ApellidosNombre": "MORENO PEREZ, MATTHEW ANTONIO",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "1324542",
+        "ApellidosNombre": "STASIUK -, ERNEST ALEKSANDER",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "415671",
+        "ApellidosNombre": "PERERA QUINTERO, CARLOS",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "447243",
+        "ApellidosNombre": "CHIRIVI -, SERGIO",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "427788",
+        "ApellidosNombre": "LEFAUCONNIER -, OLIVIER",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "1345892",
+        "ApellidosNombre": "MACHIN CEJAS, ALVARO",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "583992",
+        "ApellidosNombre": "COBAS ESTEBAN, EUSEBIO",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "1205443",
+        "ApellidosNombre": "FERRO -, FRANCESCO",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "1324580",
+        "ApellidosNombre": "DIAZ RODRIGUEZ, JUAN DAVID",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "269182",
+        "ApellidosNombre": "CAVAS LEON, PEDRO JOSE",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "891937",
+        "ApellidosNombre": "MARRERO BRITO, KEVIN",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "1326127",
+        "ApellidosNombre": "PIESLIKAS -, ANDRIUS",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "1326129",
+        "ApellidosNombre": "CASATI -, MARCO",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "1337315",
+        "ApellidosNombre": "MOYA MILANES, SANTIAGO",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "441019",
+        "ApellidosNombre": "EUGENIO -, ALVARO",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "1312399",
+        "ApellidosNombre": "GHIZZO -, EUGENIO",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "461421",
+        "ApellidosNombre": "COBAS RAMOS, ALVARO",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "1204919",
+        "ApellidosNombre": "EDUARDO MELO, DANIEL",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "441096",
+        "ApellidosNombre": "HERNANDEZ CEDRES, JORGE",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "1204939",
+        "ApellidosNombre": "CAMPOS SUAREZ, PABLO",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "441170",
+        "ApellidosNombre": "MENDOZA GONZALEZ, JONAY",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "263258",
+        "ApellidosNombre": "ROMERO ABAD, JUAN",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
+    },
+    {
+        "IdPersona": "431001",
+        "ApellidosNombre": "FUENTES HERNANDEZ, IYAREY",
+        "Puntos": "10",
+        "PuntosSinFormato": "10.00"
     },
     {
         "IdPersona": "462001",
@@ -5868,6 +5856,30 @@
         "PuntosSinFormato": "9.60"
     },
     {
+        "IdPersona": "321099",
+        "ApellidosNombre": "CUESTA GARCIA, CARLOS",
+        "Puntos": "10",
+        "PuntosSinFormato": "9.60"
+    },
+    {
+        "IdPersona": "442260",
+        "ApellidosNombre": "CASTAÑO DE LA MOTA, DAVID",
+        "Puntos": "10",
+        "PuntosSinFormato": "9.60"
+    },
+    {
+        "IdPersona": "391653",
+        "ApellidosNombre": "FARIÑA MUINELO, DANIEL",
+        "Puntos": "8",
+        "PuntosSinFormato": "8.00"
+    },
+    {
+        "IdPersona": "1337662",
+        "ApellidosNombre": "CALADO JUNIOR, VALDINEI",
+        "Puntos": "8",
+        "PuntosSinFormato": "8.00"
+    },
+    {
         "IdPersona": "457570",
         "ApellidosNombre": "CASTRO SEOANE, HUGO",
         "Puntos": "8",
@@ -5882,18 +5894,6 @@
     {
         "IdPersona": "1337663",
         "ApellidosNombre": "FERREIRA -, HUGO",
-        "Puntos": "8",
-        "PuntosSinFormato": "8.00"
-    },
-    {
-        "IdPersona": "391653",
-        "ApellidosNombre": "FARIÑA MUINELO, DANIEL",
-        "Puntos": "8",
-        "PuntosSinFormato": "8.00"
-    },
-    {
-        "IdPersona": "1337662",
-        "ApellidosNombre": "CALADO JUNIOR, VALDINEI",
         "Puntos": "8",
         "PuntosSinFormato": "8.00"
     },
@@ -5938,6 +5938,60 @@
         "ApellidosNombre": "DIAZ PADILLA, JAIME",
         "Puntos": "6",
         "PuntosSinFormato": "6.00"
+    },
+    {
+        "IdPersona": "1338916",
+        "ApellidosNombre": "MARTIN OSORNO, HUGO",
+        "Puntos": "5",
+        "PuntosSinFormato": "4.80"
+    },
+    {
+        "IdPersona": "426739",
+        "ApellidosNombre": "ESPINO MARTINEZ, YAHVE OMAR",
+        "Puntos": "5",
+        "PuntosSinFormato": "4.80"
+    },
+    {
+        "IdPersona": "1338919",
+        "ApellidosNombre": "FERRERAS DOMINGUEZ, ALBERTO",
+        "Puntos": "5",
+        "PuntosSinFormato": "4.80"
+    },
+    {
+        "IdPersona": "291994",
+        "ApellidosNombre": "ARAÑA PADILLA, JORGE",
+        "Puntos": "5",
+        "PuntosSinFormato": "4.80"
+    },
+    {
+        "IdPersona": "252476",
+        "ApellidosNombre": "MARTIN TIRAND, XAVIER MIGUEL",
+        "Puntos": "5",
+        "PuntosSinFormato": "4.80"
+    },
+    {
+        "IdPersona": "1338926",
+        "ApellidosNombre": "PALADINI -, FERDINANDO",
+        "Puntos": "5",
+        "PuntosSinFormato": "4.80"
+    },
+    {
+        "IdPersona": "461320",
+        "ApellidosNombre": "KHLIFI EL KHALIFI, RAYAN",
+        "Puntos": "5",
+        "PuntosSinFormato": "4.80"
+    },
+    {
+        "IdPersona": "1337218",
+        "ApellidosNombre": "DOMBROWE -, NOA JON ECKHARD",
+        "Puntos": "5",
+        "PuntosSinFormato": "4.80"
+    },
+    {
+        "IdPersona": "1345928",
+        "ApellidosNombre": "MIRANDA , ANDRES ANTONIO",
+        "Puntos": "5",
+        "PuntosSinFormato": "4.80"
     },
     {
         "IdPersona": "1345930",
@@ -6030,66 +6084,6 @@
         "PuntosSinFormato": "4.80"
     },
     {
-        "IdPersona": "1338916",
-        "ApellidosNombre": "MARTIN OSORNO, HUGO",
-        "Puntos": "5",
-        "PuntosSinFormato": "4.80"
-    },
-    {
-        "IdPersona": "426739",
-        "ApellidosNombre": "ESPINO MARTINEZ, YAHVE OMAR",
-        "Puntos": "5",
-        "PuntosSinFormato": "4.80"
-    },
-    {
-        "IdPersona": "1338919",
-        "ApellidosNombre": "FERRERAS DOMINGUEZ, ALBERTO",
-        "Puntos": "5",
-        "PuntosSinFormato": "4.80"
-    },
-    {
-        "IdPersona": "291994",
-        "ApellidosNombre": "ARAÑA PADILLA, JORGE",
-        "Puntos": "5",
-        "PuntosSinFormato": "4.80"
-    },
-    {
-        "IdPersona": "252476",
-        "ApellidosNombre": "MARTIN TIRAND, XAVIER MIGUEL",
-        "Puntos": "5",
-        "PuntosSinFormato": "4.80"
-    },
-    {
-        "IdPersona": "1338926",
-        "ApellidosNombre": "PALADINI -, FERDINANDO",
-        "Puntos": "5",
-        "PuntosSinFormato": "4.80"
-    },
-    {
-        "IdPersona": "461320",
-        "ApellidosNombre": "KHLIFI EL KHALIFI, RAYAN",
-        "Puntos": "5",
-        "PuntosSinFormato": "4.80"
-    },
-    {
-        "IdPersona": "1337218",
-        "ApellidosNombre": "DOMBROWE -, NOA JON ECKHARD",
-        "Puntos": "5",
-        "PuntosSinFormato": "4.80"
-    },
-    {
-        "IdPersona": "1345928",
-        "ApellidosNombre": "MIRANDA , ANDRES ANTONIO",
-        "Puntos": "5",
-        "PuntosSinFormato": "4.80"
-    },
-    {
-        "IdPersona": "327602",
-        "ApellidosNombre": "ARRIBAS VALBUENA, CARLOS",
-        "Puntos": "4",
-        "PuntosSinFormato": "4.00"
-    },
-    {
         "IdPersona": "1332261",
         "ApellidosNombre": "SPOLANDER -, JONAS PETTER",
         "Puntos": "4",
@@ -6098,6 +6092,12 @@
     {
         "IdPersona": "451682",
         "ApellidosNombre": "BADIOLA SANCHEZ, ADRIAN",
+        "Puntos": "4",
+        "PuntosSinFormato": "4.00"
+    },
+    {
+        "IdPersona": "327602",
+        "ApellidosNombre": "ARRIBAS VALBUENA, CARLOS",
         "Puntos": "4",
         "PuntosSinFormato": "4.00"
     },
