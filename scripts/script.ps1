@@ -18,13 +18,15 @@ Write-Host "Creating S3 Buckets and Folders..."
 aws s3 mb "s3://$env:BUCKET_NAME"
 
 # Create folder structure for the Data Lake
+# 2. Create folders (keys)
 aws s3api put-object --bucket $env:BUCKET_NAME --key raw/
-aws s3api put-object --bucket $env:BUCKET_NAME --key raw/player_points/
 aws s3api put-object --bucket $env:BUCKET_NAME --key processed/
+aws s3api put-object --bucket $env:BUCKET_NAME --key config/
 aws s3api put-object --bucket $env:BUCKET_NAME --key scripts/
+aws s3api put-object --bucket $env:BUCKET_NAME --key errors/
 
 Write-Host "Creating Kinesis Data Stream..."
-aws kinesis create-stream --stream-name player-points-stream --shard-count 1
+aws kinesis create-stream --stream-name player-bvb-ranking-points-stream --shard-count 1
 
 # 3. LAMBDA TRANSFORMATION (Kinesis Firehose Processor)
 # Note: Ensure 'firehose.py' exists in your current directory
@@ -93,7 +95,7 @@ aws glue create-job `
     --role $env:ROLE_ARN `
     --command "{
         `"Name`": `"glueetl`",
-        `"ScriptLocation`": `"s3://$($env:BUCKET_NAME)/scripts/points_aggregation.py`",
+        `"ScriptLocation`": `"s3://$($env:BUCKET_NAME)/scripts/bvb_ranking_normalization.py`",
         `"PythonVersion`": `"3`"
     }" `
     --default-arguments "{

@@ -23,19 +23,15 @@ def main():
     
     # Convertir a Spark DataFrame para manipulación avanzada
     df = dynamic_frame.toDF()
-    
 
-    # CAMBIAR ESTA PARTE QUE NO TIENE SENTIDO
-    """
-    # 3. Procesamiento y Agregación (Ranking Nacional de Voley Playa)
-    # Agrupamos por jugador para calcular el total de puntos acumulados
-    ranking_df = df.groupBy("id_player", "full_name") \
-        .agg(
-            spark_sum("ranking_points").alias("total_ranking_points"),
-            avg("ranking_points").alias("average_points_per_entry")
-        ) \
-        .orderBy(col("total_ranking_points").desc()) # Ordenar de mayor a menor
-    """
+    # Seleccionar y normalizar columnas
+    ranking_df = df.select(
+        col("id_player"),
+        col("full_name"),
+        col("ranking_points"),
+        col("team"),
+        col("ingestion_timestamp")
+    ).orderBy(col("ranking_points").desc())
 
     # 4. Convertir de nuevo a DynamicFrame para la escritura optimizada de Glue
     output_dynamic_frame = DynamicFrame.fromDF(ranking_df, glueContext, "output_dynamic_frame")

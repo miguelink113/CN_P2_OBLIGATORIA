@@ -38,12 +38,13 @@ def run_producer():
             points = float(str(player['PuntosSinFormato']).replace(',', '.'))
             
             payload = {
-                'id_player': player['IdPersona'], # From your original JSON key
+                'id_player': player['IdPersona'],
                 'full_name': player['ApellidosNombre'],
-                'ranking_points': points,
+                'ranking_points': float(player['PuntosSinFormato']),
+                'team': player['EquipoVoleyPlaya'],
                 'ingestion_timestamp': time.strftime("%Y-%m-%dT%H:%M:%SZ")
             }
-            
+                    
             # Send to Kinesis Data Stream
             response = kinesis.put_record(
                 StreamName=STREAM_NAME,
