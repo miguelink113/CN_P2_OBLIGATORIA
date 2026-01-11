@@ -1,0 +1,6110 @@
+[
+  {
+    "IdPersona": "312721",
+    "ApellidosNombre": "SAUCEDO AMODEO, ANTONIO MANUEL",
+    "Puntos": "21,922",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "392510",
+    "ApellidosNombre": "VIERA IGLESIAS, ALVARO",
+    "Puntos": "21,922",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "299171",
+    "ApellidosNombre": "HUERTA PASTOR, ALEJANDRO",
+    "Puntos": "21,269",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "299170",
+    "ApellidosNombre": "HUERTA PASTOR, JAVIER",
+    "Puntos": "18,448",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "309787",
+    "ApellidosNombre": "MORENO FERRER, DANIEL",
+    "Puntos": "16,786",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "310558",
+    "ApellidosNombre": "PEREZ SUAREZ, PABLO JOSE",
+    "Puntos": "15,994",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "299336",
+    "ApellidosNombre": "SANFÉLIX GIL, ROBERTO",
+    "Puntos": "15,874",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "280176",
+    "ApellidosNombre": "MATOS PAES, NATHAN",
+    "Puntos": "14,758",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "339874",
+    "ApellidosNombre": "GAVIRA COLLADO, ADRIAN",
+    "Puntos": "10,125",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "303220",
+    "ApellidosNombre": "PASCUAL PELLON, JORGE ALVARO",
+    "Puntos": "9,836",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "888203",
+    "ApellidosNombre": "KARVATSKYI -, SVIATOSLAV",
+    "Puntos": "8,936",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "265778",
+    "ApellidosNombre": "AGOST GRANERO, TOMAS",
+    "Puntos": "8,320",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "266823",
+    "ApellidosNombre": "NIETO DEL ROSARIO, MANUEL",
+    "Puntos": "5,710",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "408922",
+    "ApellidosNombre": "GIMENO BATISTA, CARLOS",
+    "Puntos": "5,519",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "313830",
+    "ApellidosNombre": "ABA VARELA, JOSE",
+    "Puntos": "5,400",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "332186",
+    "ApellidosNombre": "DEHESA CHICO, JAIME",
+    "Puntos": "5,280",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "428297",
+    "ApellidosNombre": "VILANOVA ALAPONT, BLAI",
+    "Puntos": "5,254",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "313829",
+    "ApellidosNombre": "ABA VARELA, MANUEL",
+    "Puntos": "5,224",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "428939",
+    "ApellidosNombre": "OBERTHUR -, DANIEL",
+    "Puntos": "5,164",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "293834",
+    "ApellidosNombre": "SANTANA PEREZ-LUZARDO, PEDRO",
+    "Puntos": "5,140",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "1329891",
+    "ApellidosNombre": "LEVINSON -, ISAAC",
+    "Puntos": "5,108",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "1205451",
+    "ApellidosNombre": "NIJKAMP SCHUTTE, JEENE DIMI",
+    "Puntos": "4,888",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "367522",
+    "ApellidosNombre": "TOVAR ABRAHAM, HERNAN A. RAFAEL",
+    "Puntos": "4,812",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "376976",
+    "ApellidosNombre": "TRUYOLS GALMES, LLORENÇ",
+    "Puntos": "4,536",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "308166",
+    "ApellidosNombre": "MESA LITE, RAUL",
+    "Puntos": "4,420",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "268564",
+    "ApellidosNombre": "ESTALELLA HERNANDEZ, ERIC",
+    "Puntos": "4,416",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "314262",
+    "ApellidosNombre": "MORONTA MARTINEZ, SANTIAGO",
+    "Puntos": "3,914",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "469462",
+    "ApellidosNombre": "MAÑANES PICAZO, MAR",
+    "Puntos": "3,874",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "333594",
+    "ApellidosNombre": "EGAÑA PEREZ, IMANOL",
+    "Puntos": "3,866",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "399674",
+    "ApellidosNombre": "POBLACION GONZALEZ, ALONSO FERNANDO",
+    "Puntos": "3,728",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "315008",
+    "ApellidosNombre": "RODRIGUEZ GONZALEZ, IVAN",
+    "Puntos": "3,576",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "299706",
+    "ApellidosNombre": "JIMENEZ GUTIERREZ, OSCAR",
+    "Puntos": "3,528",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "339449",
+    "ApellidosNombre": "BURGAL VENTURA, ANTONIO",
+    "Puntos": "3,512",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "408840",
+    "ApellidosNombre": "NATALI -, SIMONE",
+    "Puntos": "3,480",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "384018",
+    "ApellidosNombre": "ROMERO RICO, HUGO",
+    "Puntos": "3,472",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "469461",
+    "ApellidosNombre": "MAÑANES PICAZO, LEO",
+    "Puntos": "3,402",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "395483",
+    "ApellidosNombre": "CAMACHO VALENTIN, SERGIO",
+    "Puntos": "3,364",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "367737",
+    "ApellidosNombre": "BELLO FERNANDEZ ECHEVARRIA, JUAN ENRIQUE",
+    "Puntos": "3,308",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "367518",
+    "ApellidosNombre": "GUIÑAZU DOMINGUEZ, FERNANDO DAVID",
+    "Puntos": "3,270",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "257350",
+    "ApellidosNombre": "DE AMO FERNANDEZ-ECHEVARRIA, MANUEL",
+    "Puntos": "3,184",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "323470",
+    "ApellidosNombre": "LOPEZ LOPEZ, CESAR",
+    "Puntos": "3,124",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "367548",
+    "ApellidosNombre": "KOSAREVYCH -, PAVLO",
+    "Puntos": "3,106",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "439717",
+    "ApellidosNombre": "SANTOS -, RONALD",
+    "Puntos": "2,924",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "371284",
+    "ApellidosNombre": "PACHÓN ARROYO, EDUARDO",
+    "Puntos": "2,896",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "408076",
+    "ApellidosNombre": "SOROKA KOTLYAR, MAKSYM",
+    "Puntos": "2,856",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "390947",
+    "ApellidosNombre": "FELTRER HERNANDEZ, OSCAR",
+    "Puntos": "2,812",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "389768",
+    "ApellidosNombre": "PICKERT -, FINN",
+    "Puntos": "2,580",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "314263",
+    "ApellidosNombre": "MORONTA MARTINEZ, ROBERTO",
+    "Puntos": "2,526",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "460702",
+    "ApellidosNombre": "GRASSI -, FEDERICO",
+    "Puntos": "2,476",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "307411",
+    "ApellidosNombre": "VAZQUEZ NAYA, DIEGO",
+    "Puntos": "2,452",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "332473",
+    "ApellidosNombre": "FERNANDEZ CELIS, OSCAR",
+    "Puntos": "2,350",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "251900",
+    "ApellidosNombre": "GOMEZ MOYA, RAUL",
+    "Puntos": "2,326",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "367464",
+    "ApellidosNombre": "BRENTEGANI -, FILIPPO",
+    "Puntos": "2,312",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "395814",
+    "ApellidosNombre": "PEREZ ALMEIDA, ORLANDO",
+    "Puntos": "2,270",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "314235",
+    "ApellidosNombre": "PEREZ REDONDO, JAVIER",
+    "Puntos": "2,250",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "445347",
+    "ApellidosNombre": "CALVO LÓPEZ, ALEJANDRO",
+    "Puntos": "2,208",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "430380",
+    "ApellidosNombre": "MARTINEZ FERRER, PERE ANDREU",
+    "Puntos": "2,172",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "408075",
+    "ApellidosNombre": "TOVSTOKORYY GLAZKOV, DENYS",
+    "Puntos": "2,137",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "257373",
+    "ApellidosNombre": "BELLO FERNANDEZ ECHEVARRIA, JOAQUIN",
+    "Puntos": "2,112",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "309170",
+    "ApellidosNombre": "TOMAS RIPOLL, MARIO",
+    "Puntos": "2,094",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "413959",
+    "ApellidosNombre": "LOPEZ DE MIGUEL, VICTOR",
+    "Puntos": "2,055",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "434329",
+    "ApellidosNombre": "ERICKSON RODRIGUEZ, KAI",
+    "Puntos": "1,974",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "390694",
+    "ApellidosNombre": "GIMENO RUBIO, PABLO",
+    "Puntos": "1,972",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "400538",
+    "ApellidosNombre": "NOGUERO CASORRAN, RUBEN",
+    "Puntos": "1,924",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "382786",
+    "ApellidosNombre": "LOUREIRO ZUNZUNEGUI, JAVIER",
+    "Puntos": "1,888",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "383021",
+    "ApellidosNombre": "GONZALEZ DE LA PEÑA, CARLOS",
+    "Puntos": "1,874",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "323504",
+    "ApellidosNombre": "GOMEZ DIAZ, GUILLERMO",
+    "Puntos": "1,872",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "367198",
+    "ApellidosNombre": "ASSEN -, ROBERT",
+    "Puntos": "1,861",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "329839",
+    "ApellidosNombre": "RODRIGUEZ PAZ, DARIO",
+    "Puntos": "1,820",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "426671",
+    "ApellidosNombre": "RODRIGUEZ RODRIGUEZ, ANELDO",
+    "Puntos": "1,800",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "400541",
+    "ApellidosNombre": "NOGUERO CASORRAN, OSCAR",
+    "Puntos": "1,792",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "348778",
+    "ApellidosNombre": "DUQUE GRIJALVO, FRANCISCO JAVIER",
+    "Puntos": "1,784",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "325869",
+    "ApellidosNombre": "GALLARDO HERNANDEZ, RODRIGO",
+    "Puntos": "1,784",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "435435",
+    "ApellidosNombre": "KOEPPEN BARTOLOME, LEONARDO ESTEBAN",
+    "Puntos": "1,750",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "390731",
+    "ApellidosNombre": "SANCHEZ BALUJA, ANGEL",
+    "Puntos": "1,734",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "1249078",
+    "ApellidosNombre": "ETCHEGARAY -, SANTIAGO",
+    "Puntos": "1,728",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "514988",
+    "ApellidosNombre": "FERNANDEZ -, SEBASTIAN NICOLAS",
+    "Puntos": "1,706",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "438969",
+    "ApellidosNombre": "MITEV -, MATEJ",
+    "Puntos": "1,703",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "367158",
+    "ApellidosNombre": "ARRIOLA TOURREILLES, JONATHAN DANIEL",
+    "Puntos": "1,680",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "382784",
+    "ApellidosNombre": "DIAZ SAIZ, DANIEL",
+    "Puntos": "1,634",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "322873",
+    "ApellidosNombre": "MENENDEZ ORTEGO, CESAR",
+    "Puntos": "1,596",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "335733",
+    "ApellidosNombre": "REDIN PACHES, ISAAC",
+    "Puntos": "1,564",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "413952",
+    "ApellidosNombre": "DE MELLO HERNANDEZ, FELIPE",
+    "Puntos": "1,532",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "432948",
+    "ApellidosNombre": "PRIETO FIGUEROA, PABLO",
+    "Puntos": "1,520",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "1312889",
+    "ApellidosNombre": "CAPOGROSSO -, NICOLÁS",
+    "Puntos": "1,500",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "319805",
+    "ApellidosNombre": "LOPEZ FERNANDEZ, CARLOS",
+    "Puntos": "1,450",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "308467",
+    "ApellidosNombre": "HUESCA ESTEVE, HUGO",
+    "Puntos": "1,428",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "412874",
+    "ApellidosNombre": "CANO LÓPEZ, DIEGO",
+    "Puntos": "1,426",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "435219",
+    "ApellidosNombre": "MONTINARO -, FRANCESCO",
+    "Puntos": "1,392",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "264016",
+    "ApellidosNombre": "MORANT BOIX, JESUS",
+    "Puntos": "1,386",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "391154",
+    "ApellidosNombre": "HOWARD CARCASSE, JEAN DAVID",
+    "Puntos": "1,331",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "396715",
+    "ApellidosNombre": "MOLINA BALLESTER, PABLO",
+    "Puntos": "1,306",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "1333540",
+    "ApellidosNombre": "SANCER NAVARRO, RAMIRO",
+    "Puntos": "1,300",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "427997",
+    "ApellidosNombre": "GONZALEZ ESPÓSITO, MANUEL",
+    "Puntos": "1,291",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "412508",
+    "ApellidosNombre": "CABAÑAS APARICIO, RAFAEL",
+    "Puntos": "1,287",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "382922",
+    "ApellidosNombre": "GIL ARIAS, DARÍO",
+    "Puntos": "1,244",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "346008",
+    "ApellidosNombre": "DODERO RODRIGUEZ, ANTONIO",
+    "Puntos": "1,240",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "364576",
+    "ApellidosNombre": "VASQUEZ AGUILAR, FELIX ARTURO",
+    "Puntos": "1,240",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "264963",
+    "ApellidosNombre": "RENDON PEIRÓ, ALDO",
+    "Puntos": "1,240",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "265951",
+    "ApellidosNombre": "VIVES MARIN, LUIS JOSE",
+    "Puntos": "1,235",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "415517",
+    "ApellidosNombre": "DIAZ MELO, RAUL",
+    "Puntos": "1,187",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "771923",
+    "ApellidosNombre": "GUERRERO TOMICO, GAIZKA",
+    "Puntos": "1,186",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "441200",
+    "ApellidosNombre": "PORTAÑA VIDAL, ROQUE",
+    "Puntos": "1,180",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "368831",
+    "ApellidosNombre": "GIBANEL GALMES, SEBASTIA",
+    "Puntos": "1,176",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "1205567",
+    "ApellidosNombre": "NACCARATO -, FRANCESCO",
+    "Puntos": "1,168",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "247589",
+    "ApellidosNombre": "PEREZ GARCIA, FELIX JAVIER",
+    "Puntos": "1,119",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "289565",
+    "ApellidosNombre": "MORALES REAL, EFREN",
+    "Puntos": "1,112",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "436191",
+    "ApellidosNombre": "ARIZA CARREÑO, EDGAR FELIPE",
+    "Puntos": "1,080",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "390390",
+    "ApellidosNombre": "ERADES JIMÉNEZ, DARIO",
+    "Puntos": "1,050",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "432944",
+    "ApellidosNombre": "CLAVERO OLAIZOLA, XABIER",
+    "Puntos": "1,048",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "326567",
+    "ApellidosNombre": "PEREZ GOMEZ, ADRIAN",
+    "Puntos": "1,048",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "297096",
+    "ApellidosNombre": "MEDINA PEREZ, GUILLERMO JOSE",
+    "Puntos": "1,024",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "268099",
+    "ApellidosNombre": "TOMAS CUADRADO, FRANCISCO JAVIER",
+    "Puntos": "1,000",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "376536",
+    "ApellidosNombre": "VIDAL FERREIROS, AARON",
+    "Puntos": "990",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "293433",
+    "ApellidosNombre": "GONZALEZ ARENCIBIA, ADAY FRANCISCO",
+    "Puntos": "985",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "390769",
+    "ApellidosNombre": "GALA TRALLERO, SERGIO",
+    "Puntos": "978",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "245910",
+    "ApellidosNombre": "BUYS -, TIMOTHY M.",
+    "Puntos": "976",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "435354",
+    "ApellidosNombre": "RANGEL ESCOBAR, CARLOS EDUARDO",
+    "Puntos": "968",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "333611",
+    "ApellidosNombre": "PEREZ MOREDA, JAVIER",
+    "Puntos": "964",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "427769",
+    "ApellidosNombre": "GONZALEZ ANDUJAR, CAMILO LEON",
+    "Puntos": "948",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "403754",
+    "ApellidosNombre": "ARCHILES SEGARRA, ADRIAN",
+    "Puntos": "939",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "423974",
+    "ApellidosNombre": "GALLEGO SOLINA, DANIEL",
+    "Puntos": "922",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "376963",
+    "ApellidosNombre": "MARTI RASKOVA, IAN TOMEU",
+    "Puntos": "904",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "1311518",
+    "ApellidosNombre": "SARIK-VERESS -, MARCELL",
+    "Puntos": "903",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "303765",
+    "ApellidosNombre": "QUEIRO CASTRO, MANUEL",
+    "Puntos": "900",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1324491",
+    "ApellidosNombre": "SENGERS -, MEES",
+    "Puntos": "900",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "427996",
+    "ApellidosNombre": "GONZALEZ ESPÓSITO, GONZALO",
+    "Puntos": "900",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "454389",
+    "ApellidosNombre": "GOMEZ GARCIA, AITOR",
+    "Puntos": "890",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "307997",
+    "ApellidosNombre": "ALOS MARTINEZ, FRANCK",
+    "Puntos": "886",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "306934",
+    "ApellidosNombre": "NAYA GIMENO, JAVIER",
+    "Puntos": "880",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "887905",
+    "ApellidosNombre": "PERELLO -, ARTTU",
+    "Puntos": "879",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "399826",
+    "ApellidosNombre": "TORRELLAS STORM VAN LEEUWEN, THIBAULT RENAUD",
+    "Puntos": "872",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "471633",
+    "ApellidosNombre": "TAGLIAFERRO GARCIA, NAHUEL",
+    "Puntos": "872",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "313413",
+    "ApellidosNombre": "VIVES PARRALO, PAU",
+    "Puntos": "872",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "1321670",
+    "ApellidosNombre": "LONGHI -, TOMMASO",
+    "Puntos": "866",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "408932",
+    "ApellidosNombre": "VALCARCE LERMA, PABLO",
+    "Puntos": "866",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "403778",
+    "ApellidosNombre": "CASADO FERNANDEZ, FRANCISCO",
+    "Puntos": "856",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "413962",
+    "ApellidosNombre": "MARTIN MAESTRE, VICTOR",
+    "Puntos": "852",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "263493",
+    "ApellidosNombre": "DE JUAN MILLA, DAVID",
+    "Puntos": "840",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "449986",
+    "ApellidosNombre": "GARCIA SOLANA, IÑIGO",
+    "Puntos": "831",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "402839",
+    "ApellidosNombre": "MUÑOZ PEREZ, JOAN",
+    "Puntos": "816",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "355976",
+    "ApellidosNombre": "AÑES PERALTA, FRANDER JOSE",
+    "Puntos": "808",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "287129",
+    "ApellidosNombre": "BELTRAN PUJOL, JUAN",
+    "Puntos": "808",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "323549",
+    "ApellidosNombre": "PILO MORCILLO, MIGUEL ÁNGEL",
+    "Puntos": "804",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "348356",
+    "ApellidosNombre": "MARTIN BRAVO, ENRIQUE",
+    "Puntos": "800",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "280540",
+    "ApellidosNombre": "ALVAREZ IGLESIAS, CRISTOBAL",
+    "Puntos": "798",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "437968",
+    "ApellidosNombre": "MARTINEZ SANCHEZ, YAGO",
+    "Puntos": "794",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "350526",
+    "ApellidosNombre": "ZANOTTA -, NICOLAS",
+    "Puntos": "784",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "451738",
+    "ApellidosNombre": "DE PABLO BARDERAS, RUBEN",
+    "Puntos": "778",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "376971",
+    "ApellidosNombre": "TRUYOLS GALMES, ANTONI",
+    "Puntos": "776",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "380286",
+    "ApellidosNombre": "CROZIER LOPEZ, ELIJAH DAVID",
+    "Puntos": "776",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "282641",
+    "ApellidosNombre": "ALISEDA PUJALS, OSCAR",
+    "Puntos": "770",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "442613",
+    "ApellidosNombre": "POU GARCIA, LUCAS",
+    "Puntos": "768",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "418176",
+    "ApellidosNombre": "MORALES DE LA VEGA, DIEGO",
+    "Puntos": "762",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "406416",
+    "ApellidosNombre": "FLEQUER GAIA, PERE",
+    "Puntos": "756",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "365453",
+    "ApellidosNombre": "SEGOVIA SOLERNO, JUAN MARTIN",
+    "Puntos": "736",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "282806",
+    "ApellidosNombre": "MURO LOPEZ, RAFA",
+    "Puntos": "732",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "416451",
+    "ApellidosNombre": "BLASL VALLCANERAS, GABRIEL AMADEUS",
+    "Puntos": "724",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "1307448",
+    "ApellidosNombre": "GONZALEZ ZORRILLA, JOSE MIGUEL",
+    "Puntos": "715",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "295299",
+    "ApellidosNombre": "SANCHEZ JUAN, SEBASTIA",
+    "Puntos": "712",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "342131",
+    "ApellidosNombre": "MORO FERNANDEZ, ALFONSO",
+    "Puntos": "710",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "425348",
+    "ApellidosNombre": "ARCIERI -, DOMENICO",
+    "Puntos": "704",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "435626",
+    "ApellidosNombre": "LIMA -, BRENO",
+    "Puntos": "690",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "344557",
+    "ApellidosNombre": "LUNA MORENO, SALVADOR",
+    "Puntos": "672",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "374356",
+    "ApellidosNombre": "SENA MORENO, MOISES",
+    "Puntos": "672",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "442289",
+    "ApellidosNombre": "VAN ACHTER -, MATHIS",
+    "Puntos": "666",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "284177",
+    "ApellidosNombre": "MORATO NOGUER, FERRAN",
+    "Puntos": "662",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "1334577",
+    "ApellidosNombre": "KOZII -, DMYTRO",
+    "Puntos": "660",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "415341",
+    "ApellidosNombre": "ILJINS KOSELEV, ANDREJS",
+    "Puntos": "660",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "1334576",
+    "ApellidosNombre": "NAHORNYI -, SVIATOSLAV",
+    "Puntos": "660",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "412938",
+    "ApellidosNombre": "PLATRE -, TIMOTHEE PIERRE",
+    "Puntos": "660",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "413947",
+    "ApellidosNombre": "GARCIA RIOS, BORJA",
+    "Puntos": "651",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "386010",
+    "ApellidosNombre": "MYKINA BELZA, LUDWIG",
+    "Puntos": "646",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "413633",
+    "ApellidosNombre": "RONCHI VILCHE, PABLO",
+    "Puntos": "630",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "403738",
+    "ApellidosNombre": "DUBOE -, CYRIL",
+    "Puntos": "626",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "291210",
+    "ApellidosNombre": "SALVO OREJA, LUIS",
+    "Puntos": "612",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "412407",
+    "ApellidosNombre": "PARIS IBAÑEZ, ZEUS",
+    "Puntos": "608",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "257372",
+    "ApellidosNombre": "BELLO FERNANDEZ ECHEVARRIA, JAVIER",
+    "Puntos": "600",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "284329",
+    "ApellidosNombre": "DURAN GENOVART, LLUIS",
+    "Puntos": "587",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1321360",
+    "ApellidosNombre": "POUSSE DEFOIS, HUGO",
+    "Puntos": "572",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "332907",
+    "ApellidosNombre": "RUIZ POSADAS, DANIEL",
+    "Puntos": "568",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "1311543",
+    "ApellidosNombre": "MAESTRI -, ANDREA",
+    "Puntos": "552",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "406008",
+    "ApellidosNombre": "CASTILLO RIPOL, VERNON",
+    "Puntos": "548",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "321605",
+    "ApellidosNombre": "MORO FERNANDEZ, EDUARDO",
+    "Puntos": "548",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "288492",
+    "ApellidosNombre": "LLOPART COLL, ALEJANDRO",
+    "Puntos": "536",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1334442",
+    "ApellidosNombre": "HIERONIMUS -, WOUTER",
+    "Puntos": "528",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "597986",
+    "ApellidosNombre": "MARTINEZ VALDIVIESO, DANIEL",
+    "Puntos": "528",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "371281",
+    "ApellidosNombre": "GUERRERO OJEDA, MIGUEL",
+    "Puntos": "528",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "374350",
+    "ApellidosNombre": "VAZQUEZ CALLE, MARIO",
+    "Puntos": "528",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "335374",
+    "ApellidosNombre": "MARTINEZ APARICIO, RUBEN",
+    "Puntos": "520",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "319117",
+    "ApellidosNombre": "BENLLOCH OTEIZA, JORGE",
+    "Puntos": "514",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "313579",
+    "ApellidosNombre": "VALIÑO SANZ, ISAAC",
+    "Puntos": "512",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "431056",
+    "ApellidosNombre": "MARTINEZ RUIZ, ANGEL",
+    "Puntos": "504",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "282535",
+    "ApellidosNombre": "MORA SABATE, CARLOS",
+    "Puntos": "504",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "340442",
+    "ApellidosNombre": "DOMINE QUIJADA, SERGIO",
+    "Puntos": "504",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "367336",
+    "ApellidosNombre": "DE SENA NASCIMENTO, ANTONIO MARIO",
+    "Puntos": "472",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "427645",
+    "ApellidosNombre": "PEREZ MARTIN, XAVIER",
+    "Puntos": "468",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "409892",
+    "ApellidosNombre": "CACHEDA BERNAL, MARIO FRANCISCO",
+    "Puntos": "468",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "454892",
+    "ApellidosNombre": "GUANTES VAZQUEZ, JOSE LUIS",
+    "Puntos": "468",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "269342",
+    "ApellidosNombre": "CASTELLANOS ORTIZ, HECTOR ANDRES",
+    "Puntos": "464",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "287744",
+    "ApellidosNombre": "MARTINEZ PORTALES, JAVIER",
+    "Puntos": "464",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "403202",
+    "ApellidosNombre": "TORRADO BALESTEROS, MATIAS",
+    "Puntos": "462",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "514937",
+    "ApellidosNombre": "BIGOGNO -, ALBERTO",
+    "Puntos": "456",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "426727",
+    "ApellidosNombre": "CARRASCO HORMIGOS, DANIEL",
+    "Puntos": "456",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "265802",
+    "ApellidosNombre": "MARIN MATEU, MARC",
+    "Puntos": "451",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "287296",
+    "ApellidosNombre": "HERNANDEZ BORRAS, GABRIEL ANGEL",
+    "Puntos": "448",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "304915",
+    "ApellidosNombre": "ROVIRA PAHISSA, CONRAD",
+    "Puntos": "442",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "370089",
+    "ApellidosNombre": "YUSTE AMATE, JAVIER",
+    "Puntos": "440",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "1336703",
+    "ApellidosNombre": "PASZKIEWICZ -, COLIN ALEKSANDER",
+    "Puntos": "432",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "347638",
+    "ApellidosNombre": "ALMEIDA ORTEGA, ERIC JAVIER",
+    "Puntos": "430",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "461999",
+    "ApellidosNombre": "BERMUDEZ  RIOBOO, DAVID",
+    "Puntos": "406",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "321223",
+    "ApellidosNombre": "BRAVO SUAREZ, CARLOS MANUEL",
+    "Puntos": "406",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "340511",
+    "ApellidosNombre": "YAGUE DOMINGUEZ, FCO. JAVIER",
+    "Puntos": "400",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "368424",
+    "ApellidosNombre": "GONZALEZ JEREZ, NESTOR ALBERTO",
+    "Puntos": "400",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "391513",
+    "ApellidosNombre": "RODRIGUEZ ORTIZ, MIGUEL",
+    "Puntos": "400",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "421258",
+    "ApellidosNombre": "SOSA AREVALO, ADRIAN",
+    "Puntos": "400",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "431203",
+    "ApellidosNombre": "SÁNCHEZ QUESADA, MARIO",
+    "Puntos": "396",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "288464",
+    "ApellidosNombre": "MUÑOZ RIBAS, GABRIEL FELIPE",
+    "Puntos": "392",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "349916",
+    "ApellidosNombre": "LAMA GONZALEZ, ALEJANDRO",
+    "Puntos": "384",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "442981",
+    "ApellidosNombre": "INZAURRALDE VEGA, LORENZO",
+    "Puntos": "384",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "384925",
+    "ApellidosNombre": "DALMAU MUÑOZ, IVAN",
+    "Puntos": "382",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "1326744",
+    "ApellidosNombre": "LAMORAL WALTERS, OLIVER",
+    "Puntos": "378",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "1311570",
+    "ApellidosNombre": "LEON -, JOEL ANDRES",
+    "Puntos": "376",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "312107",
+    "ApellidosNombre": "ALGAR SALAMANCA, EMILIO",
+    "Puntos": "376",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "935131",
+    "ApellidosNombre": "DIAZ ARCE, CARLOS ANDRES",
+    "Puntos": "376",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "893135",
+    "ApellidosNombre": "TORRES MINA, JOSE FELIPE",
+    "Puntos": "376",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "462002",
+    "ApellidosNombre": "ALVAREZ MARTINEZ, MAURO",
+    "Puntos": "374",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "891939",
+    "ApellidosNombre": "GRILLI -, EMMANUELE",
+    "Puntos": "374",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "399118",
+    "ApellidosNombre": "RAKSANYI -, DAMIEN",
+    "Puntos": "370",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "452200",
+    "ApellidosNombre": "USTIMENKO -, ANTON",
+    "Puntos": "360",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "300548",
+    "ApellidosNombre": "MARTINEZ SANCHEZ, ISMAEL",
+    "Puntos": "352",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "889083",
+    "ApellidosNombre": "DE LA TORRE MONAGAS, JONATHAN JOSE",
+    "Puntos": "349",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "370651",
+    "ApellidosNombre": "CASTRO ANTUÑA, LUCAS",
+    "Puntos": "346",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "370746",
+    "ApellidosNombre": "ARGUELLES RIVERA, MARCOS",
+    "Puntos": "346",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "435691",
+    "ApellidosNombre": "SOMOZA ATANES, XAN",
+    "Puntos": "344",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "1325247",
+    "ApellidosNombre": "CUBERTORER SEGARRA, MANEL",
+    "Puntos": "344",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "1205444",
+    "ApellidosNombre": "LAUER -, MANUEL",
+    "Puntos": "344",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "434150",
+    "ApellidosNombre": "HERNANDEZ GIL, ROLANDO HENRIQUE",
+    "Puntos": "344",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "886676",
+    "ApellidosNombre": "MARTINEZ BRAVO, MIGUEL ANGEL",
+    "Puntos": "336",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "326363",
+    "ApellidosNombre": "RESPINO VILAR, PABLO",
+    "Puntos": "332",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "461100",
+    "ApellidosNombre": "REGUEIRO EIRIS, PABLO",
+    "Puntos": "332",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "413750",
+    "ApellidosNombre": "SEOANE ALLOZA, GUILLERMO",
+    "Puntos": "326",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "454888",
+    "ApellidosNombre": "FERNANDEZ FERNANDEZ, LUCAS",
+    "Puntos": "322",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "430407",
+    "ApellidosNombre": "NOGUE GOMEZ, JAN",
+    "Puntos": "320",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "413836",
+    "ApellidosNombre": "FERNANDEZ DOMURO, MOISES",
+    "Puntos": "320",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "414329",
+    "ApellidosNombre": "GROSSI DE SOUZA SANTOS, ANDERSON",
+    "Puntos": "320",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "369870",
+    "ApellidosNombre": "ROSA RUIZ, PAUL",
+    "Puntos": "320",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "265214",
+    "ApellidosNombre": "PRADES CARNICER, OSCAR",
+    "Puntos": "315",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "367539",
+    "ApellidosNombre": "CAIRUS LUCARELLI, RENZO",
+    "Puntos": "312",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "367759",
+    "ApellidosNombre": "MOYA GOLZE, JUAN MANUEL",
+    "Puntos": "312",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "408234",
+    "ApellidosNombre": "SUAREZ FERNANDEZ, ALEIX",
+    "Puntos": "308",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "389812",
+    "ApellidosNombre": "CABRER GALLEGO, GUILLEM",
+    "Puntos": "308",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "431196",
+    "ApellidosNombre": "SCOTTO SEDEÑO, CARLOS",
+    "Puntos": "308",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "332417",
+    "ApellidosNombre": "MONCADA CORRAL, DIEGO",
+    "Puntos": "306",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "332503",
+    "ApellidosNombre": "RODRIGUEZ DOSAL, ANGEL",
+    "Puntos": "306",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "337659",
+    "ApellidosNombre": "ARIZA MOLINA, JOSE MANUEL",
+    "Puntos": "304",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "349104",
+    "ApellidosNombre": "BATALLAN MEDINA, SEGUNDO IGNACIO",
+    "Puntos": "296",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "771853",
+    "ApellidosNombre": "MARCOS PEREZ, ALBERTO",
+    "Puntos": "292",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "250955",
+    "ApellidosNombre": "ASTILLEROS FERNANDEZ, MIGUEL",
+    "Puntos": "288",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "251495",
+    "ApellidosNombre": "SOBRINO MARTIN, SERGIO",
+    "Puntos": "288",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "348976",
+    "ApellidosNombre": "CARVAJAL CABELLO, RAUL",
+    "Puntos": "288",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "307942",
+    "ApellidosNombre": "MASIA PORREs, ARNAU",
+    "Puntos": "288",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "584051",
+    "ApellidosNombre": "FIEDLER -, FLORIAN",
+    "Puntos": "288",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "288071",
+    "ApellidosNombre": "OJEDA OLIVER, DANIEL",
+    "Puntos": "288",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "441093",
+    "ApellidosNombre": "GANFORNINA NACHER, HUGO",
+    "Puntos": "286",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "373062",
+    "ApellidosNombre": "CALLEJO MARTINEZ, PAU",
+    "Puntos": "284",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "445394",
+    "ApellidosNombre": "BAROZZI -, NICOLO",
+    "Puntos": "284",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "441113",
+    "ApellidosNombre": "LUCA DE TENA CAO, LEO",
+    "Puntos": "280",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1325918",
+    "ApellidosNombre": "LOZADA GARCIA, JACOB MOISES",
+    "Puntos": "276",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "272481",
+    "ApellidosNombre": "NASSINI HIDALGO, STEFANO",
+    "Puntos": "272",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "345916",
+    "ApellidosNombre": "AROCHA RUIZ, ALVARO DAVID",
+    "Puntos": "272",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "428925",
+    "ApellidosNombre": "FUSTER POORE, SERGIO",
+    "Puntos": "272",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "425908",
+    "ApellidosNombre": "PETROV -, VITALIJ",
+    "Puntos": "264",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "435245",
+    "ApellidosNombre": "DEL COTO REDONDO, BRAIS",
+    "Puntos": "264",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "326720",
+    "ApellidosNombre": "PILO PAREDES, DAVID",
+    "Puntos": "264",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "365980",
+    "ApellidosNombre": "RONCHI -, NICOLAS",
+    "Puntos": "264",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "451733",
+    "ApellidosNombre": "VINICHUK -, OLEH",
+    "Puntos": "264",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "284511",
+    "ApellidosNombre": "PONT PERELLÓ, GUILLEM",
+    "Puntos": "264",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "402644",
+    "ApellidosNombre": "CARTAGENA TEIGELI, MIGUEL",
+    "Puntos": "262",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "399680",
+    "ApellidosNombre": "SERRANO CERAME, LUIS",
+    "Puntos": "262",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "279781",
+    "ApellidosNombre": "FERNANDEZ PEREIRA, CARLOS",
+    "Puntos": "256",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "430406",
+    "ApellidosNombre": "NOGUE GOMEZ, BIEL",
+    "Puntos": "256",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "428295",
+    "ApellidosNombre": "NEGRINI -, NICOLA",
+    "Puntos": "256",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "390948",
+    "ApellidosNombre": "MARTIN GARCIA, DAVID",
+    "Puntos": "254",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "402813",
+    "ApellidosNombre": "MENENDEZ SANCHEZ, DANIEL",
+    "Puntos": "252",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "402812",
+    "ApellidosNombre": "MENENDEZ SANCHEZ, NICOLAS",
+    "Puntos": "252",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "415314",
+    "ApellidosNombre": "RIVERO FALCON, ALVARO",
+    "Puntos": "248",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "470990",
+    "ApellidosNombre": "HORMIGO GARCÍA, HAROLD",
+    "Puntos": "244",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "340196",
+    "ApellidosNombre": "BRILLO MERIDEÑO, RICARDO",
+    "Puntos": "240",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "453923",
+    "ApellidosNombre": "ARRIBAS OCIO, HEGOI",
+    "Puntos": "240",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "429806",
+    "ApellidosNombre": "GARCÍA LOPEZ, RAFAEL",
+    "Puntos": "240",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "771634",
+    "ApellidosNombre": "CHAVARIS FERNANDEZ DE RETANA, JULEN",
+    "Puntos": "240",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "431270",
+    "ApellidosNombre": "GONZALEZ UBIERA, JOSE",
+    "Puntos": "240",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "348480",
+    "ApellidosNombre": "MACARRO TORTAJADA, DANIEL",
+    "Puntos": "240",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "440073",
+    "ApellidosNombre": "DEU CARRERAS, XENIUS",
+    "Puntos": "238",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "249231",
+    "ApellidosNombre": "FERNANDEZ RODRIGUEZ, VICTOR",
+    "Puntos": "232",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "339963",
+    "ApellidosNombre": "PEREZ CORDERO, ALEXANDER",
+    "Puntos": "232",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "421094",
+    "ApellidosNombre": "GOMES MORENO, MANUEL",
+    "Puntos": "232",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "280626",
+    "ApellidosNombre": "RODRIGUEZ FERNANDEZ-ARROYO, EDUARDO",
+    "Puntos": "232",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "461422",
+    "ApellidosNombre": "RUSSO -, LEONARDO",
+    "Puntos": "231",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "438574",
+    "ApellidosNombre": "RECAREY FERNANDEZ, RICARDO",
+    "Puntos": "230",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "1313330",
+    "ApellidosNombre": "DE JESUS ISTURIZ ALVAREZ, JORGE ALEJANDRO",
+    "Puntos": "228",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "373990",
+    "ApellidosNombre": "MORACHO FERNANDEZ, ADRIAN",
+    "Puntos": "228",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "454211",
+    "ApellidosNombre": "ANDRIOLA -, GABRIELE",
+    "Puntos": "224",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "1324971",
+    "ApellidosNombre": "D'ELIA -, RAFAELE",
+    "Puntos": "224",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "441017",
+    "ApellidosNombre": "CASTIGLIA LUCAS, TOMAS",
+    "Puntos": "224",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "277095",
+    "ApellidosNombre": "BLANCO COUCE, MARCOS",
+    "Puntos": "222",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "423231",
+    "ApellidosNombre": "SANABRIA SANCHEZ, TOMAS",
+    "Puntos": "220",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "755002",
+    "ApellidosNombre": "HAMILTON -, RYAN",
+    "Puntos": "216",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "324806",
+    "ApellidosNombre": "PINO BARBERO, DANIEL",
+    "Puntos": "216",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "288236",
+    "ApellidosNombre": "CATALA GARCIES, ANDREU",
+    "Puntos": "216",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "444377",
+    "ApellidosNombre": "SANCHEZ DUARTE, RICARDO",
+    "Puntos": "216",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "429140",
+    "ApellidosNombre": "BUTAUTAS -, TOMAS",
+    "Puntos": "216",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "455294",
+    "ApellidosNombre": "CARRERA MORENO, MICHAEL RAMSES",
+    "Puntos": "212",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "394489",
+    "ApellidosNombre": "VOLPI CALDENTENY, DARIO",
+    "Puntos": "208",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "380150",
+    "ApellidosNombre": "SALMERON SAIZ, GUILLERMO",
+    "Puntos": "208",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "390619",
+    "ApellidosNombre": "MARTEL DODERO, ANGEL JAVIER",
+    "Puntos": "208",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "403776",
+    "ApellidosNombre": "ANDRADE MARISCAL, JORGE",
+    "Puntos": "208",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "886630",
+    "ApellidosNombre": "TRUJILLO DIEZ, RAUL",
+    "Puntos": "207",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "1311819",
+    "ApellidosNombre": "KONDAKOV -, ARKADII",
+    "Puntos": "205",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "395842",
+    "ApellidosNombre": "ZANELLA TACHDJIAN, LUCA EZEQUIEL",
+    "Puntos": "204",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "1338540",
+    "ApellidosNombre": "NEUMANN -, FRANZ",
+    "Puntos": "200",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "251463",
+    "ApellidosNombre": "MORCILLO LOPEZ-HERMOSO, CHRISTOPHER",
+    "Puntos": "200",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "1326024",
+    "ApellidosNombre": "KURT -, LENNART",
+    "Puntos": "200",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "1336639",
+    "ApellidosNombre": "BATRANE -, ISSA MOUSSA",
+    "Puntos": "200",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "337491",
+    "ApellidosNombre": "MÉNDEZ JIMÉNEZ, VICTOR",
+    "Puntos": "200",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "1338539",
+    "ApellidosNombre": "SADORF -, SAMUEL",
+    "Puntos": "200",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "376978",
+    "ApellidosNombre": "SITGES GARAU, TOMEU",
+    "Puntos": "200",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "1336638",
+    "ApellidosNombre": "BIAKOLOZ -, FREDERICK ALEXANDER",
+    "Puntos": "200",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "251466",
+    "ApellidosNombre": "FERNANDEZ HERNANDEZ, ALEJANDRO",
+    "Puntos": "200",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "317434",
+    "ApellidosNombre": "RODRIGUEZ MARQUEZ, AUGUSTO",
+    "Puntos": "200",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "432341",
+    "ApellidosNombre": "RUIZ DE AZUA TELLERIA, IGOR",
+    "Puntos": "197",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "325129",
+    "ApellidosNombre": "SOSA RUIZ-ROSO, PABLO",
+    "Puntos": "196",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "414980",
+    "ApellidosNombre": "CANDA PAZOS, FERNANDO",
+    "Puntos": "192",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "402884",
+    "ApellidosNombre": "GONZALEZ MUELAS, MARTIN",
+    "Puntos": "192",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "437946",
+    "ApellidosNombre": "MONTES GARCIA, DANIEL",
+    "Puntos": "192",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "327246",
+    "ApellidosNombre": "MESA BERROCAL, SAMUEL",
+    "Puntos": "192",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "1205530",
+    "ApellidosNombre": "MORENO LIÑAN, JUAN JESUS",
+    "Puntos": "189",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "445658",
+    "ApellidosNombre": "MESTRE YUBERO, IKER",
+    "Puntos": "184",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "1313213",
+    "ApellidosNombre": "CHANE -, NABIL",
+    "Puntos": "184",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "321302",
+    "ApellidosNombre": "RODRIGUEZ LAGO, ROBERTO",
+    "Puntos": "184",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "323657",
+    "ApellidosNombre": "BARBERO VÁZQUEZ, CARLOS",
+    "Puntos": "184",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "755017",
+    "ApellidosNombre": "Torremocha Millan, Mario",
+    "Puntos": "184",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "755016",
+    "ApellidosNombre": "Torremocha Millan, Pablo",
+    "Puntos": "184",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "324424",
+    "ApellidosNombre": "RODRIGUEZ FERNANDEZ, ALEXANDRE",
+    "Puntos": "184",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "427240",
+    "ApellidosNombre": "SAGRERA -, JAUME",
+    "Puntos": "184",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "284003",
+    "ApellidosNombre": "CABRER GOMILA, JOAN FRANCESC",
+    "Puntos": "184",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "442651",
+    "ApellidosNombre": "GALLARDO MARTINEZ, SALVADOR",
+    "Puntos": "180",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "413885",
+    "ApellidosNombre": "FREIRE ALVAREZ, SANTIAGO",
+    "Puntos": "180",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "343627",
+    "ApellidosNombre": "MORENO AGUERA, FRANCISCO ANTONIO",
+    "Puntos": "178",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "1249026",
+    "ApellidosNombre": "PEREIRA ALVES, ANTONY",
+    "Puntos": "176",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "1312963",
+    "ApellidosNombre": "PELTONEN -, SAKARI",
+    "Puntos": "176",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "406537",
+    "ApellidosNombre": "TRABADO GUIRAL, ALBERT",
+    "Puntos": "176",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "455292",
+    "ApellidosNombre": "ROBINS ABALLAY, NICOLAS",
+    "Puntos": "176",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "247242",
+    "ApellidosNombre": "RAKSANYI -, ALEXANDRE",
+    "Puntos": "176",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "432545",
+    "ApellidosNombre": "RAMÍREZ SÁNCHEZ, MARIO",
+    "Puntos": "176",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "442283",
+    "ApellidosNombre": "LLORENTE ÁLVAREZ, EDUARDO",
+    "Puntos": "176",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "456180",
+    "ApellidosNombre": "NOVELLI GARCIA, JORGE",
+    "Puntos": "176",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "1206224",
+    "ApellidosNombre": "MANNINEN -, VELI PETRI MIKAEL",
+    "Puntos": "170",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "326136",
+    "ApellidosNombre": "LOSADA GORDALIZA, ROI",
+    "Puntos": "168",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "272408",
+    "ApellidosNombre": "PLAZA MARTINEZ, ENRIQUE",
+    "Puntos": "168",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "1310084",
+    "ApellidosNombre": "JIMENO SANCHEZ, RAFAEL JOSE",
+    "Puntos": "168",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1209640",
+    "ApellidosNombre": "LOZANO ARNESEN, VICENTE",
+    "Puntos": "168",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "1344749",
+    "ApellidosNombre": "LUDHA , MAREK",
+    "Puntos": "168",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "441990",
+    "ApellidosNombre": "SITNYK -, PAVLO",
+    "Puntos": "168",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "281992",
+    "ApellidosNombre": "BELDA DE VIAL, LUKE",
+    "Puntos": "168",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "325127",
+    "ApellidosNombre": "ESCUDERO CASADO, IVAN",
+    "Puntos": "168",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "413852",
+    "ApellidosNombre": "ONTIVEROS ROBLES, ALEJANDRO",
+    "Puntos": "164",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "427782",
+    "ApellidosNombre": "DOBLADO GONZALEZ, JOSE LUIS",
+    "Puntos": "164",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "437459",
+    "ApellidosNombre": "DELGADO MARRERO, IVAN",
+    "Puntos": "164",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "346798",
+    "ApellidosNombre": "HERNANDEZ REAL, CARLOS JAVIER",
+    "Puntos": "163",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "458298",
+    "ApellidosNombre": "CIRIACO -, MARCO",
+    "Puntos": "162",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "890326",
+    "ApellidosNombre": "FERNANDEZ ABEAL, PABLO",
+    "Puntos": "160",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "1325960",
+    "ApellidosNombre": "VOGEL -, JONNE MART",
+    "Puntos": "160",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "263432",
+    "ApellidosNombre": "JARQUE GRACIA, JAVIER",
+    "Puntos": "160",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "440834",
+    "ApellidosNombre": "SANCHEZ GONZALEZ, IKER",
+    "Puntos": "160",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "255223",
+    "ApellidosNombre": "PEREIRA PINA, PABLO",
+    "Puntos": "160",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "382776",
+    "ApellidosNombre": "GARCIA FERNANDEZ, JUAN CARLOS",
+    "Puntos": "160",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "395046",
+    "ApellidosNombre": "ALOMAR SANCHEZ, MARC",
+    "Puntos": "160",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "372747",
+    "ApellidosNombre": "CARBONELL MULLOR, CARLOS",
+    "Puntos": "160",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "368800",
+    "ApellidosNombre": "MARZO SUAREZ, HUGO",
+    "Puntos": "160",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "1209718",
+    "ApellidosNombre": "WULLINGER -, MATTHIAS MANFRED",
+    "Puntos": "158",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "321262",
+    "ApellidosNombre": "GOMEZ-REINO MARTINEZ, DIEGO",
+    "Puntos": "158",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "278251",
+    "ApellidosNombre": "GARCIA BESTEIRO, DIEGO",
+    "Puntos": "152",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "349938",
+    "ApellidosNombre": "ARROYO MARQUEZ, JOSE",
+    "Puntos": "152",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "406266",
+    "ApellidosNombre": "TOMASI -, FELIPE",
+    "Puntos": "152",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "1255463",
+    "ApellidosNombre": "DIAZ IZAGUERRI, GUILLERMO",
+    "Puntos": "152",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "428380",
+    "ApellidosNombre": "SANCHEZ BUSTOS, DEYVI GERARDO",
+    "Puntos": "152",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "433817",
+    "ApellidosNombre": "DRAGICEVIC -, MILOS",
+    "Puntos": "148",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "461990",
+    "ApellidosNombre": "GONZALEZ JIMENEZ, DIEGO",
+    "Puntos": "148",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "442341",
+    "ApellidosNombre": "MESA PRIMERA, EROS JOALFRED",
+    "Puntos": "147",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "458305",
+    "ApellidosNombre": "CAMACHO CANDELARIO, MANUEL ALEJANDRO",
+    "Puntos": "146",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "289508",
+    "ApellidosNombre": "GARCIA FLORES, ADAN",
+    "Puntos": "144",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "754955",
+    "ApellidosNombre": "Gómez Merino, Adrián",
+    "Puntos": "144",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "1345934",
+    "ApellidosNombre": "LEITNER , FELIX",
+    "Puntos": "144",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "333157",
+    "ApellidosNombre": "SAN MIGUEL LASTRA, BRUNO",
+    "Puntos": "144",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "280629",
+    "ApellidosNombre": "FRANCO RABUÑAL, IVAN",
+    "Puntos": "144",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "348431",
+    "ApellidosNombre": "NIETO MORENO, ANTONIO",
+    "Puntos": "144",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "252569",
+    "ApellidosNombre": "OSPINO RIVAS, JOHN JESUS",
+    "Puntos": "144",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "272940",
+    "ApellidosNombre": "ACEDO HERNANDEZ, JOSE ALEJANDRO",
+    "Puntos": "144",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "1249025",
+    "ApellidosNombre": "BRANDINI -, BRUNO",
+    "Puntos": "144",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "457267",
+    "ApellidosNombre": "VATOLIK -, IVAN",
+    "Puntos": "144",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "316762",
+    "ApellidosNombre": "TRIF -, ANTONIO",
+    "Puntos": "144",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "457585",
+    "ApellidosNombre": "ROJO RODRIGUEZ, ISAAC",
+    "Puntos": "144",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "401766",
+    "ApellidosNombre": "ENGENIOS MARTIN, SERGIO",
+    "Puntos": "144",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "332276",
+    "ApellidosNombre": "RUIZ FERNANDEZ, PABLO",
+    "Puntos": "142",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "420173",
+    "ApellidosNombre": "CABRERA NOLASCO, LUIS",
+    "Puntos": "141",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "438331",
+    "ApellidosNombre": "WATERDRINKER -, GERMÁN",
+    "Puntos": "136",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "894199",
+    "ApellidosNombre": "BALTRUNAS -, MATAS",
+    "Puntos": "136",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "598245",
+    "ApellidosNombre": "LLATJE MAS, GUILLERMO",
+    "Puntos": "136",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "894242",
+    "ApellidosNombre": "ONTIVEROS ROBLES, JAVIER",
+    "Puntos": "132",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "436330",
+    "ApellidosNombre": "MECA DIAZ, FRANCISCO JUAN",
+    "Puntos": "130",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "312072",
+    "ApellidosNombre": "IGLESIAS FERNANDEZ, SERGIO",
+    "Puntos": "128",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "322102",
+    "ApellidosNombre": "TRONCOSO MARTINEZ, LUIS",
+    "Puntos": "128",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "405974",
+    "ApellidosNombre": "MEDINA PESCHIUTTA, CRISTOPHER ALEXANDRO",
+    "Puntos": "128",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "258130",
+    "ApellidosNombre": "GUANTES GARCIA, JOSE MANUEL",
+    "Puntos": "128",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "1332006",
+    "ApellidosNombre": "SILVA -, FABRIZIO",
+    "Puntos": "128",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "1334060",
+    "ApellidosNombre": "VITELLESCHI -, NICOLAS",
+    "Puntos": "128",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "444753",
+    "ApellidosNombre": "CACELA  PAREDES, ADRIÁN",
+    "Puntos": "128",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "1205445",
+    "ApellidosNombre": "PEZZELLA -, DANIELE",
+    "Puntos": "126",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "330958",
+    "ApellidosNombre": "RODRIGUEZ LOMBARDIA, PELAYO",
+    "Puntos": "126",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "331053",
+    "ApellidosNombre": "GUTIERREZ MAGUREGUI, SERGIO",
+    "Puntos": "126",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "292692",
+    "ApellidosNombre": "VAZQUEZ CABANO, ALBERTO",
+    "Puntos": "124",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "375812",
+    "ApellidosNombre": "MOLINA ABRALDES, ANTONIO",
+    "Puntos": "124",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "413716",
+    "ApellidosNombre": "GUILLEM PASTOR, ANTONIO",
+    "Puntos": "122",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "401578",
+    "ApellidosNombre": "RUIZ DEL RIO, JORGE",
+    "Puntos": "121",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "886361",
+    "ApellidosNombre": "GARVIN FERNANDEZ, DANIEL",
+    "Puntos": "120",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "300041",
+    "ApellidosNombre": "GABAS BOHIGAS, OSCAR",
+    "Puntos": "120",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "463086",
+    "ApellidosNombre": "Freyre -, Santiago",
+    "Puntos": "120",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "285425",
+    "ApellidosNombre": "ARTILES SOSA, RUIMAN DAVID",
+    "Puntos": "120",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "349987",
+    "ApellidosNombre": "CALZO COLORADO, ALEJANDRO",
+    "Puntos": "120",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "423605",
+    "ApellidosNombre": "REJON FERNANDEZ, ALEJANDRO",
+    "Puntos": "120",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "457847",
+    "ApellidosNombre": "ALLOTT DEL BURGO, ALEXANDER CARLOS",
+    "Puntos": "120",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "396569",
+    "ApellidosNombre": "RIVERA SEQUERA, DARIO",
+    "Puntos": "120",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "423945",
+    "ApellidosNombre": "BRAVO VERA, CHRISTIAN",
+    "Puntos": "120",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "388076",
+    "ApellidosNombre": "LOPEZ MARTIN, PABLO",
+    "Puntos": "120",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "437505",
+    "ApellidosNombre": "GONZALEZ RAMOS, HUGO",
+    "Puntos": "120",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "339679",
+    "ApellidosNombre": "GARCIA TRUJILLO, ALBERTO",
+    "Puntos": "120",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "442358",
+    "ApellidosNombre": "VARGAS FERNÁNDEZ, JOSE PABLO",
+    "Puntos": "120",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "1333823",
+    "ApellidosNombre": "COHEN -, JEREMY",
+    "Puntos": "120",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "442903",
+    "ApellidosNombre": "HIGUERAS MORALES, ALBERTO",
+    "Puntos": "120",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "1334443",
+    "ApellidosNombre": "NACHTWEY -, ADRIAN",
+    "Puntos": "120",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "437508",
+    "ApellidosNombre": "BRAVO VILLEGAS, JUAN MANUEL",
+    "Puntos": "120",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "366968",
+    "ApellidosNombre": "MELENDEZ MONTERO, ERNESTO RAMON",
+    "Puntos": "120",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "294241",
+    "ApellidosNombre": "SUAREZ SANTAMARIA, PABLO",
+    "Puntos": "120",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "435137",
+    "ApellidosNombre": "CASORRAN SALVO, DAVID",
+    "Puntos": "116",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "460955",
+    "ApellidosNombre": "VARELA ALVAREZ, VITOR",
+    "Puntos": "116",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "294703",
+    "ApellidosNombre": "RIO CANOSA, ALEJANDRO MANUEL",
+    "Puntos": "114",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "1321357",
+    "ApellidosNombre": "MAYORAL CORDOBA, IVAN",
+    "Puntos": "112",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "393584",
+    "ApellidosNombre": "LAGUNA SOTO, ALAN",
+    "Puntos": "112",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1323627",
+    "ApellidosNombre": "SERRA MARTINEZ, DANIEL",
+    "Puntos": "112",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "672885",
+    "ApellidosNombre": "BERTRAN LOPEZ, NICOLAS",
+    "Puntos": "112",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "893960",
+    "ApellidosNombre": "WOLFE -, CHARLES THOMAS",
+    "Puntos": "112",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "411070",
+    "ApellidosNombre": "CARRILLO GONZALEZ, GABRIEL",
+    "Puntos": "112",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "892980",
+    "ApellidosNombre": "GOMEZ BERENGUER, EDUARDO",
+    "Puntos": "112",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "404122",
+    "ApellidosNombre": "LOUREIRO ZUNZUNEGUI, JOSE",
+    "Puntos": "111",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "461930",
+    "ApellidosNombre": "MARTIN BRETON, CARLOS",
+    "Puntos": "108",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "264691",
+    "ApellidosNombre": "RODRIGUEZ COZAR, MIGUEL ANGEL",
+    "Puntos": "104",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "435280",
+    "ApellidosNombre": "GALAN MARIN, BERNAT",
+    "Puntos": "104",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "266626",
+    "ApellidosNombre": "CEÑA MOLARES, CARLOS ALBERTO",
+    "Puntos": "104",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "425934",
+    "ApellidosNombre": "ESQUIVIAS ROMAN, IGNACIO",
+    "Puntos": "104",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "424364",
+    "ApellidosNombre": "PANZANO CABALLE, MARIANO",
+    "Puntos": "104",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "395072",
+    "ApellidosNombre": "DIAZ SOUTO, TEO",
+    "Puntos": "100",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "441191",
+    "ApellidosNombre": "CASTELLS VIDELA, NICOLAS ",
+    "Puntos": "100",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "323726",
+    "ApellidosNombre": "DE GREGORIO DOMINGUEZ, JOSE MARIA",
+    "Puntos": "97",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "454668",
+    "ApellidosNombre": "IGLESIAS OTERO, ADRIAN",
+    "Puntos": "96",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "259466",
+    "ApellidosNombre": "TARTA MAN, RAZVAN SEBASTIAN",
+    "Puntos": "96",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "430870",
+    "ApellidosNombre": "GOMEZ LOPEZ, ADRIAN",
+    "Puntos": "96",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "1333542",
+    "ApellidosNombre": "VAZQUEZ  CORDOVES, ENRIQUE ",
+    "Puntos": "96",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "280470",
+    "ApellidosNombre": "ALONSO SUAREZ, PABLO",
+    "Puntos": "96",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "280620",
+    "ApellidosNombre": "PEREZ GONZALEZ, DIEGO",
+    "Puntos": "96",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "433851",
+    "ApellidosNombre": "BORRALLO REBOLLO, SERGIO",
+    "Puntos": "96",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "407379",
+    "ApellidosNombre": "BERNAL GARCIA, JAVIER",
+    "Puntos": "96",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "454920",
+    "ApellidosNombre": "BASTOS COMESAÑA, ANDREA",
+    "Puntos": "96",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "1311512",
+    "ApellidosNombre": "RIVERO ALAS, IAGO",
+    "Puntos": "96",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "425301",
+    "ApellidosNombre": "DIAZ GONZALEZ, DANIEL",
+    "Puntos": "96",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "413834",
+    "ApellidosNombre": "GOMEZ GUTIERREZ, MIGUEL ANGEL",
+    "Puntos": "96",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "435086",
+    "ApellidosNombre": "HERNANDEZ NUÑEZ, AUSBERTO",
+    "Puntos": "96",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "1330632",
+    "ApellidosNombre": "MARTINEZ CALABUIG, PEDRO",
+    "Puntos": "96",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "251117",
+    "ApellidosNombre": "BELDAD GONZALEZ, JOSE ANTONIO",
+    "Puntos": "96",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "333279",
+    "ApellidosNombre": "LOPEZ SAIZ, YAGO",
+    "Puntos": "96",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "901355",
+    "ApellidosNombre": "ORTIZ SECO, LUCAS",
+    "Puntos": "96",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "413961",
+    "ApellidosNombre": "IGLESIAS VAZQUEZ, DANIEL",
+    "Puntos": "96",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "1321359",
+    "ApellidosNombre": "FAHIM MOLINA, VICTOR",
+    "Puntos": "96",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "425269",
+    "ApellidosNombre": "STORARI -, LUCA",
+    "Puntos": "96",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "1311972",
+    "ApellidosNombre": "NAVAS CARBONE, SERGI",
+    "Puntos": "94",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "1334546",
+    "ApellidosNombre": "NTALLAS -, STAVROS",
+    "Puntos": "90",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "428944",
+    "ApellidosNombre": "ESPEJO SANCHEZ, LUIS MIGUEL",
+    "Puntos": "90",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "318782",
+    "ApellidosNombre": "RUIZ NUÑEZ, JESUS MANUEL",
+    "Puntos": "90",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "1312055",
+    "ApellidosNombre": "HOWARD -, FINN WILLIAM",
+    "Puntos": "90",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "889085",
+    "ApellidosNombre": "FERNANDEZ PEREZ, DANIEL",
+    "Puntos": "90",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "398875",
+    "ApellidosNombre": "BORNES LUCENA, OSCAR",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "1333475",
+    "ApellidosNombre": "OREGAN -, DEVID",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "1330627",
+    "ApellidosNombre": "GRIGOLO -, NICOLA",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "1338538",
+    "ApellidosNombre": "KAISER -, MIKA",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "886611",
+    "ApellidosNombre": "Sancer -, Ramiro",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "1345595",
+    "ApellidosNombre": "GREENBERG , ETHAN",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "371263",
+    "ApellidosNombre": "MARISCAL JIMÉNEZ, LEO",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "454051",
+    "ApellidosNombre": "PEREZ CURRAS, LOIS",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "1332021",
+    "ApellidosNombre": "KYRÖLÄ -, ATTE",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "432481",
+    "ApellidosNombre": "CRUZ BUENO, MATEO",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "456178",
+    "ApellidosNombre": "CASADO MARTINEZ, ADRIAN",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "401916",
+    "ApellidosNombre": "RODRIGO OCAÑA, DANIEL",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "349470",
+    "ApellidosNombre": "CAMACHO GONZALEZ, CARLOS",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "1333474",
+    "ApellidosNombre": "HERTWIG -, FRANCOIS",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "299994",
+    "ApellidosNombre": "AGUILA BOFARULL, GERARD",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "1334196",
+    "ApellidosNombre": "ANDRIC -, LEO",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "886577",
+    "ApellidosNombre": "CELIS TEJERA, DANIEL JESUS",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "1335144",
+    "ApellidosNombre": "PICON MAGDALENA, AXEL ",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "1338541",
+    "ApellidosNombre": "SCHOEFFEL -, MORITZ",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "1334239",
+    "ApellidosNombre": "PLANAS SANTOS, ADRIAN",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "454795",
+    "ApellidosNombre": "ALTUNA JANEIRO, MAURICIO",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "442106",
+    "ApellidosNombre": "PARRA LEIVA, FRANCISCO",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "755186",
+    "ApellidosNombre": "ALZUETA CARREÑO, JUAN",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "434298",
+    "ApellidosNombre": "BAUZA MORLA, LLUC",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "321796",
+    "ApellidosNombre": "SUAREZ PAZOS, DANIEL",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "414148",
+    "ApellidosNombre": "GOMEZ DEL VALLE TEJADA, RODRIGO",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "430358",
+    "ApellidosNombre": "SANSO ARTIGUES, LLUC",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "288295",
+    "ApellidosNombre": "MUNAR GALMES, JOAN",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "471253",
+    "ApellidosNombre": "Teetz -, Christopher",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "1310826",
+    "ApellidosNombre": "COSIC -, ALEKSANDAR",
+    "Puntos": "88",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "515013",
+    "ApellidosNombre": "MIMUN BOUYEMAA, ADAM",
+    "Puntos": "84",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "465149",
+    "ApellidosNombre": "DE LOS SANTOS CABELLO, KELVIN",
+    "Puntos": "84",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "385385",
+    "ApellidosNombre": "DEUS SEOANE, PABLO",
+    "Puntos": "84",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "1312397",
+    "ApellidosNombre": "MORILLO GUERRA, MIGUEL ANGEL",
+    "Puntos": "84",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "392347",
+    "ApellidosNombre": "TABARES NEGRIN, JOHAN",
+    "Puntos": "84",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "435552",
+    "ApellidosNombre": "MENDEZ DELGADO, DANIEL",
+    "Puntos": "84",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "447061",
+    "ApellidosNombre": "EL YOUSSOUFI ABRIGHACH, ALI",
+    "Puntos": "84",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "754996",
+    "ApellidosNombre": "MUSU DINUT, DIEGO DANIEL",
+    "Puntos": "84",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "755006",
+    "ApellidosNombre": "DE LA FUENTE MONTERO, MARCO",
+    "Puntos": "84",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "296761",
+    "ApellidosNombre": "JORGE RAMÍREZ, VICTOR",
+    "Puntos": "84",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "454778",
+    "ApellidosNombre": "VIDAL PEREZ, HUGO",
+    "Puntos": "80",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "755007",
+    "ApellidosNombre": "SOLERA RODRIGO, PABLO",
+    "Puntos": "80",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "470519",
+    "ApellidosNombre": "MARTINEZ DUMONT, JOEL",
+    "Puntos": "80",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "444120",
+    "ApellidosNombre": "DIAZ IZAGUERRI, MARCOS",
+    "Puntos": "80",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "435729",
+    "ApellidosNombre": "IRANZO HUESA, CARLOS",
+    "Puntos": "80",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "400526",
+    "ApellidosNombre": "CARRASCO ZAMORA, JORGE",
+    "Puntos": "80",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "1331746",
+    "ApellidosNombre": "MISBAH -, SAMMY",
+    "Puntos": "80",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "435268",
+    "ApellidosNombre": "SANCHO ALMAU, CRISTIAN",
+    "Puntos": "80",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "401483",
+    "ApellidosNombre": "ARCEGA HERRERO, MARCOS",
+    "Puntos": "80",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "450411",
+    "ApellidosNombre": "PAREJO BORRALLO, PABLO",
+    "Puntos": "80",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "891932",
+    "ApellidosNombre": "GAMEZ CORCHO, GUILLERMO",
+    "Puntos": "79",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "584028",
+    "ApellidosNombre": "VITA CARRASCO, DANIEL",
+    "Puntos": "76",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "404575",
+    "ApellidosNombre": "ERDOCIA SIERRA, PEDRO",
+    "Puntos": "75",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "1307656",
+    "ApellidosNombre": "YANDLE FLORES, ISRAEL",
+    "Puntos": "75",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "460709",
+    "ApellidosNombre": "VELANDIA MUÑOZ, EMANUEL",
+    "Puntos": "74",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "457143",
+    "ApellidosNombre": "REBOL GARCIA, DANIEL",
+    "Puntos": "72",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "1255259",
+    "ApellidosNombre": "ALBEIRA PREGIGUEIRO, IAN",
+    "Puntos": "72",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "462019",
+    "ApellidosNombre": "GRIMA SALES, DAVID",
+    "Puntos": "72",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "462975",
+    "ApellidosNombre": "FEIJOO RODRIGUEZ, ANGEL",
+    "Puntos": "72",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "250432",
+    "ApellidosNombre": "GREGORIO NOVO, JUAN ANTONIO",
+    "Puntos": "72",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "1324394",
+    "ApellidosNombre": "BALLESTEROS PAVON, AITOR",
+    "Puntos": "71",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "584031",
+    "ApellidosNombre": "GARCIA GOMEZ, HECTOR",
+    "Puntos": "68",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "390529",
+    "ApellidosNombre": "BRIÑAS PARRA, LUIS FERNANDO",
+    "Puntos": "64",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "410871",
+    "ApellidosNombre": "RUIZ RUIZ, ALEX",
+    "Puntos": "64",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "426254",
+    "ApellidosNombre": "VILARO  ALEJANDRE, JOSEP ",
+    "Puntos": "64",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "285602",
+    "ApellidosNombre": "GARCIA DE ANDRADE, JUAN GREGORIO",
+    "Puntos": "64",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "441763",
+    "ApellidosNombre": "MARTÍN ALCAINE, SAMUEL",
+    "Puntos": "64",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "1334292",
+    "ApellidosNombre": "BARCELO VIS DIEPERIMK, DIMITRI",
+    "Puntos": "64",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "321366",
+    "ApellidosNombre": "MOURIS CASTRO, DANIEL",
+    "Puntos": "64",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "324304",
+    "ApellidosNombre": "DIESTE OTERO, FRANCISCO",
+    "Puntos": "64",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "891987",
+    "ApellidosNombre": "CIUNTULEAC -, ALEXSANDRU",
+    "Puntos": "64",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "450355",
+    "ApellidosNombre": "PANTOJA MONJO, IGNACIO",
+    "Puntos": "64",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "432477",
+    "ApellidosNombre": "PERDOMO CURBELO, AITOR JESUS",
+    "Puntos": "64",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "294451",
+    "ApellidosNombre": "MONFORT MINAYA, VICENTE",
+    "Puntos": "64",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "430469",
+    "ApellidosNombre": "RODRIGUEZ DIVISON, PAU JOAN",
+    "Puntos": "64",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "467348",
+    "ApellidosNombre": "CUELLAR VELASCO, AARON",
+    "Puntos": "64",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "1345596",
+    "ApellidosNombre": "CERUTTI FREGA, FRANCO",
+    "Puntos": "64",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "323595",
+    "ApellidosNombre": "GALLEGO LOPEZ, ALEJANDRO",
+    "Puntos": "64",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "447669",
+    "ApellidosNombre": "Sánchez Rubio, Omar",
+    "Puntos": "64",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "321314",
+    "ApellidosNombre": "RODRIGUEZ SOÑORA, CHRISTOPHER",
+    "Puntos": "64",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "418004",
+    "ApellidosNombre": "SANCHEZ REBOLLO, HUGO",
+    "Puntos": "64",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "1333903",
+    "ApellidosNombre": "RODRIGUEZ UMPIERREZ, IGNACIO",
+    "Puntos": "64",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "303746",
+    "ApellidosNombre": "TACON OUBEL, ANTONIO",
+    "Puntos": "64",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "327866",
+    "ApellidosNombre": "VALENCIA PINEDA, FREDY HERNANDO",
+    "Puntos": "64",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "322346",
+    "ApellidosNombre": "BAVIANO REGALADO, LUIS",
+    "Puntos": "64",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "461540",
+    "ApellidosNombre": "DIAZ CORRAL, ERIC LORENZO",
+    "Puntos": "63",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "584025",
+    "ApellidosNombre": "CARO CARRERA, JAIME",
+    "Puntos": "62",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "454058",
+    "ApellidosNombre": "GONZALEZ LICERAS, MANUEL",
+    "Puntos": "62",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "402761",
+    "ApellidosNombre": "CHAPARRO VALERO, PEDRO ALONSO",
+    "Puntos": "60",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "418546",
+    "ApellidosNombre": "GARCIA-VALLAURE  MARTIN, IÑIGO",
+    "Puntos": "60",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "462707",
+    "ApellidosNombre": "PEREZ CHAVARRI, DIEGO",
+    "Puntos": "60",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "454033",
+    "ApellidosNombre": "HURTADO -, SAMUEL ANDRES",
+    "Puntos": "60",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "1324629",
+    "ApellidosNombre": "REDPISO BRAVO, OSCAR",
+    "Puntos": "59",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "346194",
+    "ApellidosNombre": "PERDOMO PI, RAUL",
+    "Puntos": "58",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "324803",
+    "ApellidosNombre": "MARTINEZ REQUENA, BORJA FERNANDO",
+    "Puntos": "58",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "395360",
+    "ApellidosNombre": "ROYANO PARRA, ALVARO",
+    "Puntos": "56",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "434501",
+    "ApellidosNombre": "LUNA GONZALEZ, LUCAS",
+    "Puntos": "56",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "442302",
+    "ApellidosNombre": "NARVAEZ CASTAÑEDA, SERGIO",
+    "Puntos": "56",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "285539",
+    "ApellidosNombre": "DE LEON BEJARANO, TEGUAYCO",
+    "Puntos": "56",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "454713",
+    "ApellidosNombre": "VADASZ -, NORMAN",
+    "Puntos": "56",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "302749",
+    "ApellidosNombre": "MATARIN MARTINEZ, VICTOR",
+    "Puntos": "56",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "454052",
+    "ApellidosNombre": "ESTEVEZ LOPEZ, ELIO",
+    "Puntos": "56",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "286868",
+    "ApellidosNombre": "DOMINGUEZ FERNANDEZ, GREGORIO",
+    "Puntos": "56",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "1307619",
+    "ApellidosNombre": "AVILA YATACO, JUAN DAVID",
+    "Puntos": "56",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "397336",
+    "ApellidosNombre": "TOSCANO PEREZ, SERGIO",
+    "Puntos": "56",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "349673",
+    "ApellidosNombre": "RODRIGUEZ SALGADO, DIEGO",
+    "Puntos": "56",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "345863",
+    "ApellidosNombre": "HERNANDEZ LOPEZ, NEFTALI",
+    "Puntos": "55",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "437966",
+    "ApellidosNombre": "BOTANA SUAREZ, MIGUEL",
+    "Puntos": "55",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "347084",
+    "ApellidosNombre": "VASCO PINEDA, JAVIER",
+    "Puntos": "55",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "422751",
+    "ApellidosNombre": "PIÑA ESPUÑA, MARC",
+    "Puntos": "54",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "387182",
+    "ApellidosNombre": "MOLDES  VILLAR, MIGUEL ANGEL ",
+    "Puntos": "54",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "435375",
+    "ApellidosNombre": "DOMINGUEZ COUTO, SAMUEL",
+    "Puntos": "54",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "454057",
+    "ApellidosNombre": "RODRIGUEZ DEZA, ALEX",
+    "Puntos": "54",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "418997",
+    "ApellidosNombre": "GARCIA-ORTIZ APARICIO, ALVARO",
+    "Puntos": "54",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "454054",
+    "ApellidosNombre": "VILARCHAO GOMEZ, GAEL",
+    "Puntos": "54",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "282624",
+    "ApellidosNombre": "JIMENEZ ROLDAN, ALBERTO",
+    "Puntos": "54",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "1344792",
+    "ApellidosNombre": "DIAZ NOA, FRANCISCO IGNACIO",
+    "Puntos": "53",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "454680",
+    "ApellidosNombre": "NAVARRO ALIAGA, MARIO",
+    "Puntos": "52",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "429808",
+    "ApellidosNombre": "CASTRILLÓN SOTO, ANDRES FELIPE",
+    "Puntos": "52",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "1205024",
+    "ApellidosNombre": "ALONSO NAVARRO, JOSE ALEJANDRO",
+    "Puntos": "51",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "887117",
+    "ApellidosNombre": "DORTA LUIS, JOSE GREGORIO",
+    "Puntos": "51",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "325965",
+    "ApellidosNombre": "HERNANDEZ RAMOS, ALEXANDER",
+    "Puntos": "51",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "1330637",
+    "ApellidosNombre": "FEDERICO  GONZALES, GILBERT IAN ",
+    "Puntos": "49",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "1311772",
+    "ApellidosNombre": "MARTINEZ -, MATIAS",
+    "Puntos": "48",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "442882",
+    "ApellidosNombre": "MUÑOZ GIL, GERMAN",
+    "Puntos": "48",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "374105",
+    "ApellidosNombre": "PUENTE DOBATO, JORGE",
+    "Puntos": "48",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "292719",
+    "ApellidosNombre": "TRILLO GONZALEZ, BORIS",
+    "Puntos": "48",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "370088",
+    "ApellidosNombre": "BERNAL RODRÍGUEZ, ALVARO",
+    "Puntos": "48",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "300428",
+    "ApellidosNombre": "TUGORES MARROIG, JOSEP",
+    "Puntos": "48",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "347604",
+    "ApellidosNombre": "GARCIA OUVIÑA, IVAN",
+    "Puntos": "48",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "462005",
+    "ApellidosNombre": "ESTEVEZ PASTORIZA, ADRIAN",
+    "Puntos": "48",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "342209",
+    "ApellidosNombre": "FERRER BIELSA, VICTOR",
+    "Puntos": "48",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "381259",
+    "ApellidosNombre": "GOMEZ PASCUAL, JAVIER",
+    "Puntos": "48",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "348789",
+    "ApellidosNombre": "MARTIN CUMPLIDO, ROMEN",
+    "Puntos": "48",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "368687",
+    "ApellidosNombre": "VELASQUEZ VEGA, RAUL JHEFERSON",
+    "Puntos": "48",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "462706",
+    "ApellidosNombre": "FLORES TRIVIÑO, MARCOS",
+    "Puntos": "48",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "442286",
+    "ApellidosNombre": "FORTES INFANTE, JOSE",
+    "Puntos": "48",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "435085",
+    "ApellidosNombre": "TOUZA TOURON, ISAAC",
+    "Puntos": "46",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "1344789",
+    "ApellidosNombre": "ECHEVESTE GONZALEZ, DANIEL",
+    "Puntos": "45",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "451678",
+    "ApellidosNombre": "MOLDENHAUER GARCIA, JURGEN",
+    "Puntos": "44",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "438571",
+    "ApellidosNombre": "NOVO MARIÑO, PABLO",
+    "Puntos": "44",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "421104",
+    "ApellidosNombre": "GALAN MENDEZ, IÑAKI",
+    "Puntos": "42",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "457544",
+    "ApellidosNombre": "GUYONVARCH -, JULIEN",
+    "Puntos": "42",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "433821",
+    "ApellidosNombre": "ROCIO RODRIGUEZ, RUMEN",
+    "Puntos": "42",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "1205446",
+    "ApellidosNombre": "GARCIA ESCOBAR, DAVID",
+    "Puntos": "42",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "344159",
+    "ApellidosNombre": "SAGRERA LOBO, JORDI",
+    "Puntos": "42",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "435544",
+    "ApellidosNombre": "MIGUEZ ALONSO, RUBEN",
+    "Puntos": "42",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "366894",
+    "ApellidosNombre": "DE GENNARO -, HERNAN",
+    "Puntos": "41",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "367246",
+    "ApellidosNombre": "PALMIERI -, ENRIQUE RODOLFO",
+    "Puntos": "41",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "1312830",
+    "ApellidosNombre": "BECERRA PERNIA, SERGIO",
+    "Puntos": "40",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "429411",
+    "ApellidosNombre": "DOBAO LAZARO, GUILLERMO",
+    "Puntos": "40",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "291955",
+    "ApellidosNombre": "GONZALEZ CUETO, ALBERTO",
+    "Puntos": "40",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "584027",
+    "ApellidosNombre": "FLORES TRIVIÑO, MARCOS",
+    "Puntos": "40",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "458505",
+    "ApellidosNombre": "FUENTES  ALONSO, AUGUSTO ",
+    "Puntos": "40",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "584054",
+    "ApellidosNombre": "DIEDERICHS -, MARIUS",
+    "Puntos": "40",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "349681",
+    "ApellidosNombre": "NAVARRO TIMON, JESUS ANTONIO",
+    "Puntos": "40",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1311653",
+    "ApellidosNombre": "STOKOWSKY -, ARTHUR",
+    "Puntos": "40",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "406539",
+    "ApellidosNombre": "PEREZ GOMEZ, ANTULIO",
+    "Puntos": "40",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "429801",
+    "ApellidosNombre": "MENGUAL LLORENS, ADRIÁN",
+    "Puntos": "40",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1312385",
+    "ApellidosNombre": "RAMOS RODRIGUEZ, HUGO",
+    "Puntos": "40",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "434878",
+    "ApellidosNombre": "ALMEIDA -, CARLOS",
+    "Puntos": "40",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "462442",
+    "ApellidosNombre": "MEINSCHAD -, MATHIAS",
+    "Puntos": "38",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "459716",
+    "ApellidosNombre": "BARRIGA GARCIA, JUAN JOSE",
+    "Puntos": "38",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "380452",
+    "ApellidosNombre": "CORONA MEDIAVILLA, FABIAN",
+    "Puntos": "38",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "329997",
+    "ApellidosNombre": "ESGLEAS LOPEZ, JUAN CARLOS",
+    "Puntos": "38",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "438965",
+    "ApellidosNombre": "GALLO DEL VALLE, GUILLERMO",
+    "Puntos": "38",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "1339555",
+    "ApellidosNombre": "DOMBROWE , NOAH JON",
+    "Puntos": "37",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "1339554",
+    "ApellidosNombre": "BRACCAGNI , GIULIO",
+    "Puntos": "37",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "316981",
+    "ApellidosNombre": "BERNAL BRAVO, ABEL",
+    "Puntos": "36",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "460972",
+    "ApellidosNombre": "FAJARDO OREJA, BRAIS",
+    "Puntos": "36",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "428706",
+    "ApellidosNombre": "POVEDA ARENAS, DAVID",
+    "Puntos": "36",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "461428",
+    "ApellidosNombre": "MELIAN ROSALES, MICHAEL ANGELO",
+    "Puntos": "36",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "320807",
+    "ApellidosNombre": "FOLGUERA ESTRUGA, XAVIER",
+    "Puntos": "36",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "470986",
+    "ApellidosNombre": "BOIEV BOIEV, YURII",
+    "Puntos": "36",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "1322960",
+    "ApellidosNombre": "Boiev -, Vitalii",
+    "Puntos": "36",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "771858",
+    "ApellidosNombre": "CASANOVA RUBIO, JAIME MIGUEL",
+    "Puntos": "34",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "427818",
+    "ApellidosNombre": "ROA BARRETO, FABIO",
+    "Puntos": "34",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "423801",
+    "ApellidosNombre": "BARBER EGUILUZ, JAVIER",
+    "Puntos": "34",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "893892",
+    "ApellidosNombre": "SANCHEZ JIMENEZ, PABLO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "1334116",
+    "ApellidosNombre": "MOTOS MATEO, MIGUEL ÁNGEL",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "432933",
+    "ApellidosNombre": "ETTORE TORTORA, SIMONE",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "894197",
+    "ApellidosNombre": "DREBLOW -, Christian Wolfgang Bruno",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "1333477",
+    "ApellidosNombre": "GOMEZ -, IVAN",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "435087",
+    "ApellidosNombre": "GONZALEZ FREIRE, MARCO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "457459",
+    "ApellidosNombre": "FERNANDEZ CRESPO, ADAY",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "383099",
+    "ApellidosNombre": "AMADOR ROMAGUERA, SERGIO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "515060",
+    "ApellidosNombre": "DIAZ MARTINEZ, CARLOS",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "1334237",
+    "ApellidosNombre": "RAMIREZ MALDONADO, AGUSTIN",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "390945",
+    "ApellidosNombre": "SANCHEZ ALEJANDRE, IBAI",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1333640",
+    "ApellidosNombre": "FAUDA PICHET, ROBERTO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "411453",
+    "ApellidosNombre": "MEDINA VALENCIA, MIGUEL ÁNGEL",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "417461",
+    "ApellidosNombre": "SAN MARTIN -, VICTOR LUIS",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "436725",
+    "ApellidosNombre": "HERVAS COMENDADOR, PABLO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "442052",
+    "ApellidosNombre": "QUINTERO MARTÍNEZ, JOSE ALEJANDRO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "380448",
+    "ApellidosNombre": "RODRIGUEZ RUBIO, AURELIO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "1307143",
+    "ApellidosNombre": "VÁZQUEZ SÁNCHEZ, SEVILLA JOSÉ",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "1321180",
+    "ApellidosNombre": "MORETTI -, LEONARDO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "434151",
+    "ApellidosNombre": "SANZ MORA, JORGE",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "297607",
+    "ApellidosNombre": "CARINELLI MARCONI, MARTIN",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "292667",
+    "ApellidosNombre": "GOMEZ PARGA, PABLO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "324767",
+    "ApellidosNombre": "RUIZ GÓMEZ, FRANCISCO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "418238",
+    "ApellidosNombre": "SILVA MANCERA, MARIO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "381400",
+    "ApellidosNombre": "MITOULIS ROSSELLO, MILOS",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "1334009",
+    "ApellidosNombre": "GARCIA LORENZO, IAGO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "318936",
+    "ApellidosNombre": "CORTES REDONDO, JUAN ALBERTO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "893553",
+    "ApellidosNombre": "PASI -, DANILO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "1324736",
+    "ApellidosNombre": "IAKOVLEV -, ANTON",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "442284",
+    "ApellidosNombre": "FONS PONCE, FERNANDO MANUEL",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "322377",
+    "ApellidosNombre": "LEAL JIMENEZ, JOSE",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "414586",
+    "ApellidosNombre": "GALLO VILLALBA, XABIER",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "1334059",
+    "ApellidosNombre": "REISCHL -, DAVID",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "432520",
+    "ApellidosNombre": "DELGADO GUIBERTAU, IGNACIO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "339077",
+    "ApellidosNombre": "SAEZ CASADO, FRANCISCO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "376277",
+    "ApellidosNombre": "ABRUÑEDO LOMBARDERO, JORGE",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "893890",
+    "ApellidosNombre": "GEREZ IGLESIA, MATIAS",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "1334519",
+    "ApellidosNombre": "PEREZ -, MATEO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "427278",
+    "ApellidosNombre": "ROMBOLA -, ANDREA",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "1338004",
+    "ApellidosNombre": "LABIAUSSE -, JULES",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "376644",
+    "ApellidosNombre": "MOLARES PEREZ, MIGUEL AARON",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "452149",
+    "ApellidosNombre": "PRIETO SANCHO, IKER",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "323335",
+    "ApellidosNombre": "FERRER HIERRO, MARCO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "425852",
+    "ApellidosNombre": "LOZADA BORRAS, SAMUEL",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "294573",
+    "ApellidosNombre": "MARTIN HERRERO, LUIS",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "326106",
+    "ApellidosNombre": "VIEITES VEIGA, DAVID",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "515058",
+    "ApellidosNombre": "CASADO MARTINEZ, PABLO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "1345933",
+    "ApellidosNombre": "Ronzoni , Alessandro",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "1313292",
+    "ApellidosNombre": "TAZZIOLI SINGESER, DIEGO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "406527",
+    "ApellidosNombre": "ALBORGHETTI -, FABRIZIO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "1325961",
+    "ApellidosNombre": "SAEZ FORCADA, DIEGO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "515062",
+    "ApellidosNombre": "LOPEZ MARTINEZ, RUBEN",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "285791",
+    "ApellidosNombre": "SANCHEZ MELIAN, PEDRO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "340855",
+    "ApellidosNombre": "VILLENA RODRIGUEZ, ANDRES JESUS",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "251761",
+    "ApellidosNombre": "ACEVEDO MARTIN, RAMON",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "269269",
+    "ApellidosNombre": "BLANQUER SEBASTIÁN, JUANMA",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "391131",
+    "ApellidosNombre": "CASERO ARMADA, ISMAEL",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "407383",
+    "ApellidosNombre": "BUENO PALENCIA, IVAN",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "458145",
+    "ApellidosNombre": "SOTO RACERO, DARIO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "367883",
+    "ApellidosNombre": "ESCALONA ROJAS, JUAN MANUEL",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "396631",
+    "ApellidosNombre": "RUDA MARTINEZ, FLORENTINO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1324630",
+    "ApellidosNombre": "REBAUD -, THOMAS",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "269344",
+    "ApellidosNombre": "CASTELLANOS ORTIZ, JUAN",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "298808",
+    "ApellidosNombre": "ROSOLEN GARRIDO, IVAN",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "401557",
+    "ApellidosNombre": "GARITANO LARRABE, ARITZ",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "423950",
+    "ApellidosNombre": "LABIAUSSE -, JULES EDMOND ANDRE",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "443114",
+    "ApellidosNombre": "DIOUF SANZ, JORDAN PHILIPPE",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "318791",
+    "ApellidosNombre": "CORREA HERNANDEZ, AGUSTIN",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "1332047",
+    "ApellidosNombre": "AKINBIYI CARBONES, ORIOL",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "418539",
+    "ApellidosNombre": "ALTUNA JIMENO, AITOR",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "434364",
+    "ApellidosNombre": "CARBO GRAÑA, ARNAU",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "471119",
+    "ApellidosNombre": "CARBALLO CARBALLO, JOEL",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "408836",
+    "ApellidosNombre": "GARCIA GONÇALVES, XIAN",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "1334058",
+    "ApellidosNombre": "AINCHINGER -, FLORIAN",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "432482",
+    "ApellidosNombre": "MACHIN CEJAS, DANIEL",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "459197",
+    "ApellidosNombre": "CAPURRO PRAENA, MATIAS",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1334518",
+    "ApellidosNombre": "PEREZ -, IGNACIO",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "427277",
+    "ApellidosNombre": "GINNI GOJCAJ, GJON",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "414604",
+    "ApellidosNombre": "RUIZ MARTINEZ, ASIER",
+    "Puntos": "32",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "410810",
+    "ApellidosNombre": "MENDEZ TELEÑA, BRUNO",
+    "Puntos": "31",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "431338",
+    "ApellidosNombre": "OLMEDO -, ARIEL ALEJANDRO",
+    "Puntos": "31",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "420171",
+    "ApellidosNombre": "QUINTERO ESPINOSA, JISHAR",
+    "Puntos": "30",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "889257",
+    "ApellidosNombre": "LORENZO ALONSO, ANTON ",
+    "Puntos": "30",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "250219",
+    "ApellidosNombre": "ARAGON PELLICER, ALEJANDRO",
+    "Puntos": "30",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "302980",
+    "ApellidosNombre": "SOTILLO SANCHEZ, RUBEN",
+    "Puntos": "30",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "1345916",
+    "ApellidosNombre": "VIDAL , PAUL",
+    "Puntos": "30",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "1337002",
+    "ApellidosNombre": "FARFAN GARCIA, MILLAN",
+    "Puntos": "30",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "246846",
+    "ApellidosNombre": "MAESO DIAZ, SERGIO",
+    "Puntos": "30",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "427663",
+    "ApellidosNombre": "RAVELO BATISTA, ALBERTO",
+    "Puntos": "30",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "754615",
+    "ApellidosNombre": "ECHELBACHER -, STEFAN",
+    "Puntos": "30",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "890643",
+    "ApellidosNombre": "GUILLEM MONTEIRO, ASIEL",
+    "Puntos": "30",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "290594",
+    "ApellidosNombre": "QUINERO ESPINOSA, WILMER",
+    "Puntos": "30",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1324626",
+    "ApellidosNombre": "SANCHEZ FURASTE, ANDRES",
+    "Puntos": "30",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "1336999",
+    "ApellidosNombre": "VALIZADETH -, ALIREZA",
+    "Puntos": "30",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "318724",
+    "ApellidosNombre": "CASTRILLO ARRABAL, DAVID",
+    "Puntos": "30",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "412590",
+    "ApellidosNombre": "CIUDAD-REAL NAVALON, JORGE",
+    "Puntos": "30",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "427095",
+    "ApellidosNombre": "SANTANA MONZON, DAVID",
+    "Puntos": "30",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "442261",
+    "ApellidosNombre": "BLANCO GARCIA, ROI",
+    "Puntos": "30",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "462446",
+    "ApellidosNombre": "PADILLA MARRERO, PEDRO LUIS",
+    "Puntos": "30",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "389968",
+    "ApellidosNombre": "ARAGON NOVO, JESUS",
+    "Puntos": "30",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "367703",
+    "ApellidosNombre": "SANCHEZ CASANOVA, MIGUEL ANGEL",
+    "Puntos": "28",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "286778",
+    "ApellidosNombre": "RIVERO CORTE, PABLO",
+    "Puntos": "28",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "454059",
+    "ApellidosNombre": "GONZALEZ LICERAS, MATEO",
+    "Puntos": "28",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "462966",
+    "ApellidosNombre": "PEREZ RODRIGUEZ, THIAGO",
+    "Puntos": "28",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "1331967",
+    "ApellidosNombre": "CONSIGLIO -, ALESSIO",
+    "Puntos": "27",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "427951",
+    "ApellidosNombre": "SMIRNOVS -, SERGEJS",
+    "Puntos": "26",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "432479",
+    "ApellidosNombre": "GARCIA MORENO, JESUS ANGEL",
+    "Puntos": "26",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "320132",
+    "ApellidosNombre": "VALADES CERRATO, VICTOR MANUEL",
+    "Puntos": "26",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "308249",
+    "ApellidosNombre": "MUÑOZ AMAT, ALVARO",
+    "Puntos": "25",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "900218",
+    "ApellidosNombre": "BRAVO GARCIA, JAVIER",
+    "Puntos": "25",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "380468",
+    "ApellidosNombre": "HERRERO GALAN, RAUL",
+    "Puntos": "25",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "903370",
+    "ApellidosNombre": "ALONSO GALLARDO, MIGUEL",
+    "Puntos": "25",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "1345922",
+    "ApellidosNombre": "GARCIA RUIZ, JORGE",
+    "Puntos": "25",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "434953",
+    "ApellidosNombre": "ROMERO CAMPOS, FRANCISCO JOSE",
+    "Puntos": "25",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "345928",
+    "ApellidosNombre": "ENRIQUEZ ALONSO, MANUEL",
+    "Puntos": "25",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "454535",
+    "ApellidosNombre": "VICENTE MEJIA, MANUEL",
+    "Puntos": "25",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "279013",
+    "ApellidosNombre": "SANCHEZ SAN MARTIN, IVAN",
+    "Puntos": "25",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "427787",
+    "ApellidosNombre": "FDEZ-CONDE JORNADA DE POZAS, FRANCISCO",
+    "Puntos": "25",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1336640",
+    "ApellidosNombre": "DYDYK -, PEDRO",
+    "Puntos": "25",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "1345921",
+    "ApellidosNombre": "VICENTE MEJIA, DANIEL",
+    "Puntos": "25",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "462091",
+    "ApellidosNombre": "BARDERA GARCIA, MARCOS ALEJANDRO",
+    "Puntos": "25",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "1324698",
+    "ApellidosNombre": "DE BLAS RODRIGUEZ, GONZALO",
+    "Puntos": "25",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "1204942",
+    "ApellidosNombre": "BRAVENBOER -, DAVI",
+    "Puntos": "25",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "301881",
+    "ApellidosNombre": "MARCOBAL GIL, EDUARD",
+    "Puntos": "25",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "1324634",
+    "ApellidosNombre": "CASTAÑARES FRANCO, CÉSAR",
+    "Puntos": "25",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "1205023",
+    "ApellidosNombre": "LLAQUET RIVERO, JORDI",
+    "Puntos": "25",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "247056",
+    "ApellidosNombre": "VILCHIS SANTOS, DANIEL",
+    "Puntos": "25",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "1324758",
+    "ApellidosNombre": "BATISTA MATOS, RODRIGO",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "442290",
+    "ApellidosNombre": "SALAZAR SORIANO, PABLO",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "402536",
+    "ApellidosNombre": "SÁNCHEZ GUILLEM, CARLOS",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "673029",
+    "ApellidosNombre": "MONTERO GIL, JAVIER",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1324490",
+    "ApellidosNombre": "SANCHEZ  VAZQUEZ, BORJA ",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "436190",
+    "ApellidosNombre": "WOLOSZYN AMOROSE, AGUSTI DIEGO",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "467408",
+    "ApellidosNombre": "ESCAÑO EUSEBIO, YOEL DAVID",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "1256325",
+    "ApellidosNombre": "RAMIREZ ALBORNOZ, JHORDAN ARLAM",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "290856",
+    "ApellidosNombre": "MARTINEZ SANMARTI, ROGER",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "457668",
+    "ApellidosNombre": "REFOLIO CRUZ, LUIS",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "1333900",
+    "ApellidosNombre": "Rodriguez -, Pablo ",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "303530",
+    "ApellidosNombre": "RODRIGUEZ PEREZ, JORGE",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "454053",
+    "ApellidosNombre": "CARBALLEDA PEREIRA, GAEL",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1312355",
+    "ApellidosNombre": "LOZANO VARGAS, EMILIO JUAN",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "1334303",
+    "ApellidosNombre": "GARCIA -, MAURICIO",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "265169",
+    "ApellidosNombre": "MARTIN FERNANDEZ, JOSE ANTONIO",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "442262",
+    "ApellidosNombre": "BERRY -, VICTOR",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "450493",
+    "ApellidosNombre": "JIMENEZ OTERO, ADOLFO",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "414181",
+    "ApellidosNombre": "YESARES MORENO, ARTURO",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "462482",
+    "ApellidosNombre": "SOKOLOV -, IHOR",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "368700",
+    "ApellidosNombre": "BORRAS MARTÍN, JAVIER",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "1334517",
+    "ApellidosNombre": "IBARRA PEREZ, MICAHELL",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "471207",
+    "ApellidosNombre": "DA SILVA SANCHEZ, FERNANDO",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "1312751",
+    "ApellidosNombre": "KRALJ -, LUKA ",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "404134",
+    "ApellidosNombre": "LOPEZ DIAZ, SAMUEL",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "1324738",
+    "ApellidosNombre": "MOKHANTAR -, YAZID",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "277109",
+    "ApellidosNombre": "MARTINEZ ROMERO, CARLOS",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "322576",
+    "ApellidosNombre": "LLORI MARTINEZ, JOSE MANUEL",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "414637",
+    "ApellidosNombre": "ESTEBAN URIBE, LEANDRO",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "1334061",
+    "ApellidosNombre": "MARIN PULIDO, PABLO",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "1333476",
+    "ApellidosNombre": "PEKSA -, DOMINIK ",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "889369",
+    "ApellidosNombre": "CRUZ RIVERA, JOSTIN ALEJANDRO",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "300648",
+    "ApellidosNombre": "CHAVEZ GOMEZ, THOMAS",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "1330638",
+    "ApellidosNombre": "MARTINEZ  LOPEZ-VILLALTRA, SERGIO ",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "1333624",
+    "ApellidosNombre": "BONET GONZÁLEZ, PEDRO",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "442617",
+    "ApellidosNombre": "BESTARD NIGORRA, MIQUEL",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "429665",
+    "ApellidosNombre": "JANIAK -, KRZYSZTOF",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "442703",
+    "ApellidosNombre": "MUÑOZ USON, HECTOR",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "1334302",
+    "ApellidosNombre": "ROSAS MUÑOZ, JUAN",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "387961",
+    "ApellidosNombre": "ALLOT DEL BURGO, ALEXANDER CARLOS",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "418210",
+    "ApellidosNombre": "CANHOTO SANZ, MARIO",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "1334369",
+    "ApellidosNombre": "SEGRAVE -, DANIEL ",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "366637",
+    "ApellidosNombre": "TORO GOMEZ, JOAN SEBASTIAN",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "888425",
+    "ApellidosNombre": "QUIROGA RAMOS, YAGO",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "391481",
+    "ApellidosNombre": "DOPICO RAMOS, IVAN",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "1321361",
+    "ApellidosNombre": "GOUDIE -, TYSON",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "454134",
+    "ApellidosNombre": "REDONDO GARCIA, AITOR",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "398073",
+    "ApellidosNombre": "LOPEZ CULEBRAS, ALFONSO",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "1324737",
+    "ApellidosNombre": "MARSOU -, EL AMINE",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "322574",
+    "ApellidosNombre": "MUÑOZ GARROTE, RAUL",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "402526",
+    "ApellidosNombre": "CARBALLO SÁNCHEZ, HUGO",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "432521",
+    "ApellidosNombre": "HERNÁNDEZ  CRUZ, ALEJANDRO",
+    "Puntos": "24",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "289085",
+    "ApellidosNombre": "SANCHEZ ROMERO, SERGIO",
+    "Puntos": "22",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "1312724",
+    "ApellidosNombre": "ROVIDA  CASTRO, JACOBO ",
+    "Puntos": "22",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "420483",
+    "ApellidosNombre": "HERNÁNDEZ MORÁN, ALBERTO JOSÉ",
+    "Puntos": "22",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "1338681",
+    "ApellidosNombre": "VELASCO MARTIN, DAVID",
+    "Puntos": "22",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "306923",
+    "ApellidosNombre": "BORDAS ROLAND, KEVIN",
+    "Puntos": "22",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "1345923",
+    "ApellidosNombre": "Niva , Mitchell Theodore",
+    "Puntos": "22",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "315659",
+    "ApellidosNombre": "MARTINEZ MARTINEZ, ANTONIO JAVIER",
+    "Puntos": "21",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "971445",
+    "ApellidosNombre": "HERNANDEZ LLORENTE, RAUL",
+    "Puntos": "21",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "1324293",
+    "ApellidosNombre": "FERNANDEZ VILLANUEVA, CARLOS",
+    "Puntos": "20",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "413860",
+    "ApellidosNombre": "CLAVIJO DOMINGUEZ, DANIEL",
+    "Puntos": "20",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "290245",
+    "ApellidosNombre": "DEL MAR CABALLERO, SAMUEL",
+    "Puntos": "20",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "1205441",
+    "ApellidosNombre": "BRACCAGNI -, GIULIO",
+    "Puntos": "20",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "297020",
+    "ApellidosNombre": "DE ARMAS GONZALEZ, GREGORIO",
+    "Puntos": "20",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "461373",
+    "ApellidosNombre": "CASTILLO FAJARDO, JAVIER",
+    "Puntos": "20",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "889086",
+    "ApellidosNombre": "RODRIGUEZ VEGA, AARON",
+    "Puntos": "20",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "456459",
+    "ApellidosNombre": "PEREZ CORREA, CARLOS EDUARDO",
+    "Puntos": "20",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "1205442",
+    "ApellidosNombre": "COPPINI -, DAVIDE ANDREA",
+    "Puntos": "20",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "1324543",
+    "ApellidosNombre": "GIOELE NACHO -, GIOELE NACHO",
+    "Puntos": "20",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "364549",
+    "ApellidosNombre": "HERBACH -, NIKO",
+    "Puntos": "20",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "1307088",
+    "ApellidosNombre": "HERBACH -, Sascha David",
+    "Puntos": "20",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "457792",
+    "ApellidosNombre": "RODRIGUEZ GARCIA, ACORAN",
+    "Puntos": "20",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "441012",
+    "ApellidosNombre": "LAVANDERA CONEJO, JORGE",
+    "Puntos": "20",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "435430",
+    "ApellidosNombre": "GUERRERO CASTELBLANCO, PABLO",
+    "Puntos": "20",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "1312398",
+    "ApellidosNombre": "RESTA -, HERNAN",
+    "Puntos": "20",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "460736",
+    "ApellidosNombre": "LAORDEN OTERO, HECTOR MIGUEL",
+    "Puntos": "20",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "886358",
+    "ApellidosNombre": "VOONG LU, ROBERT ZIZHEN",
+    "Puntos": "20",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "895640",
+    "ApellidosNombre": "GARCIA RODRIGUEZ, ALVARO",
+    "Puntos": "17",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "346633",
+    "ApellidosNombre": "GIL VELAZQUEZ, EDUARDO",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "429251",
+    "ApellidosNombre": "PERMUY GALMES, LUCAS",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "441583",
+    "ApellidosNombre": "KRUSCHEWSKY SANTOS, LUCAS",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "460708",
+    "ApellidosNombre": "GONZALEZ ARENAS, ALEJANDRO",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "1335822",
+    "ApellidosNombre": "SALINAS ZUÑIGA, CARLOS ANDRES ",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "295319",
+    "ApellidosNombre": "ROMAN CAMPOS, FRANCESC",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1331823",
+    "ApellidosNombre": "VRSALOVIC RADOVICH, STJEPAN IVAN",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "401448",
+    "ApellidosNombre": "PEREZ FIGUEROA, JORGE EZEQUIEL",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "427041",
+    "ApellidosNombre": "SOLER GARCÌA, JOAN",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "441013",
+    "ApellidosNombre": "PEPE RIVERA, MANUEL LEGOLAS",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "1326650",
+    "ApellidosNombre": "CORRADIN -, PAOLO",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "413175",
+    "ApellidosNombre": "FERNANDEZ DIEZ, MARIO",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "1329667",
+    "ApellidosNombre": "WEBER -, CHRISTIAN MICHAEL",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "398525",
+    "ApellidosNombre": "MENDEZ CUQUEJO, ADRIAN",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "889123",
+    "ApellidosNombre": "GARRIDO  GONZALEZ, XOAN",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "445657",
+    "ApellidosNombre": "MESTRE YUBERO, GUILLEM",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "370495",
+    "ApellidosNombre": "GARCIA RAYA, RODRIGO",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "894198",
+    "ApellidosNombre": "CAPSKIS -, ANTANAS",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "452207",
+    "ApellidosNombre": "KOTOV -, JAHIM",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "383107",
+    "ApellidosNombre": "DE AMORIM -, FRANK",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "433200",
+    "ApellidosNombre": "SANCHEZ CADENAS, NICOLAS",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "435239",
+    "ApellidosNombre": "ABRIL FERNANDEZ, JUAN MANUEL",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "436534",
+    "ApellidosNombre": "CAMPOS LEBRUSAN, AITOR",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "469091",
+    "ApellidosNombre": "MUS VILCHES, ALEXIS",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1326126",
+    "ApellidosNombre": "SCHALETZKY -, HANNES",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "264689",
+    "ApellidosNombre": "MOCHALES GONZALEZ, JORGE PEDRO",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "402964",
+    "ApellidosNombre": "TEJERA RODRIGUEZ, GUSTAVO JAVIER",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "1331824",
+    "ApellidosNombre": "OJEDA -, BRIAN JEREMIAS",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "437481",
+    "ApellidosNombre": "LEON SANCHEZ, ANTONIO",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "454986",
+    "ApellidosNombre": "SANTOME GOMEZ, DAVID",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "451668",
+    "ApellidosNombre": "MACIA FERNANDEZ, ADRIAN",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1308483",
+    "ApellidosNombre": "VALENS BARCELO, FRANCESC XAVIER",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "591701",
+    "ApellidosNombre": "GONZALEZ  MERINO, JUAN DIEGO",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "893743",
+    "ApellidosNombre": "DOS SANTOS MELO, JOAN",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "418551",
+    "ApellidosNombre": "RODRIGUEZ NAVARRO, AUGUSTO",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "1204935",
+    "ApellidosNombre": "RODRIGUEZ DE LEON, PABLO",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "1329670",
+    "ApellidosNombre": "AGAMENNONE -, ANDREA",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "1337664",
+    "ApellidosNombre": "PIMENTEL -, JOAO",
+    "Puntos": "16",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "461284",
+    "ApellidosNombre": "HERRERA PUERTA, DANIEL",
+    "Puntos": "15",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "1339547",
+    "ApellidosNombre": "AGUADE ESTIVILL, BERNAT",
+    "Puntos": "15",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "1332052",
+    "ApellidosNombre": "Schwienbacher -, Kristian",
+    "Puntos": "15",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1345261",
+    "ApellidosNombre": "VIDAL DE ARCE , IGNACIO",
+    "Puntos": "15",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "439256",
+    "ApellidosNombre": "CABAÑAS APARICIO, ALVARO",
+    "Puntos": "15",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "435657",
+    "ApellidosNombre": "MASERAS LOPEZ, NOAH",
+    "Puntos": "14",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "326535",
+    "ApellidosNombre": "GARCIA SORONDO, CARLOS",
+    "Puntos": "13",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1345924",
+    "ApellidosNombre": "Mainetti , Matteo",
+    "Puntos": "13",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "460052",
+    "ApellidosNombre": "CHAVES VALLE, HECTOR",
+    "Puntos": "12",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "390756",
+    "ApellidosNombre": "RIVERO GANDARA, MARIO",
+    "Puntos": "12",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "321791",
+    "ApellidosNombre": "MENDEZ ARGUELLES, PABLO",
+    "Puntos": "12",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "892982",
+    "ApellidosNombre": "RAJA HERNANDEZ, ANDRES",
+    "Puntos": "12",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "430171",
+    "ApellidosNombre": "GARVIN MARTIN, DANIEL",
+    "Puntos": "12",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "425119",
+    "ApellidosNombre": "MIRANDA ARGUDO, ANDRES",
+    "Puntos": "12",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "459696",
+    "ApellidosNombre": "TOBES RUIZ, CARLOS",
+    "Puntos": "12",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "402535",
+    "ApellidosNombre": "RIFE SÁNCHEZ, JAVIER",
+    "Puntos": "12",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "886365",
+    "ApellidosNombre": "GARRIDO FERNANDEZ, GONZALO",
+    "Puntos": "12",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "381734",
+    "ApellidosNombre": "GARCIA SAMPER, MARCOS",
+    "Puntos": "12",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "461480",
+    "ApellidosNombre": "SANTANA LORENZO, RUBEN",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "408983",
+    "ApellidosNombre": "RODRIGUEZ HERNANDEZ, PABLO",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "886497",
+    "ApellidosNombre": "MORENO PEREZ, MATTHEW ANTONIO",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1345259",
+    "ApellidosNombre": "PINCZURA , PIOTR",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "1324542",
+    "ApellidosNombre": "STASIUK -, ERNEST ALEKSANDER",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "415671",
+    "ApellidosNombre": "PERERA QUINTERO, CARLOS",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "447243",
+    "ApellidosNombre": "CHIRIVI -, SERGIO",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "427788",
+    "ApellidosNombre": "LEFAUCONNIER -, OLIVIER",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "1345892",
+    "ApellidosNombre": "MACHIN CEJAS, ALVARO",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "583992",
+    "ApellidosNombre": "COBAS ESTEBAN, EUSEBIO",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "891937",
+    "ApellidosNombre": "MARRERO BRITO, KEVIN",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "1205443",
+    "ApellidosNombre": "FERRO -, FRANCESCO",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "1324580",
+    "ApellidosNombre": "DIAZ RODRIGUEZ, JUAN DAVID",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "269182",
+    "ApellidosNombre": "CAVAS LEON, PEDRO JOSE",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "1326127",
+    "ApellidosNombre": "PIESLIKAS -, ANDRIUS",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1326129",
+    "ApellidosNombre": "CASATI -, MARCO",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "1337315",
+    "ApellidosNombre": "MOYA MILANES, SANTIAGO",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "441019",
+    "ApellidosNombre": "EUGENIO -, ALVARO",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "1312399",
+    "ApellidosNombre": "GHIZZO -, EUGENIO",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "461421",
+    "ApellidosNombre": "COBAS RAMOS, ALVARO",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "1204919",
+    "ApellidosNombre": "EDUARDO MELO, DANIEL",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "441096",
+    "ApellidosNombre": "HERNANDEZ CEDRES, JORGE",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "1204939",
+    "ApellidosNombre": "CAMPOS SUAREZ, PABLO",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "441170",
+    "ApellidosNombre": "MENDOZA GONZALEZ, JONAY",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "263258",
+    "ApellidosNombre": "ROMERO ABAD, JUAN",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "431001",
+    "ApellidosNombre": "FUENTES HERNANDEZ, IYAREY",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1205031",
+    "ApellidosNombre": "VIRGUEZ SANTANA, KLEBER GUIOBANI",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "395220",
+    "ApellidosNombre": "HERNANDEZ RAMOS, BRAYAN",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "429329",
+    "ApellidosNombre": "VERA VALLS, QUIM",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "Servigroup Poniente Benidorm"
+  },
+  {
+    "IdPersona": "891933",
+    "ApellidosNombre": "CLIMENT GOMEZ, CLAUDIO EZEQUIEL",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "1314610",
+    "ApellidosNombre": "KRUMINS -, DZEIKS EDUARDS",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1345893",
+    "ApellidosNombre": "CABRERA RAMOS, EDUARDO",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "1307369",
+    "ApellidosNombre": "OLIVA MARRERO, YOELIS",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1321182",
+    "ApellidosNombre": "VERA GONZALEZ, DAVID",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "1326128",
+    "ApellidosNombre": "PETKEVICIUS -, TADAS",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "1326130",
+    "ApellidosNombre": "WOLFF -, WILLI",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "461380",
+    "ApellidosNombre": "VALENCIA HERRERA, ALBERTO",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "345502",
+    "ApellidosNombre": "DIAZ DIAZ, VICTOR MANUEL",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "1204894",
+    "ApellidosNombre": "CUSTODIO -, RODRIGO",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "1339556",
+    "ApellidosNombre": "FERNANDEZ MUÑOZ, PABLO",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "889087",
+    "ApellidosNombre": "CAMPOS SUAREZ, HECTOR",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "321099",
+    "ApellidosNombre": "CUESTA GARCIA, CARLOS",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "442260",
+    "ApellidosNombre": "CASTAÑO DE LA MOTA, DAVID",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "462001",
+    "ApellidosNombre": "LOPEZ ARCE, VICTOR",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "900121",
+    "ApellidosNombre": "MORILLAS MARCO, IVAN PABLO",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "252979",
+    "ApellidosNombre": "VALENTIN QUIROGA, JAIME",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "1345925",
+    "ApellidosNombre": "Bachmann , Robin",
+    "Puntos": "10",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "457570",
+    "ApellidosNombre": "CASTRO SEOANE, HUGO",
+    "Puntos": "8",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "427245",
+    "ApellidosNombre": "GOMEZ GARCIA, CARLOS",
+    "Puntos": "8",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "1337663",
+    "ApellidosNombre": "FERREIRA -, HUGO",
+    "Puntos": "8",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "391653",
+    "ApellidosNombre": "FARIÑA MUINELO, DANIEL",
+    "Puntos": "8",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "1337662",
+    "ApellidosNombre": "CALADO JUNIOR, VALDINEI",
+    "Puntos": "8",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "427766",
+    "ApellidosNombre": "CARRASCAL HINOJO, JOSE MANUEL",
+    "Puntos": "6",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "321261",
+    "ApellidosNombre": "GOMEZ-REINO MARTINEZ, JOSE BRAIS",
+    "Puntos": "6",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "448489",
+    "ApellidosNombre": "GONZALEZ IBAÃ?EZ, ALBERT",
+    "Puntos": "6",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "427212",
+    "ApellidosNombre": "MARTINEZ LAFITA, DENNIS",
+    "Puntos": "6",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "307341",
+    "ApellidosNombre": "CAMA SAINZ-ROZAS, JESUS",
+    "Puntos": "6",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "332069",
+    "ApellidosNombre": "BOLADO FERNANDEZ, CARLOS",
+    "Puntos": "6",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "1312990",
+    "ApellidosNombre": "DIAZ PADILLA, JAIME",
+    "Puntos": "6",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "1345930",
+    "ApellidosNombre": "ESPOSTO , JUAN JOSÉ",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "326079",
+    "ApellidosNombre": "MARRERO VELASCO, FRANCISCO",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "1345932",
+    "ApellidosNombre": "OLIVERO FINOL, DANIEL ANDRES",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "268415",
+    "ApellidosNombre": "FERNANDEZ PEREZ, DANIEL",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "1338918",
+    "ApellidosNombre": "HIDALGO FUENTES, VICTOR",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "317825",
+    "ApellidosNombre": "ROMILLO LOPEZ, IKER",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1338920",
+    "ApellidosNombre": "MUNAR PALMER, MARTI",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "VP Madrid"
+  },
+  {
+    "IdPersona": "437471",
+    "ApellidosNombre": "ESPINO LEON, ANTONIO MANUEL",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "401548",
+    "ApellidosNombre": "GARCIA VALLEJO, MIGUEL",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "397542",
+    "ApellidosNombre": "CARDENES RODRIGUEZ, RUBEN",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "Switch Volley"
+  },
+  {
+    "IdPersona": "1345927",
+    "ApellidosNombre": "SANCHEZ CASANOVA , MIGUEL ANGEL",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1345929",
+    "ApellidosNombre": "ORTEGA DIAZ-ARIAS, ALBERTO",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "409028",
+    "ApellidosNombre": "ESTUPIÑAN PREDL, ARIDANE",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1345931",
+    "ApellidosNombre": "LOPES BERLANGA, DIEGO",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "463090",
+    "ApellidosNombre": "GARCIA VALLEJO, JONAS MANUEL",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "1338916",
+    "ApellidosNombre": "MARTIN OSORNO, HUGO",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "426739",
+    "ApellidosNombre": "ESPINO MARTINEZ, YAHVE OMAR",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  },
+  {
+    "IdPersona": "1338919",
+    "ApellidosNombre": "FERRERAS DOMINGUEZ, ALBERTO",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "291994",
+    "ApellidosNombre": "ARAÑA PADILLA, JORGE",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "VCP Barcelona"
+  },
+  {
+    "IdPersona": "252476",
+    "ApellidosNombre": "MARTIN TIRAND, XAVIER MIGUEL",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "Isla Maxorata"
+  },
+  {
+    "IdPersona": "1338926",
+    "ApellidosNombre": "PALADINI -, FERDINANDO",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "461320",
+    "ApellidosNombre": "KHLIFI EL KHALIFI, RAYAN",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1337218",
+    "ApellidosNombre": "DOMBROWE -, NOA JON ECKHARD",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "1345928",
+    "ApellidosNombre": "MIRANDA , ANDRES ANTONIO",
+    "Puntos": "5",
+    "EquipoVoleyPlaya": "Volei Praia Vigo"
+  },
+  {
+    "IdPersona": "327602",
+    "ApellidosNombre": "ARRIBAS VALBUENA, CARLOS",
+    "Puntos": "4",
+    "EquipoVoleyPlaya": "CVP NET 7 Gran Canaria"
+  },
+  {
+    "IdPersona": "1332261",
+    "ApellidosNombre": "SPOLANDER -, JONAS PETTER",
+    "Puntos": "4",
+    "EquipoVoleyPlaya": "Beachbol Valencia"
+  },
+  {
+    "IdPersona": "451682",
+    "ApellidosNombre": "BADIOLA SANCHEZ, ADRIAN",
+    "Puntos": "4",
+    "EquipoVoleyPlaya": "CV Las Rozas"
+  },
+  {
+    "IdPersona": "459715",
+    "ApellidosNombre": "PAZ RODRIGUEZ, PAUL",
+    "Puntos": "3",
+    "EquipoVoleyPlaya": "NZA Beach Volley Academia"
+  }
+]
