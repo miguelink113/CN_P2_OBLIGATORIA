@@ -1,6 +1,5 @@
 import boto3
 import json
-import sys
 
 kinesis_client = boto3.client('kinesis', region_name='us-east-1') 
 
@@ -16,7 +15,7 @@ def enviar_ranking_completo(ruta_archivo_json):
         for jugador in jugadores:
             response = kinesis_client.put_record(
                 StreamName=STREAM_NAME,
-                Data=json.dumps(jugador),
+                Data=json.dumps(jugador).encode('utf-8'),
                 PartitionKey=str(jugador['IdPersona'])
             )
             print(f"Enviado: {jugador['ApellidosNombre']} - Sequence: {response['SequenceNumber']}")
@@ -27,4 +26,4 @@ def enviar_ranking_completo(ruta_archivo_json):
         print(f"Error inesperado: {e}")
 
 if __name__ == "__main__":
-    enviar_ranking_completo('beach_voley_national_ranking.json')
+    enviar_ranking_completo('src/data/beach_voley_national_ranking.json')

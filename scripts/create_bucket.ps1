@@ -7,7 +7,10 @@ Write-Host "`n=== CONFIGURACIÓN DE ESTRUCTURA S3: VOLEY PLAYA ===" -ForegroundC
 
 # 2. CREACIÓN DEL BUCKET
 Write-Host "[1/2] Creando Bucket S3: $($env:BUCKET_NAME)..." -ForegroundColor Yellow
-aws s3 mb "s3://$env:BUCKET_NAME"
+aws s3 ls "s3://$env:BUCKET_NAME" 2>$null
+if ($LASTEXITCODE -ne 0) {
+    aws s3 mb "s3://$env:BUCKET_NAME"
+}
 
 # 3. CREACIÓN DE LA ESTRUCTURA OBLIGATORIA
 # Según el apartado 2.4.1 de la práctica, se requieren: raw, processed y config
