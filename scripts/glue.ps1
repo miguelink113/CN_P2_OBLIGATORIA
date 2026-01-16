@@ -1,124 +1,165 @@
 # =======================
-# CONFIGURACIÓN DE VARIABLES
+# VARIABLE CONFIGURATION
 # =======================
 $env:AWS_REGION = "us-east-1"
+$env:ACCOUNT_ID = (aws sts get-caller-identity --query Account --output text)
 
-# S3 bucket y rutas
-$BUCKET_NAME = "mi-bucket-glue"       # <- reemplaza con tu bucket
+$BASE_DIR = Split-Path -Parent $PSScriptRoot
+$JOBS_DIR = "$BASE_DIR\jobs"
+
+$BUCKET_NAME = "datalake-voley-ranking-$($env:ACCOUNT_ID)"
 $JOB1_SCRIPT = "points_category_classification.py"
 $JOB2_SCRIPT = "team_aggregation.py"
+
 $JOB1_OUTPUT = "s3://$BUCKET_NAME/processed/points_category/"
 $JOB2_OUTPUT = "s3://$BUCKET_NAME/processed/team_aggregation/"
 
-# Glue Role ARN
-$ROLE_ARN = "arn:aws:iam::123456789012:role/MyGlueRole"  # <- reemplaza con tu rol
+$ROLE_NAME = "LabRole"
+$GLUE_DB = "voley_db"
 
-# Nombres de jobs Glue
 $GLUE_JOB_1 = "points_category_classification"
 $GLUE_JOB_2 = "team_aggregation"
 
-# Nombre de base de datos Glue
-$GLUE_DB = "energy_db"
+$S3_RAW_DATA = "s3://$BUCKET_NAME/raw/"
+$CRAWLER_NAME = "glue_voley_crawler"
 
-Write-Host "=== VARIABLES CONFIGURADAS ===" -ForegroundColor Cyan
+$S3_PROCESSED_DATA = "s3://$BUCKET_NAME/processed/"
+$CRAWLER_PROCESSED_NAME = "glue_voley_processed_crawler"
+
+Write-Host "=== CONFIGURATION LOADED ===" -ForegroundColor Cyan
 
 # =======================
-# FUNCIONES
+# HELPER FUNCTIONS
 # =======================
 function New-TempJson {
     param($Content)
     $Path = [System.IO.Path]::GetTempFileName()
-    $Content | ConvertTo-Json -Depth 5 -Compress | Out-File -FilePath $Path -Encoding ASCII
+    $Content | ConvertTo-Json -Depth 10 -Compress | Out-File -FilePath $Path -Encoding ASCII
     return $Path
 }
 
 function Wait-ForJob {
     param($JobName, $RunId)
-    Write-Host "Esperando a que termine el job $JobName (Run ID: $RunId)..." -ForegroundColor Magenta
+    Write-Host "Waiting for Glue Job: $JobName..." -ForegroundColor Magenta
     do {
         Start-Sleep -Seconds 15
         $Status = (aws glue get-job-run --job-name $JobName --run-id $RunId --query 'JobRun.JobRunState' --output text).Trim()
-        Write-Host "  -> $JobName Status: $Status" -ForegroundColor Gray
-    } while ($Status -in "STARTING", "RUNNING", "STOPPING")
+        Write-Host "  -> Status: $Status" -ForegroundColor Gray
+    } while ($Status -in @("STARTING", "RUNNING", "STOPPING"))
     return $Status
 }
 
-# =======================
-# SUBIR SCRIPTS A S3
-# =======================
-Write-Host "`n[1/3] Subiendo scripts Spark a S3..." -ForegroundColor Cyan
-aws s3 cp "$PSScriptRoot/jobs/$JOB1_SCRIPT" "s3://$BUCKET_NAME/scripts/$JOB1_SCRIPT"
-aws s3 cp "$PSScriptRoot/jobs/$JOB2_SCRIPT" "s3://$BUCKET_NAME/scripts/$JOB2_SCRIPT"
+function Wait-ForCrawler {
+    param($Name)
+    Write-Host "Waiting for Crawler: $Name..." -ForegroundColor Magenta
+    do {
+        Start-Sleep -Seconds 10
+        $Status = (aws glue get-crawler --name $Name --query 'Crawler.State' --output text)
+        Write-Host "  -> State: $Status" -ForegroundColor Gray
+    } while ($Status -ne "READY")
+}
 
-# =======================
-# CREAR BASE DE DATOS GLUE
-# =======================
-Write-Host "`n[2/3] Creando base de datos Glue..." -ForegroundColor Cyan
-$DbInput = @{ Name = $GLUE_DB }
-$DbFile = New-TempJson -Content $DbInput
-aws glue create-database --database-input "file://$DbFile" 2>&1 | Out-Null
-Remove-Item $DbFile
-
-# =======================
-# CREAR JOBS GLUE
-# =======================
-Write-Host "`n[3/3] Creando jobs Glue..." -ForegroundColor Cyan
-
-function Create-GlueJob($JobName, $ScriptPath, $OutputPath) {
-    aws glue delete-job --job-name $JobName 2>&1 | Out-Null
-
-    $JobCommand = @{
-        Name           = "glueetl"
-        ScriptLocation = "s3://$BUCKET_NAME/scripts/$ScriptPath"
-        PythonVersion  = "3"
+function Wait-ForDeletion {
+    param($Name)
+    while ($true) {
+        $null = aws glue get-crawler --name $Name 2>$null
+        if ($LASTEXITCODE -ne 0) { break }
+        Start-Sleep -Seconds 5
     }
-    $JobArgs = @{
-        "--database"     = $GLUE_DB
-        "--table_name"   = "energy_consumption"
-        "--output_path"  = $OutputPath
-        "--job-language" = "python"
-    }
+}
 
-    $CmdFile = New-TempJson -Content $JobCommand
-    $ArgsFile = New-TempJson -Content $JobArgs
+# =======================
+# [1/4] UPLOAD SCRIPTS
+# =======================
+Write-Host "`n[1/4] Uploading Spark scripts to S3..." -ForegroundColor Cyan
+aws s3 cp "$JOBS_DIR\$JOB1_SCRIPT" "s3://$BUCKET_NAME/scripts/$JOB1_SCRIPT"
+aws s3 cp "$JOBS_DIR\$JOB2_SCRIPT" "s3://$BUCKET_NAME/scripts/$JOB2_SCRIPT"
 
-    aws glue create-job `
-        --name $JobName `
-        --role $ROLE_ARN `
-        --command "file://$CmdFile" `
-        --default-arguments "file://$ArgsFile" `
-        --glue-version "4.0" `
-        --number-of-workers 2 `
-        --worker-type "G.1X"
+# =======================
+# [2/4] CATALOG CONFIGURATION (RAW DATA)
+# =======================
+Write-Host "`n[2/4] Configuring Data Catalog..." -ForegroundColor Cyan
 
+# Create Database
+$null = aws glue create-database --database-input "{\"Name\":\"$GLUE_DB\"}" 2>$null
+
+# Recreate RAW Crawler
+$null = aws glue get-crawler --name $CRAWLER_NAME 2>$null
+if ($LASTEXITCODE -eq 0) {
+    aws glue delete-crawler --name $CRAWLER_NAME
+    Wait-ForDeletion $CRAWLER_NAME
+}
+
+$CRAWLER_TARGETS = "{\`"S3Targets\`": [{\`"Path\`": \`"$S3_RAW_DATA\`"}]}"
+aws glue create-crawler --name $CRAWLER_NAME --role $ROLE_NAME --database-name $GLUE_DB --targets $CRAWLER_TARGETS
+
+# Run RAW Crawler to detect tables
+Write-Host "Running RAW Crawler..." -ForegroundColor Yellow
+$null = aws glue start-crawler --name $CRAWLER_NAME
+Wait-ForCrawler $CRAWLER_NAME
+
+$TABLE_NAME = (aws glue get-tables --database-name $GLUE_DB --query "TableList[0].Name" --output text).Trim().Replace('"','')
+Write-Host "Table detected: $TABLE_NAME" -ForegroundColor Green
+
+# =======================
+# [3/4] GLUE JOB PROVISIONING
+# =======================
+Write-Host "`n[3/4] Creating Glue ETL Jobs..." -ForegroundColor Cyan
+
+function Create-GlueJob($JobName, $ScriptName, $OutputPath) {
+    $null = aws glue delete-job --job-name $JobName 2>$null
+
+    $JobCommand = @{ Name = "glueetl"; ScriptLocation = "s3://$BUCKET_NAME/scripts/$ScriptName"; PythonVersion = "3" }
+    $JobArgs = @{ "--job-language" = "python"; "--output_path" = $OutputPath; "--database" = $GLUE_DB; "--table_name" = $TABLE_NAME }
+
+    $CmdFile  = New-TempJson $JobCommand
+    $ArgsFile = New-TempJson $JobArgs
+
+    aws glue create-job --name $JobName --role $ROLE_NAME --command "file://$CmdFile" --default-arguments "file://$ArgsFile" --glue-version "4.0" --worker-type "G.1X" --number-of-workers 2
     Remove-Item $CmdFile, $ArgsFile
 }
 
-Create-GlueJob -JobName $GLUE_JOB_1 -ScriptPath $JOB1_SCRIPT -OutputPath $JOB1_OUTPUT
-Create-GlueJob -JobName $GLUE_JOB_2 -ScriptPath $JOB2_SCRIPT -OutputPath $JOB2_OUTPUT
+Create-GlueJob $GLUE_JOB_1 $JOB1_SCRIPT $JOB1_OUTPUT
+Create-GlueJob $GLUE_JOB_2 $JOB2_SCRIPT $JOB2_OUTPUT
 
 # =======================
-# EJECUCIÓN SECUENCIAL DE JOBS
+# [4/4] SEQUENTIAL EXECUTION
 # =======================
-Write-Host "`n=== EJECUTANDO JOB GLUE: $GLUE_JOB_1 ===" -ForegroundColor Yellow
-$jobRun1 = (aws glue start-job-run --job-name $GLUE_JOB_1 --query 'JobRunId' --output text).Trim()
-if (-not $jobRun1) { Write-Host "No se pudo iniciar $GLUE_JOB_1" -ForegroundColor Red; exit }
 
-$status1 = Wait-ForJob -JobName $GLUE_JOB_1 -RunId $jobRun1
-Write-Host "Primer job finalizado con estado: $status1" -ForegroundColor Green
+Write-Host "`n[4/4] Executing Pipeline..." -ForegroundColor Cyan
 
+# Job 1
+$jobRun1 = aws glue start-job-run --job-name $GLUE_JOB_1 --query 'JobRunId' --output text
+$status1 = Wait-ForJob $GLUE_JOB_1 $jobRun1
+
+# Job 2 (Only if Job 1 Succeeded)
 if ($status1 -eq "SUCCEEDED") {
-    Write-Host "`n=== EJECUTANDO JOB GLUE: $GLUE_JOB_2 ===" -ForegroundColor Yellow
-    $jobRun2 = (aws glue start-job-run --job-name $GLUE_JOB_2 --query 'JobRunId' --output text).Trim()
-    if (-not $jobRun2) { Write-Host "No se pudo iniciar $GLUE_JOB_2" -ForegroundColor Red; exit }
-
-    $status2 = Wait-ForJob -JobName $GLUE_JOB_2 -RunId $jobRun2
-    Write-Host "Segundo job finalizado con estado: $status2" -ForegroundColor Green
+    $jobRun2 = aws glue start-job-run --job-name $GLUE_JOB_2 --query 'JobRunId' --output text
+    $status2 = Wait-ForJob $GLUE_JOB_2 $jobRun2
 } else {
-    Write-Host "Primer job falló. Se omite la ejecución del segundo job." -ForegroundColor Red
+    Write-Host "Job 1 Failed. Skipping Job 2." -ForegroundColor Red
     $status2 = "SKIPPED"
 }
 
-Write-Host "`n=== PIPELINE FINALIZADO ===" -ForegroundColor Cyan
-Write-Host "$GLUE_JOB_1: $status1"
-Write-Host "$GLUE_JOB_2: $status2"
+# =======================
+# POST-PROCESSING: CATALOG PROCESSED DATA
+# =======================
+Write-Host "`n=== REGISTERING PROCESSED TABLES ===" -ForegroundColor Cyan
+
+$null = aws glue get-crawler --name $CRAWLER_PROCESSED_NAME 2>$null
+if ($LASTEXITCODE -eq 0) {
+    aws glue delete-crawler --name $CRAWLER_PROCESSED_NAME
+    Wait-ForDeletion $CRAWLER_PROCESSED_NAME
+}
+
+$PROCESSED_TARGETS = "{\`"S3Targets\`": [{\`"Path\`": \`"$S3_PROCESSED_DATA\`"}]}"
+aws glue create-crawler --name $CRAWLER_PROCESSED_NAME --role $ROLE_NAME --database-name $GLUE_DB --targets $PROCESSED_TARGETS
+
+Write-Host "Running Processed Data Crawler..." -ForegroundColor Yellow
+$null = aws glue start-crawler --name $CRAWLER_PROCESSED_NAME
+Wait-ForCrawler $CRAWLER_PROCESSED_NAME
+
+Write-Host "`n=== PIPELINE FINISHED ===" -ForegroundColor Cyan
+Write-Host "$GLUE_JOB_1 : $status1"
+Write-Host "$GLUE_JOB_2 : $status2"
+Write-Host "Processed tables are now available in Glue Catalog." -ForegroundColor Green
