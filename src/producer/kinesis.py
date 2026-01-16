@@ -1,3 +1,4 @@
+import time
 import boto3
 import json
 
@@ -18,6 +19,7 @@ def enviar_ranking_completo(ruta_archivo_json):
                 Data=json.dumps(jugador).encode('utf-8'),
                 PartitionKey=str(jugador['IdPersona'])
             )
+            time.sleep(0.05)  # pequeña pausa para no saturar
             print(f"Enviado: {jugador['ApellidosNombre']} - Sequence: {response['SequenceNumber']}")
 
     except FileNotFoundError:
